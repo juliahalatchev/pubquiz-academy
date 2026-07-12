@@ -8658,5 +8658,8607 @@
     "tags": [
       "variant"
     ]
+  },
+  {
+    "id": 501,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Japan?",
+    "options": [
+      "yen",
+      "baht",
+      "renminbi/yuan",
+      "złoty"
+    ],
+    "answer": 0,
+    "explanation": "I Japan används yen.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 502,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan yen?",
+    "options": [
+      "Australien",
+      "Singapore",
+      "Saudiarabien",
+      "Japan"
+    ],
+    "answer": 3,
+    "explanation": "Yen används i Japan.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 503,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Storbritannien?",
+    "options": [
+      "isländsk krona",
+      "złoty",
+      "dong",
+      "pund sterling"
+    ],
+    "answer": 3,
+    "explanation": "I Storbritannien används pund sterling.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 504,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan pund sterling?",
+    "options": [
+      "Japan",
+      "Turkiet",
+      "Storbritannien",
+      "Förenade arabemiraten"
+    ],
+    "answer": 2,
+    "explanation": "Pund sterling används i Storbritannien.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 505,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Schweiz?",
+    "options": [
+      "schweizerfranc",
+      "argentinsk peso",
+      "won",
+      "rupie"
+    ],
+    "answer": 0,
+    "explanation": "I Schweiz används schweizerfranc.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 506,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan schweizerfranc?",
+    "options": [
+      "Norge",
+      "Turkiet",
+      "Schweiz",
+      "Thailand"
+    ],
+    "answer": 2,
+    "explanation": "Schweizerfranc används i Schweiz.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 507,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Polen?",
+    "options": [
+      "złoty",
+      "rupiah",
+      "pund sterling",
+      "amerikansk dollar"
+    ],
+    "answer": 0,
+    "explanation": "I Polen används złoty.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 508,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan złoty?",
+    "options": [
+      "Indonesien",
+      "Polen",
+      "USA",
+      "Australien"
+    ],
+    "answer": 1,
+    "explanation": "Złoty används i Polen.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 509,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Tjeckien?",
+    "options": [
+      "nyzeeländsk dollar",
+      "dansk krona",
+      "svensk krona",
+      "tjeckisk koruna"
+    ],
+    "answer": 3,
+    "explanation": "I Tjeckien används tjeckisk koruna.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 510,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan tjeckisk koruna?",
+    "options": [
+      "Australien",
+      "Ungern",
+      "Thailand",
+      "Tjeckien"
+    ],
+    "answer": 3,
+    "explanation": "Tjeckisk koruna används i Tjeckien.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 511,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Ungern?",
+    "options": [
+      "amerikansk dollar",
+      "forint",
+      "real",
+      "australisk dollar"
+    ],
+    "answer": 1,
+    "explanation": "I Ungern används forint.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 512,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan forint?",
+    "options": [
+      "Vietnam",
+      "Japan",
+      "Ungern",
+      "Sverige"
+    ],
+    "answer": 2,
+    "explanation": "Forint används i Ungern.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 513,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Danmark?",
+    "options": [
+      "nyzeeländsk dollar",
+      "singaporiansk dollar",
+      "renminbi/yuan",
+      "dansk krona"
+    ],
+    "answer": 3,
+    "explanation": "I Danmark används dansk krona.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 514,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan dansk krona?",
+    "options": [
+      "Nya Zeeland",
+      "Kanada",
+      "Danmark",
+      "Sverige"
+    ],
+    "answer": 2,
+    "explanation": "Dansk krona används i Danmark.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 515,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Norge?",
+    "options": [
+      "shekel",
+      "kanadensisk dollar",
+      "rupie",
+      "norsk krona"
+    ],
+    "answer": 3,
+    "explanation": "I Norge används norsk krona.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 516,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan norsk krona?",
+    "options": [
+      "Norge",
+      "Argentina",
+      "Förenade arabemiraten",
+      "Sverige"
+    ],
+    "answer": 0,
+    "explanation": "Norsk krona används i Norge.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 517,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Island?",
+    "options": [
+      "turkisk lira",
+      "shekel",
+      "pund sterling",
+      "isländsk krona"
+    ],
+    "answer": 3,
+    "explanation": "I Island används isländsk krona.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 518,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan isländsk krona?",
+    "options": [
+      "Kina",
+      "Sverige",
+      "Island",
+      "Bulgarien"
+    ],
+    "answer": 2,
+    "explanation": "Isländsk krona används i Island.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 519,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i USA?",
+    "options": [
+      "forint",
+      "kanadensisk dollar",
+      "amerikansk dollar",
+      "dong"
+    ],
+    "answer": 2,
+    "explanation": "I USA används amerikansk dollar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 520,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan amerikansk dollar?",
+    "options": [
+      "Egypten",
+      "Argentina",
+      "Thailand",
+      "USA"
+    ],
+    "answer": 3,
+    "explanation": "Amerikansk dollar används i USA.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 521,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Kanada?",
+    "options": [
+      "won",
+      "dong",
+      "kanadensisk dollar",
+      "argentinsk peso"
+    ],
+    "answer": 2,
+    "explanation": "I Kanada används kanadensisk dollar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 522,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan kanadensisk dollar?",
+    "options": [
+      "Vietnam",
+      "Saudiarabien",
+      "Kanada",
+      "Brasilien"
+    ],
+    "answer": 2,
+    "explanation": "Kanadensisk dollar används i Kanada.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 523,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Australien?",
+    "options": [
+      "australisk dollar",
+      "rupiah",
+      "dong",
+      "forint"
+    ],
+    "answer": 0,
+    "explanation": "I Australien används australisk dollar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 524,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan australisk dollar?",
+    "options": [
+      "Mexiko",
+      "Kina",
+      "Australien",
+      "Schweiz"
+    ],
+    "answer": 2,
+    "explanation": "Australisk dollar används i Australien.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 525,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Nya Zeeland?",
+    "options": [
+      "riyal",
+      "nyzeeländsk dollar",
+      "norsk krona",
+      "real"
+    ],
+    "answer": 1,
+    "explanation": "I Nya Zeeland används nyzeeländsk dollar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 526,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan nyzeeländsk dollar?",
+    "options": [
+      "Indonesien",
+      "Nya Zeeland",
+      "Egypten",
+      "Sverige"
+    ],
+    "answer": 1,
+    "explanation": "Nyzeeländsk dollar används i Nya Zeeland.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 527,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Kina?",
+    "options": [
+      "australisk dollar",
+      "leu",
+      "renminbi/yuan",
+      "argentinsk peso"
+    ],
+    "answer": 2,
+    "explanation": "I Kina används renminbi/yuan.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 528,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan renminbi/yuan?",
+    "options": [
+      "Kroatien",
+      "Thailand",
+      "Argentina",
+      "Kina"
+    ],
+    "answer": 3,
+    "explanation": "Renminbi/yuan används i Kina.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 529,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Indien?",
+    "options": [
+      "rupie",
+      "lev",
+      "tjeckisk koruna",
+      "dinar"
+    ],
+    "answer": 0,
+    "explanation": "I Indien används rupie.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 530,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan rupie?",
+    "options": [
+      "Indien",
+      "Saudiarabien",
+      "Sverige",
+      "Bulgarien"
+    ],
+    "answer": 0,
+    "explanation": "Rupie används i Indien.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 531,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Sydkorea?",
+    "options": [
+      "yen",
+      "dansk krona",
+      "baht",
+      "won"
+    ],
+    "answer": 3,
+    "explanation": "I Sydkorea används won.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 532,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan won?",
+    "options": [
+      "Egypten",
+      "Norge",
+      "Bulgarien",
+      "Sydkorea"
+    ],
+    "answer": 3,
+    "explanation": "Won används i Sydkorea.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 533,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Thailand?",
+    "options": [
+      "norsk krona",
+      "rupiah",
+      "tjeckisk koruna",
+      "baht"
+    ],
+    "answer": 3,
+    "explanation": "I Thailand används baht.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 534,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan baht?",
+    "options": [
+      "Thailand",
+      "Brasilien",
+      "Saudiarabien",
+      "Storbritannien"
+    ],
+    "answer": 0,
+    "explanation": "Baht används i Thailand.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 535,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Vietnam?",
+    "options": [
+      "argentinsk peso",
+      "tjeckisk koruna",
+      "dong",
+      "svensk krona"
+    ],
+    "answer": 2,
+    "explanation": "I Vietnam används dong.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 536,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan dong?",
+    "options": [
+      "Vietnam",
+      "Brasilien",
+      "Norge",
+      "USA"
+    ],
+    "answer": 0,
+    "explanation": "Dong används i Vietnam.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 537,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Indonesien?",
+    "options": [
+      "renminbi/yuan",
+      "rupiah",
+      "dansk krona",
+      "forint"
+    ],
+    "answer": 1,
+    "explanation": "I Indonesien används rupiah.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 538,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan rupiah?",
+    "options": [
+      "Israel",
+      "Indonesien",
+      "Australien",
+      "Kina"
+    ],
+    "answer": 1,
+    "explanation": "Rupiah används i Indonesien.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 539,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Turkiet?",
+    "options": [
+      "isländsk krona",
+      "lev",
+      "turkisk lira",
+      "riyal"
+    ],
+    "answer": 2,
+    "explanation": "I Turkiet används turkisk lira.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 540,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan turkisk lira?",
+    "options": [
+      "Turkiet",
+      "Nya Zeeland",
+      "Brasilien",
+      "Indonesien"
+    ],
+    "answer": 0,
+    "explanation": "Turkisk lira används i Turkiet.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 541,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Mexiko?",
+    "options": [
+      "renminbi/yuan",
+      "mexikansk peso",
+      "singaporiansk dollar",
+      "egyptiskt pund"
+    ],
+    "answer": 1,
+    "explanation": "I Mexiko används mexikansk peso.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 542,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan mexikansk peso?",
+    "options": [
+      "Sydafrika",
+      "Schweiz",
+      "Vietnam",
+      "Mexiko"
+    ],
+    "answer": 3,
+    "explanation": "Mexikansk peso används i Mexiko.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 543,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Brasilien?",
+    "options": [
+      "real",
+      "shekel",
+      "euro",
+      "pund sterling"
+    ],
+    "answer": 0,
+    "explanation": "I Brasilien används real.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 544,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan real?",
+    "options": [
+      "Brasilien",
+      "Argentina",
+      "Serbien",
+      "Schweiz"
+    ],
+    "answer": 0,
+    "explanation": "Real används i Brasilien.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 545,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Argentina?",
+    "options": [
+      "turkisk lira",
+      "forint",
+      "argentinsk peso",
+      "isländsk krona"
+    ],
+    "answer": 2,
+    "explanation": "I Argentina används argentinsk peso.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 546,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan argentinsk peso?",
+    "options": [
+      "Argentina",
+      "Indien",
+      "Sydafrika",
+      "Kina"
+    ],
+    "answer": 0,
+    "explanation": "Argentinsk peso används i Argentina.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 547,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Sydafrika?",
+    "options": [
+      "singaporiansk dollar",
+      "rand",
+      "euro",
+      "kanadensisk dollar"
+    ],
+    "answer": 1,
+    "explanation": "I Sydafrika används rand.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 548,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan rand?",
+    "options": [
+      "Sydafrika",
+      "Kina",
+      "Vietnam",
+      "Bulgarien"
+    ],
+    "answer": 0,
+    "explanation": "Rand används i Sydafrika.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 549,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Egypten?",
+    "options": [
+      "egyptiskt pund",
+      "dinar",
+      "złoty",
+      "baht"
+    ],
+    "answer": 0,
+    "explanation": "I Egypten används egyptiskt pund.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 550,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan egyptiskt pund?",
+    "options": [
+      "Polen",
+      "Australien",
+      "Japan",
+      "Egypten"
+    ],
+    "answer": 3,
+    "explanation": "Egyptiskt pund används i Egypten.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 551,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Marocko?",
+    "options": [
+      "shekel",
+      "lev",
+      "dirham",
+      "real"
+    ],
+    "answer": 2,
+    "explanation": "I Marocko används dirham.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 552,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan dirham?",
+    "options": [
+      "Marocko",
+      "Norge",
+      "Japan",
+      "Kroatien"
+    ],
+    "answer": 0,
+    "explanation": "Dirham används i Marocko.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 553,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Saudiarabien?",
+    "options": [
+      "forint",
+      "pund sterling",
+      "renminbi/yuan",
+      "riyal"
+    ],
+    "answer": 3,
+    "explanation": "I Saudiarabien används riyal.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 554,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan riyal?",
+    "options": [
+      "Sverige",
+      "Australien",
+      "Saudiarabien",
+      "Egypten"
+    ],
+    "answer": 2,
+    "explanation": "Riyal används i Saudiarabien.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 555,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Förenade arabemiraten?",
+    "options": [
+      "renminbi/yuan",
+      "real",
+      "argentinsk peso",
+      "dirham"
+    ],
+    "answer": 3,
+    "explanation": "I Förenade arabemiraten används dirham.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 556,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Israel?",
+    "options": [
+      "złoty",
+      "turkisk lira",
+      "rand",
+      "shekel"
+    ],
+    "answer": 3,
+    "explanation": "I Israel används shekel.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 557,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan shekel?",
+    "options": [
+      "Japan",
+      "Argentina",
+      "Indonesien",
+      "Israel"
+    ],
+    "answer": 3,
+    "explanation": "Shekel används i Israel.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 558,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Rumänien?",
+    "options": [
+      "forint",
+      "leu",
+      "real",
+      "amerikansk dollar"
+    ],
+    "answer": 1,
+    "explanation": "I Rumänien används leu.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 559,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan leu?",
+    "options": [
+      "Kina",
+      "Nya Zeeland",
+      "Rumänien",
+      "Sverige"
+    ],
+    "answer": 2,
+    "explanation": "Leu används i Rumänien.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 560,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Bulgarien?",
+    "options": [
+      "lev",
+      "kanadensisk dollar",
+      "argentinsk peso",
+      "yen"
+    ],
+    "answer": 0,
+    "explanation": "I Bulgarien används lev.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 561,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan lev?",
+    "options": [
+      "Bulgarien",
+      "Sydafrika",
+      "Vietnam",
+      "Polen"
+    ],
+    "answer": 0,
+    "explanation": "Lev används i Bulgarien.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 562,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Serbien?",
+    "options": [
+      "tjeckisk koruna",
+      "norsk krona",
+      "dinar",
+      "leu"
+    ],
+    "answer": 2,
+    "explanation": "I Serbien används dinar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 563,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan dinar?",
+    "options": [
+      "Storbritannien",
+      "Japan",
+      "Ungern",
+      "Serbien"
+    ],
+    "answer": 3,
+    "explanation": "Dinar används i Serbien.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 564,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Kroatien?",
+    "options": [
+      "isländsk krona",
+      "egyptiskt pund",
+      "euro",
+      "rupiah"
+    ],
+    "answer": 2,
+    "explanation": "I Kroatien används euro.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 565,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan euro?",
+    "options": [
+      "Sydafrika",
+      "Kroatien",
+      "Norge",
+      "Turkiet"
+    ],
+    "answer": 1,
+    "explanation": "Euro används i Kroatien.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 566,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Sverige?",
+    "options": [
+      "australisk dollar",
+      "dansk krona",
+      "svensk krona",
+      "forint"
+    ],
+    "answer": 2,
+    "explanation": "I Sverige används svensk krona.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 567,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan svensk krona?",
+    "options": [
+      "Japan",
+      "Förenade arabemiraten",
+      "Sverige",
+      "Kroatien"
+    ],
+    "answer": 2,
+    "explanation": "Svensk krona används i Sverige.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 568,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken valuta används i Singapore?",
+    "options": [
+      "singaporiansk dollar",
+      "turkisk lira",
+      "argentinsk peso",
+      "isländsk krona"
+    ],
+    "answer": 0,
+    "explanation": "I Singapore används singaporiansk dollar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 569,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land används valutan singaporiansk dollar?",
+    "options": [
+      "Turkiet",
+      "Singapore",
+      "Israel",
+      "Sverige"
+    ],
+    "answer": 1,
+    "explanation": "Singaporiansk dollar används i Singapore.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 570,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Brasilien?",
+    "options": [
+      "irländska och engelska",
+      "tyska",
+      "portugisiska",
+      "amhariska"
+    ],
+    "answer": 2,
+    "explanation": "I Brasilien är portugisiska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 571,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Österrike?",
+    "options": [
+      "ungerska",
+      "indonesiska",
+      "koreanska",
+      "tyska"
+    ],
+    "answer": 3,
+    "explanation": "I Österrike är tyska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 572,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Iran?",
+    "options": [
+      "nederländska, franska och tyska",
+      "indonesiska",
+      "persiska",
+      "irländska och engelska"
+    ],
+    "answer": 2,
+    "explanation": "I Iran är persiska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 573,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Egypten?",
+    "options": [
+      "arabiska",
+      "thailändska",
+      "finska och svenska",
+      "swahili och engelska"
+    ],
+    "answer": 0,
+    "explanation": "I Egypten är arabiska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 574,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Argentina?",
+    "options": [
+      "engelska och franska",
+      "nederländska, franska och tyska",
+      "spanska",
+      "swahili och engelska"
+    ],
+    "answer": 2,
+    "explanation": "I Argentina är spanska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 575,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Angola?",
+    "options": [
+      "tjeckiska",
+      "koreanska",
+      "ungerska",
+      "portugisiska"
+    ],
+    "answer": 3,
+    "explanation": "I Angola är portugisiska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 576,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Mozambique?",
+    "options": [
+      "filippinska och engelska",
+      "tyska",
+      "portugisiska",
+      "hebreiska"
+    ],
+    "answer": 2,
+    "explanation": "I Mozambique är portugisiska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 577,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Nederländerna?",
+    "options": [
+      "isländska",
+      "tjeckiska",
+      "spanska",
+      "nederländska"
+    ],
+    "answer": 3,
+    "explanation": "I Nederländerna är nederländska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 578,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Belgien?",
+    "options": [
+      "nederländska",
+      "tyska",
+      "nederländska, franska och tyska",
+      "koreanska"
+    ],
+    "answer": 2,
+    "explanation": "I Belgien är nederländska, franska och tyska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 579,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Finland?",
+    "options": [
+      "spanska",
+      "irländska och engelska",
+      "turkiska",
+      "finska och svenska"
+    ],
+    "answer": 3,
+    "explanation": "I Finland är finska och svenska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 580,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Irland?",
+    "options": [
+      "turkiska",
+      "amhariska",
+      "irländska och engelska",
+      "nederländska"
+    ],
+    "answer": 2,
+    "explanation": "I Irland är irländska och engelska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 581,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Kanada?",
+    "options": [
+      "spanska",
+      "engelska och franska",
+      "thailändska",
+      "nederländska, franska och tyska"
+    ],
+    "answer": 1,
+    "explanation": "I Kanada är engelska och franska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 582,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Schweiz?",
+    "options": [
+      "isländska",
+      "nederländska",
+      "koreanska",
+      "tyska, franska, italienska och rätoromanska"
+    ],
+    "answer": 3,
+    "explanation": "I Schweiz är tyska, franska, italienska och rätoromanska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 583,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Turkiet?",
+    "options": [
+      "tyska, franska, italienska och rätoromanska",
+      "isländska",
+      "turkiska",
+      "filippinska och engelska"
+    ],
+    "answer": 2,
+    "explanation": "I Turkiet är turkiska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 584,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Ungern?",
+    "options": [
+      "koreanska",
+      "indonesiska",
+      "tjeckiska",
+      "ungerska"
+    ],
+    "answer": 3,
+    "explanation": "I Ungern är ungerska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 585,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Polen?",
+    "options": [
+      "indonesiska",
+      "finska och svenska",
+      "polska",
+      "isländska"
+    ],
+    "answer": 2,
+    "explanation": "I Polen är polska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 586,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Tjeckien?",
+    "options": [
+      "nederländska, franska och tyska",
+      "tjeckiska",
+      "persiska",
+      "filippinska och engelska"
+    ],
+    "answer": 1,
+    "explanation": "I Tjeckien är tjeckiska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 587,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Rumänien?",
+    "options": [
+      "koreanska",
+      "spanska",
+      "rumänska",
+      "isländska"
+    ],
+    "answer": 2,
+    "explanation": "I Rumänien är rumänska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 588,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Grekland?",
+    "options": [
+      "tyska, franska, italienska och rätoromanska",
+      "tjeckiska",
+      "grekiska",
+      "polska"
+    ],
+    "answer": 2,
+    "explanation": "I Grekland är grekiska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 589,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Israel?",
+    "options": [
+      "hebreiska",
+      "arabiska",
+      "indonesiska",
+      "portugisiska"
+    ],
+    "answer": 0,
+    "explanation": "I Israel är hebreiska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 590,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Japan?",
+    "options": [
+      "vietnamesiska",
+      "thailändska",
+      "amhariska",
+      "japanska"
+    ],
+    "answer": 3,
+    "explanation": "I Japan är japanska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 591,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Sydkorea?",
+    "options": [
+      "indonesiska",
+      "koreanska",
+      "arabiska",
+      "turkiska"
+    ],
+    "answer": 1,
+    "explanation": "I Sydkorea är koreanska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 592,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Thailand?",
+    "options": [
+      "thailändska",
+      "spanska",
+      "arabiska",
+      "irländska och engelska"
+    ],
+    "answer": 0,
+    "explanation": "I Thailand är thailändska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 593,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Vietnam?",
+    "options": [
+      "thailändska",
+      "filippinska och engelska",
+      "vietnamesiska",
+      "turkiska"
+    ],
+    "answer": 2,
+    "explanation": "I Vietnam är vietnamesiska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 594,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Indonesien?",
+    "options": [
+      "polska",
+      "indonesiska",
+      "spanska",
+      "persiska"
+    ],
+    "answer": 1,
+    "explanation": "I Indonesien är indonesiska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 595,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Filippinerna?",
+    "options": [
+      "indonesiska",
+      "nederländska",
+      "persiska",
+      "filippinska och engelska"
+    ],
+    "answer": 3,
+    "explanation": "I Filippinerna är filippinska och engelska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 596,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Kenya?",
+    "options": [
+      "finska och svenska",
+      "polska",
+      "swahili och engelska",
+      "irländska och engelska"
+    ],
+    "answer": 2,
+    "explanation": "I Kenya är swahili och engelska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 597,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Tanzania?",
+    "options": [
+      "amhariska",
+      "swahili och engelska",
+      "arabiska",
+      "koreanska"
+    ],
+    "answer": 1,
+    "explanation": "I Tanzania är swahili och engelska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 598,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Etiopien?",
+    "options": [
+      "amhariska",
+      "indonesiska",
+      "swahili och engelska",
+      "thailändska"
+    ],
+    "answer": 0,
+    "explanation": "I Etiopien är amhariska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 599,
+    "category": "Språk",
+    "difficulty": 2,
+    "question": "Vilket av följande är officiellt språk i Island?",
+    "options": [
+      "amhariska",
+      "finska och svenska",
+      "swahili och engelska",
+      "isländska"
+    ],
+    "answer": 3,
+    "explanation": "I Island är isländska officiellt språk.",
+    "tags": [
+      "språk",
+      "länder"
+    ]
+  },
+  {
+    "id": 600,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Zeus främst med?",
+    "options": [
+      "himmel och åska",
+      "jakt",
+      "vin och extas",
+      "krig"
+    ],
+    "answer": 0,
+    "explanation": "Zeus förknippas främst med himmel och åska.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 601,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med himmel och åska?",
+    "options": [
+      "Freja",
+      "Zeus",
+      "Artemis",
+      "Hera"
+    ],
+    "answer": 1,
+    "explanation": "Zeus förknippas främst med himmel och åska.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 602,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Poseidon främst med?",
+    "options": [
+      "kärlek och skönhet",
+      "havet",
+      "himmel och åska",
+      "kärlek och fruktbarhet"
+    ],
+    "answer": 1,
+    "explanation": "Poseidon förknippas främst med havet.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 603,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med havet?",
+    "options": [
+      "Dionysos",
+      "Hades",
+      "Poseidon",
+      "Artemis"
+    ],
+    "answer": 2,
+    "explanation": "Poseidon förknippas främst med havet.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 604,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Hades främst med?",
+    "options": [
+      "underjorden",
+      "rätt och strid",
+      "åska",
+      "kärlek och skönhet"
+    ],
+    "answer": 0,
+    "explanation": "Hades förknippas främst med underjorden.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 605,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med underjorden?",
+    "options": [
+      "Hel",
+      "Freja",
+      "Loke",
+      "Hades"
+    ],
+    "answer": 3,
+    "explanation": "Hades förknippas främst med underjorden.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 606,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Athena främst med?",
+    "options": [
+      "vishet och krig",
+      "ljus och renhet",
+      "vishet och strategisk krigföring",
+      "kärlek och fruktbarhet"
+    ],
+    "answer": 2,
+    "explanation": "Athena förknippas främst med vishet och strategisk krigföring.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 607,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med vishet och strategisk krigföring?",
+    "options": [
+      "Athena",
+      "Tor",
+      "Tyr",
+      "Hermes"
+    ],
+    "answer": 0,
+    "explanation": "Athena förknippas främst med vishet och strategisk krigföring.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 608,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Ares främst med?",
+    "options": [
+      "budbärare och handel",
+      "himmel och åska",
+      "krig",
+      "ljus och renhet"
+    ],
+    "answer": 2,
+    "explanation": "Ares förknippas främst med krig.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 609,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med krig?",
+    "options": [
+      "Hel",
+      "Poseidon",
+      "Athena",
+      "Ares"
+    ],
+    "answer": 3,
+    "explanation": "Ares förknippas främst med krig.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 610,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Afrodite främst med?",
+    "options": [
+      "vin och extas",
+      "sol, musik och profetia",
+      "kärlek och skönhet",
+      "himmel och åska"
+    ],
+    "answer": 2,
+    "explanation": "Afrodite förknippas främst med kärlek och skönhet.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 611,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med kärlek och skönhet?",
+    "options": [
+      "Afrodite",
+      "Demeter",
+      "Freja",
+      "Hel"
+    ],
+    "answer": 0,
+    "explanation": "Afrodite förknippas främst med kärlek och skönhet.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 612,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Artemis främst med?",
+    "options": [
+      "jakt",
+      "list och kaos",
+      "vin och extas",
+      "åska"
+    ],
+    "answer": 0,
+    "explanation": "Artemis förknippas främst med jakt.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 613,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med jakt?",
+    "options": [
+      "Artemis",
+      "Poseidon",
+      "Balder",
+      "Tyr"
+    ],
+    "answer": 0,
+    "explanation": "Artemis förknippas främst med jakt.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 614,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Apollon främst med?",
+    "options": [
+      "kärlek och skönhet",
+      "vishet och strategisk krigföring",
+      "list och kaos",
+      "sol, musik och profetia"
+    ],
+    "answer": 3,
+    "explanation": "Apollon förknippas främst med sol, musik och profetia.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 615,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med sol, musik och profetia?",
+    "options": [
+      "Artemis",
+      "Poseidon",
+      "Apollon",
+      "Njord"
+    ],
+    "answer": 2,
+    "explanation": "Apollon förknippas främst med sol, musik och profetia.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 616,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Hermes främst med?",
+    "options": [
+      "budbärare och handel",
+      "äktenskap",
+      "vin och extas",
+      "underjorden"
+    ],
+    "answer": 0,
+    "explanation": "Hermes förknippas främst med budbärare och handel.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 617,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med budbärare och handel?",
+    "options": [
+      "Afrodite",
+      "Hermes",
+      "Poseidon",
+      "Dionysos"
+    ],
+    "answer": 1,
+    "explanation": "Hermes förknippas främst med budbärare och handel.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 618,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Hera främst med?",
+    "options": [
+      "äktenskap",
+      "krig",
+      "list och kaos",
+      "sol, musik och profetia"
+    ],
+    "answer": 0,
+    "explanation": "Hera förknippas främst med äktenskap.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 619,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med äktenskap?",
+    "options": [
+      "Artemis",
+      "Loke",
+      "Hera",
+      "Ares"
+    ],
+    "answer": 2,
+    "explanation": "Hera förknippas främst med äktenskap.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 620,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Demeter främst med?",
+    "options": [
+      "vin och extas",
+      "kärlek och skönhet",
+      "havet",
+      "jordbruk"
+    ],
+    "answer": 3,
+    "explanation": "Demeter förknippas främst med jordbruk.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 621,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med jordbruk?",
+    "options": [
+      "Demeter",
+      "Hera",
+      "Poseidon",
+      "Zeus"
+    ],
+    "answer": 0,
+    "explanation": "Demeter förknippas främst med jordbruk.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 622,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Dionysos främst med?",
+    "options": [
+      "vishet och krig",
+      "vin och extas",
+      "åska",
+      "havet"
+    ],
+    "answer": 1,
+    "explanation": "Dionysos förknippas främst med vin och extas.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 623,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med vin och extas?",
+    "options": [
+      "Dionysos",
+      "Tyr",
+      "Afrodite",
+      "Poseidon"
+    ],
+    "answer": 0,
+    "explanation": "Dionysos förknippas främst med vin och extas.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 624,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Oden främst med?",
+    "options": [
+      "himmel och åska",
+      "vishet och krig",
+      "budbärare och handel",
+      "kärlek och skönhet"
+    ],
+    "answer": 1,
+    "explanation": "Oden förknippas främst med vishet och krig.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 625,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med vishet och krig?",
+    "options": [
+      "Athena",
+      "Oden",
+      "Dionysos",
+      "Zeus"
+    ],
+    "answer": 1,
+    "explanation": "Oden förknippas främst med vishet och krig.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 626,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Tor främst med?",
+    "options": [
+      "havet",
+      "kärlek och fruktbarhet",
+      "vishet och strategisk krigföring",
+      "åska"
+    ],
+    "answer": 3,
+    "explanation": "Tor förknippas främst med åska.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 627,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med åska?",
+    "options": [
+      "Loke",
+      "Ares",
+      "Tor",
+      "Freja"
+    ],
+    "answer": 2,
+    "explanation": "Tor förknippas främst med åska.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 628,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Freja främst med?",
+    "options": [
+      "budbärare och handel",
+      "kärlek och fruktbarhet",
+      "rätt och strid",
+      "åska"
+    ],
+    "answer": 1,
+    "explanation": "Freja förknippas främst med kärlek och fruktbarhet.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 629,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med kärlek och fruktbarhet?",
+    "options": [
+      "Freja",
+      "Hermes",
+      "Njord",
+      "Demeter"
+    ],
+    "answer": 0,
+    "explanation": "Freja förknippas främst med kärlek och fruktbarhet.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 630,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Loke främst med?",
+    "options": [
+      "krig",
+      "list och kaos",
+      "budbärare och handel",
+      "jakt"
+    ],
+    "answer": 1,
+    "explanation": "Loke förknippas främst med list och kaos.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 631,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med list och kaos?",
+    "options": [
+      "Dionysos",
+      "Loke",
+      "Ares",
+      "Njord"
+    ],
+    "answer": 1,
+    "explanation": "Loke förknippas främst med list och kaos.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 632,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Balder främst med?",
+    "options": [
+      "åska",
+      "ljus och renhet",
+      "krig",
+      "budbärare och handel"
+    ],
+    "answer": 1,
+    "explanation": "Balder förknippas främst med ljus och renhet.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 633,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med ljus och renhet?",
+    "options": [
+      "Artemis",
+      "Poseidon",
+      "Tor",
+      "Balder"
+    ],
+    "answer": 3,
+    "explanation": "Balder förknippas främst med ljus och renhet.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 634,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Tyr främst med?",
+    "options": [
+      "jakt",
+      "vishet och strategisk krigföring",
+      "havet",
+      "rätt och strid"
+    ],
+    "answer": 3,
+    "explanation": "Tyr förknippas främst med rätt och strid.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 635,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med rätt och strid?",
+    "options": [
+      "Demeter",
+      "Hermes",
+      "Tyr",
+      "Hades"
+    ],
+    "answer": 2,
+    "explanation": "Tyr förknippas främst med rätt och strid.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 636,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Njord främst med?",
+    "options": [
+      "hav och sjöfart",
+      "list och kaos",
+      "vin och extas",
+      "rätt och strid"
+    ],
+    "answer": 0,
+    "explanation": "Njord förknippas främst med hav och sjöfart.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 637,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med hav och sjöfart?",
+    "options": [
+      "Dionysos",
+      "Demeter",
+      "Njord",
+      "Tor"
+    ],
+    "answer": 2,
+    "explanation": "Njord förknippas främst med hav och sjöfart.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 638,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vad förknippas guden Hel främst med?",
+    "options": [
+      "dödsriket",
+      "havet",
+      "vin och extas",
+      "hav och sjöfart"
+    ],
+    "answer": 0,
+    "explanation": "Hel förknippas främst med dödsriket.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 639,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilken gud förknippas främst med dödsriket?",
+    "options": [
+      "Tyr",
+      "Hel",
+      "Afrodite",
+      "Demeter"
+    ],
+    "answer": 1,
+    "explanation": "Hel förknippas främst med dödsriket.",
+    "tags": [
+      "mytologi"
+    ]
+  },
+  {
+    "id": 640,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Mona Lisa?",
+    "options": [
+      "Johannes Vermeer",
+      "Leonardo da Vinci",
+      "Rembrandt",
+      "Michelangelo"
+    ],
+    "answer": 1,
+    "explanation": "Mona Lisa målades av Leonardo da Vinci.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 641,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Leonardo da Vinci?",
+    "options": [
+      "Adam skapelse",
+      "Las Meninas",
+      "Mona Lisa",
+      "Campbells soppburkar"
+    ],
+    "answer": 2,
+    "explanation": "Leonardo da Vinci målade Mona Lisa.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 642,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Skriet?",
+    "options": [
+      "Caspar David Friedrich",
+      "René Magritte",
+      "Édouard Manet",
+      "Edvard Munch"
+    ],
+    "answer": 3,
+    "explanation": "Skriet målades av Edvard Munch.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 643,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Edvard Munch?",
+    "options": [
+      "Stjärnenatt",
+      "Skriet",
+      "Bal du moulin de la Galette",
+      "The Son of Man"
+    ],
+    "answer": 1,
+    "explanation": "Edvard Munch målade Skriet.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 644,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Stjärnenatt?",
+    "options": [
+      "Pablo Picasso",
+      "Frida Kahlo",
+      "René Magritte",
+      "Vincent van Gogh"
+    ],
+    "answer": 3,
+    "explanation": "Stjärnenatt målades av Vincent van Gogh.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 645,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Vincent van Gogh?",
+    "options": [
+      "Venus födelse",
+      "Stjärnenatt",
+      "Campbells soppburkar",
+      "Flicka med pärlörhänge"
+    ],
+    "answer": 1,
+    "explanation": "Vincent van Gogh målade Stjärnenatt.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 646,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Flicka med pärlörhänge?",
+    "options": [
+      "René Magritte",
+      "Claude Monet",
+      "Johannes Vermeer",
+      "Vincent van Gogh"
+    ],
+    "answer": 2,
+    "explanation": "Flicka med pärlörhänge målades av Johannes Vermeer.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 647,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Johannes Vermeer?",
+    "options": [
+      "Guernica",
+      "Flicka med pärlörhänge",
+      "Nattvakten",
+      "Primavera"
+    ],
+    "answer": 1,
+    "explanation": "Johannes Vermeer målade Flicka med pärlörhänge.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 648,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Venus födelse?",
+    "options": [
+      "Eugène Delacroix",
+      "René Magritte",
+      "Sandro Botticelli",
+      "Caspar David Friedrich"
+    ],
+    "answer": 2,
+    "explanation": "Venus födelse målades av Sandro Botticelli.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 649,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Sandro Botticelli?",
+    "options": [
+      "Las dos Fridas",
+      "Venus födelse",
+      "Stjärnenatt",
+      "Friheten på barrikaderna"
+    ],
+    "answer": 1,
+    "explanation": "Sandro Botticelli målade Venus födelse.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 650,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Minnets envishet?",
+    "options": [
+      "Salvador Dalí",
+      "Diego Velázquez",
+      "Eugène Delacroix",
+      "Andy Warhol"
+    ],
+    "answer": 0,
+    "explanation": "Minnets envishet målades av Salvador Dalí.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 651,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Salvador Dalí?",
+    "options": [
+      "Stjärnenatt",
+      "Saturnus slukar sin son",
+      "Minnets envishet",
+      "Vandraren över dimhavet"
+    ],
+    "answer": 2,
+    "explanation": "Salvador Dalí målade Minnets envishet.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 652,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Las Meninas?",
+    "options": [
+      "Edvard Munch",
+      "Caspar David Friedrich",
+      "Grant Wood",
+      "Diego Velázquez"
+    ],
+    "answer": 3,
+    "explanation": "Las Meninas målades av Diego Velázquez.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 653,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Diego Velázquez?",
+    "options": [
+      "Saturnus slukar sin son",
+      "Minnets envishet",
+      "Stjärnenatt",
+      "Las Meninas"
+    ],
+    "answer": 3,
+    "explanation": "Diego Velázquez målade Las Meninas.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 654,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Kyssen?",
+    "options": [
+      "Gustav Klimt",
+      "Pierre-Auguste Renoir",
+      "Grant Wood",
+      "Diego Velázquez"
+    ],
+    "answer": 0,
+    "explanation": "Kyssen målades av Gustav Klimt.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 655,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Gustav Klimt?",
+    "options": [
+      "Näckrosor",
+      "Stjärnenatt",
+      "Kyssen",
+      "Nattvakten"
+    ],
+    "answer": 2,
+    "explanation": "Gustav Klimt målade Kyssen.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 656,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Amerikansk gotik?",
+    "options": [
+      "Grant Wood",
+      "Caspar David Friedrich",
+      "Johannes Vermeer",
+      "Édouard Manet"
+    ],
+    "answer": 0,
+    "explanation": "Amerikansk gotik målades av Grant Wood.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 657,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Grant Wood?",
+    "options": [
+      "Minnets envishet",
+      "Amerikansk gotik",
+      "Bal du moulin de la Galette",
+      "Mona Lisa"
+    ],
+    "answer": 1,
+    "explanation": "Grant Wood målade Amerikansk gotik.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 658,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Friheten på barrikaderna?",
+    "options": [
+      "Johannes Vermeer",
+      "Michelangelo",
+      "Sandro Botticelli",
+      "Eugène Delacroix"
+    ],
+    "answer": 3,
+    "explanation": "Friheten på barrikaderna målades av Eugène Delacroix.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 659,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Eugène Delacroix?",
+    "options": [
+      "Solrosor",
+      "Nattcaféet",
+      "Adam skapelse",
+      "Friheten på barrikaderna"
+    ],
+    "answer": 3,
+    "explanation": "Eugène Delacroix målade Friheten på barrikaderna.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 660,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Näckrosor?",
+    "options": [
+      "Edvard Munch",
+      "Grant Wood",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "answer": 3,
+    "explanation": "Näckrosor målades av Claude Monet.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 661,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Claude Monet?",
+    "options": [
+      "Mona Lisa",
+      "Näckrosor",
+      "Primavera",
+      "Olympia"
+    ],
+    "answer": 1,
+    "explanation": "Claude Monet målade Näckrosor.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 662,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Solrosor?",
+    "options": [
+      "Eugène Delacroix",
+      "Vincent van Gogh",
+      "Edvard Munch",
+      "Frida Kahlo"
+    ],
+    "answer": 1,
+    "explanation": "Solrosor målades av Vincent van Gogh.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 663,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Adam skapelse?",
+    "options": [
+      "Pablo Picasso",
+      "Michelangelo",
+      "Salvador Dalí",
+      "Caspar David Friedrich"
+    ],
+    "answer": 1,
+    "explanation": "Adam skapelse målades av Michelangelo.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 664,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Michelangelo?",
+    "options": [
+      "Minnets envishet",
+      "The Hay Wain",
+      "Adam skapelse",
+      "Nattcaféet"
+    ],
+    "answer": 2,
+    "explanation": "Michelangelo målade Adam skapelse.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 665,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Olympia?",
+    "options": [
+      "Édouard Manet",
+      "Pablo Picasso",
+      "Rembrandt",
+      "Francisco Goya"
+    ],
+    "answer": 0,
+    "explanation": "Olympia målades av Édouard Manet.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 666,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Édouard Manet?",
+    "options": [
+      "Olympia",
+      "Minnets envishet",
+      "Saturnus slukar sin son",
+      "Las dos Fridas"
+    ],
+    "answer": 0,
+    "explanation": "Édouard Manet målade Olympia.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 667,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Nattcaféet?",
+    "options": [
+      "Vincent van Gogh",
+      "Édouard Manet",
+      "Andy Warhol",
+      "Pierre-Auguste Renoir"
+    ],
+    "answer": 0,
+    "explanation": "Nattcaféet målades av Vincent van Gogh.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 668,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Guernica?",
+    "options": [
+      "Vincent van Gogh",
+      "Frida Kahlo",
+      "Pablo Picasso",
+      "Pierre-Auguste Renoir"
+    ],
+    "answer": 2,
+    "explanation": "Guernica målades av Pablo Picasso.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 669,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Pablo Picasso?",
+    "options": [
+      "Bal du moulin de la Galette",
+      "Campbells soppburkar",
+      "Las Meninas",
+      "Guernica"
+    ],
+    "answer": 3,
+    "explanation": "Pablo Picasso målade Guernica.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 670,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Nattvakten?",
+    "options": [
+      "Rembrandt",
+      "Francisco Goya",
+      "Frida Kahlo",
+      "Pierre-Auguste Renoir"
+    ],
+    "answer": 0,
+    "explanation": "Nattvakten målades av Rembrandt.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 671,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Rembrandt?",
+    "options": [
+      "Nattvakten",
+      "Skriet",
+      "Venus födelse",
+      "Campbells soppburkar"
+    ],
+    "answer": 0,
+    "explanation": "Rembrandt målade Nattvakten.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 672,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Campbells soppburkar?",
+    "options": [
+      "Diego Velázquez",
+      "Vincent van Gogh",
+      "Andy Warhol",
+      "Edvard Munch"
+    ],
+    "answer": 2,
+    "explanation": "Campbells soppburkar målades av Andy Warhol.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 673,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Andy Warhol?",
+    "options": [
+      "Venus födelse",
+      "Kyssen",
+      "Campbells soppburkar",
+      "Vandraren över dimhavet"
+    ],
+    "answer": 2,
+    "explanation": "Andy Warhol målade Campbells soppburkar.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 674,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket The Son of Man?",
+    "options": [
+      "Frida Kahlo",
+      "Diego Velázquez",
+      "Sandro Botticelli",
+      "René Magritte"
+    ],
+    "answer": 3,
+    "explanation": "The Son of Man målades av René Magritte.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 675,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av René Magritte?",
+    "options": [
+      "Näckrosor",
+      "The Son of Man",
+      "Mona Lisa",
+      "Friheten på barrikaderna"
+    ],
+    "answer": 1,
+    "explanation": "René Magritte målade The Son of Man.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 676,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Bal du moulin de la Galette?",
+    "options": [
+      "Pierre-Auguste Renoir",
+      "Salvador Dalí",
+      "Rembrandt",
+      "Diego Velázquez"
+    ],
+    "answer": 0,
+    "explanation": "Bal du moulin de la Galette målades av Pierre-Auguste Renoir.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 677,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Pierre-Auguste Renoir?",
+    "options": [
+      "Bal du moulin de la Galette",
+      "Minnets envishet",
+      "Nattvakten",
+      "The Son of Man"
+    ],
+    "answer": 0,
+    "explanation": "Pierre-Auguste Renoir målade Bal du moulin de la Galette.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 678,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Las dos Fridas?",
+    "options": [
+      "Frida Kahlo",
+      "Sandro Botticelli",
+      "Grant Wood",
+      "Salvador Dalí"
+    ],
+    "answer": 0,
+    "explanation": "Las dos Fridas målades av Frida Kahlo.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 679,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Frida Kahlo?",
+    "options": [
+      "Las dos Fridas",
+      "Kyssen",
+      "The Hay Wain",
+      "Nattvakten"
+    ],
+    "answer": 0,
+    "explanation": "Frida Kahlo målade Las dos Fridas.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 680,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Vandraren över dimhavet?",
+    "options": [
+      "Grant Wood",
+      "Pierre-Auguste Renoir",
+      "Frida Kahlo",
+      "Caspar David Friedrich"
+    ],
+    "answer": 3,
+    "explanation": "Vandraren över dimhavet målades av Caspar David Friedrich.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 681,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Caspar David Friedrich?",
+    "options": [
+      "Mona Lisa",
+      "Nattvakten",
+      "Vandraren över dimhavet",
+      "Bal du moulin de la Galette"
+    ],
+    "answer": 2,
+    "explanation": "Caspar David Friedrich målade Vandraren över dimhavet.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 682,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Primavera?",
+    "options": [
+      "Grant Wood",
+      "Sandro Botticelli",
+      "Pablo Picasso",
+      "Diego Velázquez"
+    ],
+    "answer": 1,
+    "explanation": "Primavera målades av Sandro Botticelli.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 683,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket Saturnus slukar sin son?",
+    "options": [
+      "Sandro Botticelli",
+      "Francisco Goya",
+      "Michelangelo",
+      "Grant Wood"
+    ],
+    "answer": 1,
+    "explanation": "Saturnus slukar sin son målades av Francisco Goya.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 684,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av Francisco Goya?",
+    "options": [
+      "Nattcaféet",
+      "Nattvakten",
+      "Flicka med pärlörhänge",
+      "Saturnus slukar sin son"
+    ],
+    "answer": 3,
+    "explanation": "Francisco Goya målade Saturnus slukar sin son.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 685,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade konstverket The Hay Wain?",
+    "options": [
+      "Pierre-Auguste Renoir",
+      "John Constable",
+      "René Magritte",
+      "Sandro Botticelli"
+    ],
+    "answer": 1,
+    "explanation": "The Hay Wain målades av John Constable.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 686,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk målades av John Constable?",
+    "options": [
+      "Campbells soppburkar",
+      "The Hay Wain",
+      "Las Meninas",
+      "Kyssen"
+    ],
+    "answer": 1,
+    "explanation": "John Constable målade The Hay Wain.",
+    "tags": [
+      "konst",
+      "målningar"
+    ]
+  },
+  {
+    "id": 687,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med telefonen?",
+    "options": [
+      "Alexander Graham Bell",
+      "John Logie Baird",
+      "Sven Wingquist",
+      "Johannes Gutenberg"
+    ],
+    "answer": 0,
+    "explanation": "Alexander Graham Bell förknippas starkast med telefonen.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 688,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med penicillinet?",
+    "options": [
+      "Charles Darwin",
+      "Alexander Fleming",
+      "Tim Berners-Lee",
+      "Benjamin Franklin"
+    ],
+    "answer": 1,
+    "explanation": "Alexander Fleming förknippas starkast med penicillinet.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 689,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med dynamiten?",
+    "options": [
+      "Charles Darwin",
+      "Alfred Nobel",
+      "Rune Elmqvist",
+      "Evangelista Torricelli"
+    ],
+    "answer": 1,
+    "explanation": "Alfred Nobel förknippas starkast med dynamiten.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 690,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med tryckpressen med lösa typer i Europa?",
+    "options": [
+      "Elisha Otis",
+      "John Logie Baird",
+      "René Laennec",
+      "Johannes Gutenberg"
+    ],
+    "answer": 3,
+    "explanation": "Johannes Gutenberg förknippas starkast med tryckpressen med lösa typer i Europa.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 691,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med vaccination mot smittkoppor?",
+    "options": [
+      "Rudolf Diesel",
+      "Dmitrij Mendelejev",
+      "Edward Jenner",
+      "Tim Berners-Lee"
+    ],
+    "answer": 2,
+    "explanation": "Edward Jenner förknippas starkast med vaccination mot smittkoppor.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 692,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med periodiska systemet?",
+    "options": [
+      "Dmitrij Mendelejev",
+      "Igor Sikorsky",
+      "Edward Jenner",
+      "Rudolf Diesel"
+    ],
+    "answer": 0,
+    "explanation": "Dmitrij Mendelejev förknippas starkast med periodiska systemet.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 693,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med radioaktivitetens upptäckt?",
+    "options": [
+      "Albert Einstein",
+      "Frank Whittle",
+      "Alfred Nobel",
+      "Henri Becquerel"
+    ],
+    "answer": 3,
+    "explanation": "Henri Becquerel förknippas starkast med radioaktivitetens upptäckt.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 694,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med evolution genom naturligt urval?",
+    "options": [
+      "Charles Darwin",
+      "Alexander Graham Bell",
+      "James Watt",
+      "Rudolf Diesel"
+    ],
+    "answer": 0,
+    "explanation": "Charles Darwin förknippas starkast med evolution genom naturligt urval.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 695,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med relativitetsteorin?",
+    "options": [
+      "Rune Elmqvist",
+      "Dmitrij Mendelejev",
+      "Albert Einstein",
+      "Johannes Gutenberg"
+    ],
+    "answer": 2,
+    "explanation": "Albert Einstein förknippas starkast med relativitetsteorin.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 696,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med ångmaskinens effektiva vidareutveckling?",
+    "options": [
+      "James Watt",
+      "Alexander Fleming",
+      "Johannes Gutenberg",
+      "Igor Sikorsky"
+    ],
+    "answer": 0,
+    "explanation": "James Watt förknippas starkast med ångmaskinens effektiva vidareutveckling.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 697,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med glödlampans kommersiella utveckling?",
+    "options": [
+      "René Laennec",
+      "Thomas Edison",
+      "Alfred Nobel",
+      "Dmitrij Mendelejev"
+    ],
+    "answer": 1,
+    "explanation": "Thomas Edison förknippas starkast med glödlampans kommersiella utveckling.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 698,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med World Wide Web?",
+    "options": [
+      "Charles Darwin",
+      "Thomas Edison",
+      "Benjamin Franklin",
+      "Tim Berners-Lee"
+    ],
+    "answer": 3,
+    "explanation": "Tim Berners-Lee förknippas starkast med World Wide Web.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 699,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med televisionens tidiga mekaniska system?",
+    "options": [
+      "Alexander Fleming",
+      "Igor Sikorsky",
+      "John Logie Baird",
+      "Anders Celsius"
+    ],
+    "answer": 2,
+    "explanation": "John Logie Baird förknippas starkast med televisionens tidiga mekaniska system.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 700,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med röntgenstrålning?",
+    "options": [
+      "Charles Darwin",
+      "Edward Jenner",
+      "Anders Celsius",
+      "Wilhelm Röntgen"
+    ],
+    "answer": 3,
+    "explanation": "Wilhelm Röntgen förknippas starkast med röntgenstrålning.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 701,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med pasteurisering?",
+    "options": [
+      "Louis Pasteur",
+      "Tim Berners-Lee",
+      "James Watt",
+      "Igor Sikorsky"
+    ],
+    "answer": 0,
+    "explanation": "Louis Pasteur förknippas starkast med pasteurisering.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 702,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med helikopterns praktiska utveckling?",
+    "options": [
+      "Alexander Graham Bell",
+      "Edward Jenner",
+      "Igor Sikorsky",
+      "Henri Becquerel"
+    ],
+    "answer": 2,
+    "explanation": "Igor Sikorsky förknippas starkast med helikopterns praktiska utveckling.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 703,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med jetmotorn?",
+    "options": [
+      "Anders Celsius",
+      "Rudolf Diesel",
+      "Rune Elmqvist",
+      "Frank Whittle"
+    ],
+    "answer": 3,
+    "explanation": "Frank Whittle förknippas starkast med jetmotorn.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 704,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med dieselmotorn?",
+    "options": [
+      "Thomas Edison",
+      "Rudolf Diesel",
+      "John Logie Baird",
+      "Wilhelm Röntgen"
+    ],
+    "answer": 1,
+    "explanation": "Rudolf Diesel förknippas starkast med dieselmotorn.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 705,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med blixtledaren?",
+    "options": [
+      "Sven Wingquist",
+      "James Watt",
+      "Johannes Gutenberg",
+      "Benjamin Franklin"
+    ],
+    "answer": 3,
+    "explanation": "Benjamin Franklin förknippas starkast med blixtledaren.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 706,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med barometern?",
+    "options": [
+      "Charles Darwin",
+      "Evangelista Torricelli",
+      "Wilhelm Röntgen",
+      "Frank Whittle"
+    ],
+    "answer": 1,
+    "explanation": "Evangelista Torricelli förknippas starkast med barometern.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 707,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med stetoskopet?",
+    "options": [
+      "James Watt",
+      "René Laennec",
+      "Edward Jenner",
+      "Dmitrij Mendelejev"
+    ],
+    "answer": 1,
+    "explanation": "René Laennec förknippas starkast med stetoskopet.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 708,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med säkerhetshissen?",
+    "options": [
+      "Alexander Graham Bell",
+      "Henri Becquerel",
+      "Edward Jenner",
+      "Elisha Otis"
+    ],
+    "answer": 3,
+    "explanation": "Elisha Otis förknippas starkast med säkerhetshissen.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 709,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med kullagret med sfäriska lager?",
+    "options": [
+      "Evangelista Torricelli",
+      "Sven Wingquist",
+      "Igor Sikorsky",
+      "John Logie Baird"
+    ],
+    "answer": 1,
+    "explanation": "Sven Wingquist förknippas starkast med kullagret med sfäriska lager.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 710,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med Celsiusskalan?",
+    "options": [
+      "Anders Celsius",
+      "Frank Whittle",
+      "Henri Becquerel",
+      "Johannes Gutenberg"
+    ],
+    "answer": 0,
+    "explanation": "Anders Celsius förknippas starkast med Celsiusskalan.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 711,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vem förknippas starkast med pacemakern, tidig implanterbar modell?",
+    "options": [
+      "Rune Elmqvist",
+      "Johannes Gutenberg",
+      "Louis Pasteur",
+      "Alfred Nobel"
+    ],
+    "answer": 0,
+    "explanation": "Rune Elmqvist förknippas starkast med pacemakern, tidig implanterbar modell.",
+    "tags": [
+      "uppfinningar",
+      "vetenskapshistoria"
+    ]
+  },
+  {
+    "id": 712,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter lårbenet med medicinsk eller latinsk term?",
+    "options": [
+      "esofagus",
+      "scapula",
+      "femur",
+      "humerus"
+    ],
+    "answer": 2,
+    "explanation": "Lårbenet kallas femur.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 713,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter överarmsbenet med medicinsk eller latinsk term?",
+    "options": [
+      "ulna",
+      "duodenum",
+      "humerus",
+      "myokardiet"
+    ],
+    "answer": 2,
+    "explanation": "Överarmsbenet kallas humerus.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 714,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter skulderbladet med medicinsk eller latinsk term?",
+    "options": [
+      "mandibula",
+      "sacrum",
+      "scapula",
+      "esofagus"
+    ],
+    "answer": 2,
+    "explanation": "Skulderbladet kallas scapula.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 715,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter nyckelbenet med medicinsk eller latinsk term?",
+    "options": [
+      "clavicula",
+      "ulna",
+      "patella",
+      "sternum"
+    ],
+    "answer": 0,
+    "explanation": "Nyckelbenet kallas clavicula.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 716,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter knäskålen med medicinsk eller latinsk term?",
+    "options": [
+      "alveoler",
+      "larynx",
+      "patella",
+      "duodenum"
+    ],
+    "answer": 2,
+    "explanation": "Knäskålen kallas patella.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 717,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter strålbenet med medicinsk eller latinsk term?",
+    "options": [
+      "ulna",
+      "radius",
+      "larynx",
+      "tibia"
+    ],
+    "answer": 1,
+    "explanation": "Strålbenet kallas radius.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 718,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter armbågsbenet med medicinsk eller latinsk term?",
+    "options": [
+      "ulna",
+      "colon",
+      "alveoler",
+      "patella"
+    ],
+    "answer": 0,
+    "explanation": "Armbågsbenet kallas ulna.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 719,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter vadbenet med medicinsk eller latinsk term?",
+    "options": [
+      "myokardiet",
+      "fibula",
+      "humerus",
+      "alveoler"
+    ],
+    "answer": 1,
+    "explanation": "Vadbenet kallas fibula.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 720,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter skenbenet med medicinsk eller latinsk term?",
+    "options": [
+      "tibia",
+      "ulna",
+      "trachea",
+      "myokardiet"
+    ],
+    "answer": 0,
+    "explanation": "Skenbenet kallas tibia.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 721,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter bröstbenet med medicinsk eller latinsk term?",
+    "options": [
+      "ulna",
+      "humerus",
+      "femur",
+      "sternum"
+    ],
+    "answer": 3,
+    "explanation": "Bröstbenet kallas sternum.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 722,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter korsbenet med medicinsk eller latinsk term?",
+    "options": [
+      "storhjärnan",
+      "alveoler",
+      "scapula",
+      "sacrum"
+    ],
+    "answer": 3,
+    "explanation": "Korsbenet kallas sacrum.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 723,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter underkäken med medicinsk eller latinsk term?",
+    "options": [
+      "mandibula",
+      "tibia",
+      "femur",
+      "ulna"
+    ],
+    "answer": 0,
+    "explanation": "Underkäken kallas mandibula.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 724,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter hjärtmuskeln med medicinsk eller latinsk term?",
+    "options": [
+      "humerus",
+      "myokardiet",
+      "trachea",
+      "ulna"
+    ],
+    "answer": 1,
+    "explanation": "Hjärtmuskeln kallas myokardiet.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 725,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter hjärnans största del med medicinsk eller latinsk term?",
+    "options": [
+      "storhjärnan",
+      "sacrum",
+      "patella",
+      "vena cava"
+    ],
+    "answer": 0,
+    "explanation": "Hjärnans största del kallas storhjärnan.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 726,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter lungblåsorna med medicinsk eller latinsk term?",
+    "options": [
+      "alveoler",
+      "colon",
+      "aorta",
+      "femur"
+    ],
+    "answer": 0,
+    "explanation": "Lungblåsorna kallas alveoler.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 727,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter röstapparaten med medicinsk eller latinsk term?",
+    "options": [
+      "duodenum",
+      "radius",
+      "tibia",
+      "larynx"
+    ],
+    "answer": 3,
+    "explanation": "Röstapparaten kallas larynx.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 728,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter matstrupen med medicinsk eller latinsk term?",
+    "options": [
+      "esofagus",
+      "tibia",
+      "scapula",
+      "ulna"
+    ],
+    "answer": 0,
+    "explanation": "Matstrupen kallas esofagus.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 729,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter luftstrupen med medicinsk eller latinsk term?",
+    "options": [
+      "lens crystallina",
+      "clavicula",
+      "colon",
+      "trachea"
+    ],
+    "answer": 3,
+    "explanation": "Luftstrupen kallas trachea.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 730,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter tjocktarmen med medicinsk eller latinsk term?",
+    "options": [
+      "colon",
+      "vena cava",
+      "ulna",
+      "lens crystallina"
+    ],
+    "answer": 0,
+    "explanation": "Tjocktarmen kallas colon.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 731,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter tunntarmens första del med medicinsk eller latinsk term?",
+    "options": [
+      "larynx",
+      "trachea",
+      "mandibula",
+      "duodenum"
+    ],
+    "answer": 3,
+    "explanation": "Tunntarmens första del kallas duodenum.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 732,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter kroppens största artär med medicinsk eller latinsk term?",
+    "options": [
+      "aorta",
+      "clavicula",
+      "larynx",
+      "humerus"
+    ],
+    "answer": 0,
+    "explanation": "Kroppens största artär kallas aorta.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 733,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter kroppens största ven med medicinsk eller latinsk term?",
+    "options": [
+      "lens crystallina",
+      "humerus",
+      "tibia",
+      "vena cava"
+    ],
+    "answer": 3,
+    "explanation": "Kroppens största ven kallas vena cava.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 734,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter örats hörselsnäcka med medicinsk eller latinsk term?",
+    "options": [
+      "cochlea",
+      "alveoler",
+      "fibula",
+      "mandibula"
+    ],
+    "answer": 0,
+    "explanation": "Örats hörselsnäcka kallas cochlea.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 735,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter regnbågshinnan med medicinsk eller latinsk term?",
+    "options": [
+      "femur",
+      "fibula",
+      "sternum",
+      "iris"
+    ],
+    "answer": 3,
+    "explanation": "Regnbågshinnan kallas iris.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 736,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter ögats lins med medicinsk eller latinsk term?",
+    "options": [
+      "duodenum",
+      "lens crystallina",
+      "storhjärnan",
+      "fibula"
+    ],
+    "answer": 1,
+    "explanation": "Ögats lins kallas lens crystallina.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 737,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken planet är störst i solsystemet?",
+    "options": [
+      "Jupiter",
+      "Saturnus",
+      "Neptunus",
+      "Uranus"
+    ],
+    "answer": 0,
+    "explanation": "Jupiter är solsystemets största planet.",
+    "tags": [
+      "rymden"
+    ]
+  },
+  {
+    "id": 738,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken planet kallas den röda planeten?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Merkurius",
+      "Saturnus"
+    ],
+    "answer": 0,
+    "explanation": "Mars kallas den röda planeten på grund av järnoxid på ytan.",
+    "tags": [
+      "rymden"
+    ]
+  },
+  {
+    "id": 739,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken planet har den mest framträdande ringsystemet?",
+    "options": [
+      "Saturnus",
+      "Jupiter",
+      "Uranus",
+      "Neptunus"
+    ],
+    "answer": 0,
+    "explanation": "Saturnus är känd för sitt stora ringsystem.",
+    "tags": [
+      "rymden"
+    ]
+  },
+  {
+    "id": 740,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter vår galax?",
+    "options": [
+      "Andromedagalaxen",
+      "Vintergatan",
+      "Sombrerogalaxen",
+      "Triangelgalaxen"
+    ],
+    "answer": 1,
+    "explanation": "Solsystemet ligger i Vintergatan.",
+    "tags": [
+      "rymden"
+    ]
+  },
+  {
+    "id": 741,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad är en supernova?",
+    "options": [
+      "En exploderande stjärna",
+      "En ny planet",
+      "En kometkärna",
+      "Ett svart hål"
+    ],
+    "answer": 0,
+    "explanation": "En supernova är en mycket kraftig stjärnexplosion.",
+    "tags": [
+      "rymden"
+    ]
+  },
+  {
+    "id": 742,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken är solens huvudsakliga energikälla?",
+    "options": [
+      "Kärnfusion",
+      "Kärnklyvning",
+      "Förbränning",
+      "Gravitation"
+    ],
+    "answer": 0,
+    "explanation": "Solen frigör energi genom fusion av väte till helium.",
+    "tags": [
+      "rymden"
+    ]
+  },
+  {
+    "id": 743,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vad heter den punkt i en omloppsbana som ligger närmast solen?",
+    "options": [
+      "Perihelium",
+      "Aphelium",
+      "Zenit",
+      "Nadir"
+    ],
+    "answer": 0,
+    "explanation": "Perihelium är punkten närmast solen.",
+    "tags": [
+      "rymden"
+    ]
+  },
+  {
+    "id": 744,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vad heter den punkt i en omloppsbana som ligger längst från solen?",
+    "options": [
+      "Aphelium",
+      "Perihelium",
+      "Zenit",
+      "Ekliptika"
+    ],
+    "answer": 0,
+    "explanation": "Aphelium är punkten längst från solen.",
+    "tags": [
+      "rymden"
+    ]
+  },
+  {
+    "id": 745,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken planet har längst omloppstid runt solen?",
+    "options": [
+      "Neptunus",
+      "Uranus",
+      "Saturnus",
+      "Jupiter"
+    ],
+    "answer": 0,
+    "explanation": "Neptunus tar cirka 165 jordår på sig runt solen.",
+    "tags": [
+      "rymden"
+    ]
+  },
+  {
+    "id": 746,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken planet roterar nästan liggande?",
+    "options": [
+      "Uranus",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "answer": 0,
+    "explanation": "Uranus rotationsaxel lutar ungefär 98 grader.",
+    "tags": [
+      "rymden"
+    ]
+  },
+  {
+    "id": 747,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Hur många perioder spelas i en ishockeymatch?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "En ishockeymatch spelas i tre perioder.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 748,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Hur många set krävs normalt för att vinna en herrmatch i Grand Slam-tennis?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Herrarnas Grand Slam-matcher spelas bäst av fem set.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 749,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Hur många hål har en standardrunda i golf?",
+    "options": [
+      "18",
+      "9",
+      "12",
+      "21"
+    ],
+    "answer": 0,
+    "explanation": "En standardrunda i golf har 18 hål.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 750,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Vilken sport använder redskapet foil?",
+    "options": [
+      "Fäktning",
+      "Rodd",
+      "Curling",
+      "Gymnastik"
+    ],
+    "answer": 0,
+    "explanation": "Foil är en typ av fäktvapen.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 751,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "I vilken sport används termen scrum?",
+    "options": [
+      "Rugby",
+      "Cricket",
+      "Baseboll",
+      "Handboll"
+    ],
+    "answer": 0,
+    "explanation": "Scrum är en fast situation i rugby.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 752,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Hur många spelare har ett handbollslag på planen?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "Ett handbollslag har sju spelare inklusive målvakt.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 753,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Hur många spelare har ett volleybollag på planen?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Ett volleybollag har sex spelare på planen.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 754,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Vad betyder en albatross i golf?",
+    "options": [
+      "Tre slag under par",
+      "Två slag under par",
+      "Ett slag under par",
+      "Fyra slag under par"
+    ],
+    "answer": 0,
+    "explanation": "Albatross är tre slag under par på ett hål.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 755,
+    "category": "Sport",
+    "difficulty": 3,
+    "question": "Vilken distans springer man i ett klassiskt steeplechase-lopp?",
+    "options": [
+      "3000 meter",
+      "1500 meter",
+      "5000 meter",
+      "10000 meter"
+    ],
+    "answer": 0,
+    "explanation": "Det klassiska hinderloppet är 3000 meter.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 756,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "I vilken sport tävlar man om Davis Cup?",
+    "options": [
+      "Tennis",
+      "Golf",
+      "Ishockey",
+      "Rugby"
+    ],
+    "answer": 0,
+    "explanation": "Davis Cup är en lagtävling i tennis.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 757,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "I vilken sport används termen wicket?",
+    "options": [
+      "Cricket",
+      "Baseboll",
+      "Rugby",
+      "Polo"
+    ],
+    "answer": 0,
+    "explanation": "Wicket är ett centralt begrepp i cricket.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 758,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Hur många poäng ger ett frikast i basket?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Ett lyckat frikast ger en poäng.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 759,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Vilken färg har ledartröjan i Tour de France?",
+    "options": [
+      "Gul",
+      "Rosa",
+      "Röd",
+      "Grön"
+    ],
+    "answer": 0,
+    "explanation": "Totalledaren bär den gula tröjan.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 760,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Vilken färg har ledartröjan i Giro d'Italia?",
+    "options": [
+      "Rosa",
+      "Gul",
+      "Röd",
+      "Blå"
+    ],
+    "answer": 0,
+    "explanation": "Totalledaren bär den rosa tröjan.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 761,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Hur många poäng är en try värd i rugby union?",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "En try ger fem poäng i rugby union.",
+    "tags": [
+      "sportregler"
+    ]
+  },
+  {
+    "id": 762,
+    "category": "Musik",
+    "difficulty": 1,
+    "question": "Vilken artist gav ut albumet Thriller?",
+    "options": [
+      "Michael Jackson",
+      "Prince",
+      "Madonna",
+      "David Bowie"
+    ],
+    "answer": 0,
+    "explanation": "Thriller gavs ut av Michael Jackson.",
+    "tags": [
+      "populärkultur"
+    ]
+  },
+  {
+    "id": 763,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilket band gjorde Bohemian Rhapsody?",
+    "options": [
+      "Queen",
+      "The Who",
+      "Genesis",
+      "Pink Floyd"
+    ],
+    "answer": 0,
+    "explanation": "Bohemian Rhapsody är en låt av Queen.",
+    "tags": [
+      "populärkultur"
+    ]
+  },
+  {
+    "id": 764,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilken svensk duo bestod av Marie Fredriksson och Per Gessle?",
+    "options": [
+      "Roxette",
+      "The Cardigans",
+      "Ace of Base",
+      "Freestyle"
+    ],
+    "answer": 0,
+    "explanation": "Marie Fredriksson och Per Gessle bildade Roxette.",
+    "tags": [
+      "populärkultur"
+    ]
+  },
+  {
+    "id": 765,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilket band gav ut Nevermind?",
+    "options": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden",
+      "R.E.M."
+    ],
+    "answer": 0,
+    "explanation": "Nevermind gavs ut av Nirvana 1991.",
+    "tags": [
+      "populärkultur"
+    ]
+  },
+  {
+    "id": 766,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilken artist är känd som The Boss?",
+    "options": [
+      "Bruce Springsteen",
+      "Billy Joel",
+      "Sting",
+      "Elton John"
+    ],
+    "answer": 0,
+    "explanation": "Bruce Springsteen kallas The Boss.",
+    "tags": [
+      "populärkultur"
+    ]
+  },
+  {
+    "id": 767,
+    "category": "Film & TV",
+    "difficulty": 1,
+    "question": "Vilken filmserie har figuren Indiana Jones?",
+    "options": [
+      "Indiana Jones",
+      "Star Wars",
+      "Jurassic Park",
+      "Mission: Impossible"
+    ],
+    "answer": 0,
+    "explanation": "Indiana Jones är huvudfigur i filmserien med samma namn.",
+    "tags": [
+      "populärkultur"
+    ]
+  },
+  {
+    "id": 768,
+    "category": "Film & TV",
+    "difficulty": 2,
+    "question": "Vem regisserade Hajen?",
+    "options": [
+      "Steven Spielberg",
+      "George Lucas",
+      "Francis Ford Coppola",
+      "James Cameron"
+    ],
+    "answer": 0,
+    "explanation": "Hajen regisserades av Steven Spielberg.",
+    "tags": [
+      "populärkultur"
+    ]
+  },
+  {
+    "id": 769,
+    "category": "Film & TV",
+    "difficulty": 2,
+    "question": "Vilken skådespelare spelade Maximus i Gladiator?",
+    "options": [
+      "Russell Crowe",
+      "Brad Pitt",
+      "Mel Gibson",
+      "Tom Hanks"
+    ],
+    "answer": 0,
+    "explanation": "Russell Crowe spelade Maximus.",
+    "tags": [
+      "populärkultur"
+    ]
+  },
+  {
+    "id": 770,
+    "category": "Film & TV",
+    "difficulty": 2,
+    "question": "Vad heter kaffebaren i Friends?",
+    "options": [
+      "Central Perk",
+      "Monk's Café",
+      "Luke's Diner",
+      "Cheers"
+    ],
+    "answer": 0,
+    "explanation": "Vännerna träffas ofta på Central Perk.",
+    "tags": [
+      "populärkultur"
+    ]
+  },
+  {
+    "id": 771,
+    "category": "Film & TV",
+    "difficulty": 2,
+    "question": "Vilken serie handlar om familjen Shelby i Birmingham?",
+    "options": [
+      "Peaky Blinders",
+      "The Crown",
+      "Downton Abbey",
+      "Boardwalk Empire"
+    ],
+    "answer": 0,
+    "explanation": "Peaky Blinders följer familjen Shelby.",
+    "tags": [
+      "populärkultur"
+    ]
+  },
+  {
+    "id": 772,
+    "category": "Mat & dryck",
+    "difficulty": 1,
+    "question": "Vilken ost används traditionellt i tiramisu?",
+    "options": [
+      "Mascarpone",
+      "Ricotta",
+      "Mozzarella",
+      "Gorgonzola"
+    ],
+    "answer": 0,
+    "explanation": "Tiramisu görs traditionellt med mascarpone.",
+    "tags": [
+      "matklassiker"
+    ]
+  },
+  {
+    "id": 773,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vad är miso främst gjort av?",
+    "options": [
+      "Fermenterade sojabönor",
+      "Risvin",
+      "Sesamfrön",
+      "Torkad fisk"
+    ],
+    "answer": 0,
+    "explanation": "Miso är en fermenterad pasta, oftast baserad på sojabönor.",
+    "tags": [
+      "matklassiker"
+    ]
+  },
+  {
+    "id": 774,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vilken nöt används i pesto genovese?",
+    "options": [
+      "Pinjenöt",
+      "Mandel",
+      "Cashew",
+      "Valnöt"
+    ],
+    "answer": 0,
+    "explanation": "Pesto genovese görs traditionellt med pinjenötter.",
+    "tags": [
+      "matklassiker"
+    ]
+  },
+  {
+    "id": 775,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vilken sprit ingår i en klassisk Negroni?",
+    "options": [
+      "Gin",
+      "Vodka",
+      "Rom",
+      "Tequila"
+    ],
+    "answer": 0,
+    "explanation": "Negroni görs med gin, Campari och söt vermouth.",
+    "tags": [
+      "matklassiker"
+    ]
+  },
+  {
+    "id": 776,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vilken ört ger béarnaisesås dess typiska smak?",
+    "options": [
+      "Dragon",
+      "Basilika",
+      "Timjan",
+      "Rosmarin"
+    ],
+    "answer": 0,
+    "explanation": "Dragon är den klassiska örten i béarnaise.",
+    "tags": [
+      "matklassiker"
+    ]
+  },
+  {
+    "id": 777,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Från vilket land kommer kimchi?",
+    "options": [
+      "Sydkorea",
+      "Japan",
+      "Kina",
+      "Thailand"
+    ],
+    "answer": 0,
+    "explanation": "Kimchi är en koreansk fermenterad grönsaksrätt.",
+    "tags": [
+      "matklassiker"
+    ]
+  },
+  {
+    "id": 778,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vad är huvudråvaran i polenta?",
+    "options": [
+      "Majs",
+      "Ris",
+      "Potatis",
+      "Vete"
+    ],
+    "answer": 0,
+    "explanation": "Polenta görs av majsgryn.",
+    "tags": [
+      "matklassiker"
+    ]
+  },
+  {
+    "id": 779,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vilken sprit används i en klassisk margarita?",
+    "options": [
+      "Tequila",
+      "Rom",
+      "Gin",
+      "Vodka"
+    ],
+    "answer": 0,
+    "explanation": "Margarita görs med tequila, lime och apelsinlikör.",
+    "tags": [
+      "matklassiker"
+    ]
+  },
+  {
+    "id": 780,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vilket land förknippas med osten Manchego?",
+    "options": [
+      "Spanien",
+      "Frankrike",
+      "Italien",
+      "Portugal"
+    ],
+    "answer": 0,
+    "explanation": "Manchego är en spansk fårost.",
+    "tags": [
+      "matklassiker"
+    ]
+  },
+  {
+    "id": 781,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vad betyder al dente?",
+    "options": [
+      "Med tuggmotstånd",
+      "Mycket mjuk",
+      "Kall servering",
+      "Utan salt"
+    ],
+    "answer": 0,
+    "explanation": "Al dente beskriver pasta med visst tuggmotstånd.",
+    "tags": [
+      "matklassiker"
+    ]
+  },
+  {
+    "id": 782,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är världens största ocean?",
+    "options": [
+      "Stilla havet",
+      "Atlanten",
+      "Indiska oceanen",
+      "Norra ishavet"
+    ],
+    "answer": 0,
+    "explanation": "Stilla havet är världens största ocean.",
+    "tags": [
+      "geografiklassiker"
+    ]
+  },
+  {
+    "id": 783,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är världens djupaste sjö?",
+    "options": [
+      "Bajkalsjön",
+      "Tanganyikasjön",
+      "Kaspiska havet",
+      "Vostoksjön"
+    ],
+    "answer": 0,
+    "explanation": "Bajkalsjön är världens djupaste sjö.",
+    "tags": [
+      "geografiklassiker"
+    ]
+  },
+  {
+    "id": 784,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken flod rinner genom Paris?",
+    "options": [
+      "Seine",
+      "Loire",
+      "Rhen",
+      "Rhône"
+    ],
+    "answer": 0,
+    "explanation": "Seine rinner genom Paris.",
+    "tags": [
+      "geografiklassiker"
+    ]
+  },
+  {
+    "id": 785,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken flod rinner genom London?",
+    "options": [
+      "Themsen",
+      "Severn",
+      "Mersey",
+      "Clyde"
+    ],
+    "answer": 0,
+    "explanation": "Themsen rinner genom London.",
+    "tags": [
+      "geografiklassiker"
+    ]
+  },
+  {
+    "id": 786,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken flod rinner genom Rom?",
+    "options": [
+      "Tibern",
+      "Po",
+      "Arno",
+      "Adige"
+    ],
+    "answer": 0,
+    "explanation": "Tibern rinner genom Rom.",
+    "tags": [
+      "geografiklassiker"
+    ]
+  },
+  {
+    "id": 787,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken bergskedja skiljer Frankrike och Spanien?",
+    "options": [
+      "Pyrenéerna",
+      "Alperna",
+      "Karpaterna",
+      "Apenninerna"
+    ],
+    "answer": 0,
+    "explanation": "Pyrenéerna ligger mellan Frankrike och Spanien.",
+    "tags": [
+      "geografiklassiker"
+    ]
+  },
+  {
+    "id": 788,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken ö är störst i Medelhavet?",
+    "options": [
+      "Sicilien",
+      "Sardinien",
+      "Kreta",
+      "Cypern"
+    ],
+    "answer": 0,
+    "explanation": "Sicilien är Medelhavets största ö.",
+    "tags": [
+      "geografiklassiker"
+    ]
+  },
+  {
+    "id": 789,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket land har längst kustlinje i världen?",
+    "options": [
+      "Kanada",
+      "Ryssland",
+      "Australien",
+      "Indonesien"
+    ],
+    "answer": 0,
+    "explanation": "Kanada har världens längsta kustlinje.",
+    "tags": [
+      "geografiklassiker"
+    ]
+  },
+  {
+    "id": 790,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är Afrikas längsta flod?",
+    "options": [
+      "Nilen",
+      "Kongo",
+      "Niger",
+      "Zambezi"
+    ],
+    "answer": 0,
+    "explanation": "Nilen är Afrikas längsta flod.",
+    "tags": [
+      "geografiklassiker"
+    ]
+  },
+  {
+    "id": 791,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket är Afrikas högsta berg?",
+    "options": [
+      "Kilimanjaro",
+      "Mount Kenya",
+      "Ruwenzori",
+      "Atlas"
+    ],
+    "answer": 0,
+    "explanation": "Kilimanjaro är Afrikas högsta berg.",
+    "tags": [
+      "geografiklassiker"
+    ]
+  },
+  {
+    "id": 792,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "När undertecknades USA:s självständighetsförklaring?",
+    "options": [
+      "1776",
+      "1789",
+      "1812",
+      "1492"
+    ],
+    "answer": 0,
+    "explanation": "USA:s självständighetsförklaring antogs 1776.",
+    "tags": [
+      "årtal"
+    ]
+  },
+  {
+    "id": 793,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år slutade första världskriget?",
+    "options": [
+      "1918",
+      "1914",
+      "1919",
+      "1920"
+    ],
+    "answer": 0,
+    "explanation": "Första världskriget slutade 1918.",
+    "tags": [
+      "årtal"
+    ]
+  },
+  {
+    "id": 794,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år landade Apollo 11 på månen?",
+    "options": [
+      "1969",
+      "1967",
+      "1971",
+      "1973"
+    ],
+    "answer": 0,
+    "explanation": "Apollo 11 landade på månen 1969.",
+    "tags": [
+      "årtal"
+    ]
+  },
+  {
+    "id": 795,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år upplöstes Sovjetunionen?",
+    "options": [
+      "1991",
+      "1989",
+      "1993",
+      "1985"
+    ],
+    "answer": 0,
+    "explanation": "Sovjetunionen upplöstes 1991.",
+    "tags": [
+      "årtal"
+    ]
+  },
+  {
+    "id": 796,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år inträffade slaget vid Hastings?",
+    "options": [
+      "1066",
+      "1215",
+      "1415",
+      "1492"
+    ],
+    "answer": 0,
+    "explanation": "Slaget vid Hastings ägde rum 1066.",
+    "tags": [
+      "årtal"
+    ]
+  },
+  {
+    "id": 797,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år inleddes trettioåriga kriget?",
+    "options": [
+      "1618",
+      "1648",
+      "1605",
+      "1700"
+    ],
+    "answer": 0,
+    "explanation": "Trettioåriga kriget började 1618.",
+    "tags": [
+      "årtal"
+    ]
+  },
+  {
+    "id": 798,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år slöts Westfaliska freden?",
+    "options": [
+      "1648",
+      "1618",
+      "1718",
+      "1815"
+    ],
+    "answer": 0,
+    "explanation": "Westfaliska freden slöts 1648.",
+    "tags": [
+      "årtal"
+    ]
+  },
+  {
+    "id": 799,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år hölls Wienkongressen?",
+    "options": [
+      "1815",
+      "1789",
+      "1848",
+      "1871"
+    ],
+    "answer": 0,
+    "explanation": "Wienkongressen avslutades 1815.",
+    "tags": [
+      "årtal"
+    ]
+  },
+  {
+    "id": 800,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år enades Tyskland till ett kejsardöme?",
+    "options": [
+      "1871",
+      "1848",
+      "1914",
+      "1815"
+    ],
+    "answer": 0,
+    "explanation": "Tyska riket utropades 1871.",
+    "tags": [
+      "årtal"
+    ]
+  },
+  {
+    "id": 801,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år sjönk Titanic?",
+    "options": [
+      "1912",
+      "1905",
+      "1914",
+      "1920"
+    ],
+    "answer": 0,
+    "explanation": "Titanic sjönk 1912.",
+    "tags": [
+      "årtal"
+    ]
+  },
+  {
+    "id": 802,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Sverige)",
+    "options": [
+      "Sverige – Stockholm",
+      "Sverige – Madrid",
+      "Sverige – Ottawa",
+      "Sverige – Tokyo"
+    ],
+    "answer": 0,
+    "explanation": "Sverige har huvudstaden Stockholm.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 803,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Norge)",
+    "options": [
+      "Norge – Oslo",
+      "Norge – Madrid",
+      "Norge – Dublin",
+      "Norge – Aten"
+    ],
+    "answer": 0,
+    "explanation": "Norge har huvudstaden Oslo.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 804,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Danmark)",
+    "options": [
+      "Danmark – Canberra",
+      "Danmark – Paris",
+      "Danmark – Köpenhamn",
+      "Danmark – Aten"
+    ],
+    "answer": 2,
+    "explanation": "Danmark har huvudstaden Köpenhamn.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 805,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Finland)",
+    "options": [
+      "Finland – Madrid",
+      "Finland – Helsingfors",
+      "Finland – Kairo",
+      "Finland – Hanoi"
+    ],
+    "answer": 1,
+    "explanation": "Finland har huvudstaden Helsingfors.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 806,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Frankrike)",
+    "options": [
+      "Frankrike – Kairo",
+      "Frankrike – Ottawa",
+      "Frankrike – Madrid",
+      "Frankrike – Paris"
+    ],
+    "answer": 3,
+    "explanation": "Frankrike har huvudstaden Paris.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 807,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Italien)",
+    "options": [
+      "Italien – Madrid",
+      "Italien – Bangkok",
+      "Italien – Canberra",
+      "Italien – Rom"
+    ],
+    "answer": 3,
+    "explanation": "Italien har huvudstaden Rom.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 808,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Spanien)",
+    "options": [
+      "Spanien – Tokyo",
+      "Spanien – Bangkok",
+      "Spanien – Canberra",
+      "Spanien – Madrid"
+    ],
+    "answer": 3,
+    "explanation": "Spanien har huvudstaden Madrid.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 809,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Portugal)",
+    "options": [
+      "Portugal – Lissabon",
+      "Portugal – Bangkok",
+      "Portugal – Canberra",
+      "Portugal – Tokyo"
+    ],
+    "answer": 0,
+    "explanation": "Portugal har huvudstaden Lissabon.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 810,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Tyskland)",
+    "options": [
+      "Tyskland – Berlin",
+      "Tyskland – Kairo",
+      "Tyskland – Bangkok",
+      "Tyskland – Prag"
+    ],
+    "answer": 0,
+    "explanation": "Tyskland har huvudstaden Berlin.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 811,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Polen)",
+    "options": [
+      "Polen – Paris",
+      "Polen – Tokyo",
+      "Polen – Warszawa",
+      "Polen – Dublin"
+    ],
+    "answer": 2,
+    "explanation": "Polen har huvudstaden Warszawa.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 812,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Grekland)",
+    "options": [
+      "Grekland – Canberra",
+      "Grekland – Bangkok",
+      "Grekland – Madrid",
+      "Grekland – Aten"
+    ],
+    "answer": 3,
+    "explanation": "Grekland har huvudstaden Aten.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 813,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Turkiet)",
+    "options": [
+      "Turkiet – Ankara",
+      "Turkiet – Kairo",
+      "Turkiet – Madrid",
+      "Turkiet – Lima"
+    ],
+    "answer": 0,
+    "explanation": "Turkiet har huvudstaden Ankara.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 814,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Japan)",
+    "options": [
+      "Japan – Tokyo",
+      "Japan – Berlin",
+      "Japan – Dublin",
+      "Japan – Bangkok"
+    ],
+    "answer": 0,
+    "explanation": "Japan har huvudstaden Tokyo.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 815,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Indien)",
+    "options": [
+      "Indien – New Delhi",
+      "Indien – Rom",
+      "Indien – Canberra",
+      "Indien – Paris"
+    ],
+    "answer": 0,
+    "explanation": "Indien har huvudstaden New Delhi.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 816,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Kanada)",
+    "options": [
+      "Kanada – Ottawa",
+      "Kanada – Canberra",
+      "Kanada – Berlin",
+      "Kanada – Aten"
+    ],
+    "answer": 0,
+    "explanation": "Kanada har huvudstaden Ottawa.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 817,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Australien)",
+    "options": [
+      "Australien – Canberra",
+      "Australien – Oslo",
+      "Australien – Hanoi",
+      "Australien – Bangkok"
+    ],
+    "answer": 0,
+    "explanation": "Australien har huvudstaden Canberra.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 818,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Brasilien)",
+    "options": [
+      "Brasilien – Canberra",
+      "Brasilien – Madrid",
+      "Brasilien – Brasília",
+      "Brasilien – Kairo"
+    ],
+    "answer": 2,
+    "explanation": "Brasilien har huvudstaden Brasília.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 819,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Argentina)",
+    "options": [
+      "Argentina – Oslo",
+      "Argentina – Dublin",
+      "Argentina – Buenos Aires",
+      "Argentina – Madrid"
+    ],
+    "answer": 2,
+    "explanation": "Argentina har huvudstaden Buenos Aires.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 820,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Egypten)",
+    "options": [
+      "Egypten – Ottawa",
+      "Egypten – Lima",
+      "Egypten – Prag",
+      "Egypten – Kairo"
+    ],
+    "answer": 3,
+    "explanation": "Egypten har huvudstaden Kairo.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 821,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Kenya)",
+    "options": [
+      "Kenya – Rom",
+      "Kenya – Nairobi",
+      "Kenya – Ottawa",
+      "Kenya – Prag"
+    ],
+    "answer": 1,
+    "explanation": "Kenya har huvudstaden Nairobi.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 822,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Thailand)",
+    "options": [
+      "Thailand – Kairo",
+      "Thailand – Prag",
+      "Thailand – Hanoi",
+      "Thailand – Bangkok"
+    ],
+    "answer": 3,
+    "explanation": "Thailand har huvudstaden Bangkok.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 823,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Vietnam)",
+    "options": [
+      "Vietnam – Hanoi",
+      "Vietnam – Lima",
+      "Vietnam – Tokyo",
+      "Vietnam – Dublin"
+    ],
+    "answer": 0,
+    "explanation": "Vietnam har huvudstaden Hanoi.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 824,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Peru)",
+    "options": [
+      "Peru – Ottawa",
+      "Peru – Oslo",
+      "Peru – Lima",
+      "Peru – Canberra"
+    ],
+    "answer": 2,
+    "explanation": "Peru har huvudstaden Lima.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 825,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Chile)",
+    "options": [
+      "Chile – Madrid",
+      "Chile – Santiago",
+      "Chile – Bangkok",
+      "Chile – Kairo"
+    ],
+    "answer": 1,
+    "explanation": "Chile har huvudstaden Santiago.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 826,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Island)",
+    "options": [
+      "Island – Reykjavík",
+      "Island – Kairo",
+      "Island – Hanoi",
+      "Island – Prag"
+    ],
+    "answer": 0,
+    "explanation": "Island har huvudstaden Reykjavík.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 827,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Irland)",
+    "options": [
+      "Irland – Tokyo",
+      "Irland – Ottawa",
+      "Irland – Hanoi",
+      "Irland – Dublin"
+    ],
+    "answer": 3,
+    "explanation": "Irland har huvudstaden Dublin.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 828,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Ungern)",
+    "options": [
+      "Ungern – Dublin",
+      "Ungern – Prag",
+      "Ungern – Kairo",
+      "Ungern – Budapest"
+    ],
+    "answer": 3,
+    "explanation": "Ungern har huvudstaden Budapest.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 829,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket par land och huvudstad är korrekt? (Tjeckien)",
+    "options": [
+      "Tjeckien – Prag",
+      "Tjeckien – Bangkok",
+      "Tjeckien – Berlin",
+      "Tjeckien – Canberra"
+    ],
+    "answer": 0,
+    "explanation": "Tjeckien har huvudstaden Prag.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 830,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken partikel har negativ elektrisk laddning?",
+    "options": [
+      "Elektron",
+      "Proton",
+      "Neutron",
+      "Foton"
+    ],
+    "answer": 0,
+    "explanation": "Elektronen har negativ laddning.",
+    "tags": [
+      "grundvetenskap"
+    ]
+  },
+  {
+    "id": 831,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken partikel finns i atomkärnan och har positiv laddning?",
+    "options": [
+      "Proton",
+      "Elektron",
+      "Foton",
+      "Positron"
+    ],
+    "answer": 0,
+    "explanation": "Protonen har positiv laddning.",
+    "tags": [
+      "grundvetenskap"
+    ]
+  },
+  {
+    "id": 832,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken SI-enhet används för elektrisk ström?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "answer": 0,
+    "explanation": "Elektrisk ström mäts i ampere.",
+    "tags": [
+      "grundvetenskap"
+    ]
+  },
+  {
+    "id": 833,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken SI-enhet används för elektrisk resistans?",
+    "options": [
+      "Ohm",
+      "Volt",
+      "Tesla",
+      "Joule"
+    ],
+    "answer": 0,
+    "explanation": "Resistans mäts i ohm.",
+    "tags": [
+      "grundvetenskap"
+    ]
+  },
+  {
+    "id": 834,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken SI-enhet används för effekt?",
+    "options": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Pascal"
+    ],
+    "answer": 0,
+    "explanation": "Effekt mäts i watt.",
+    "tags": [
+      "grundvetenskap"
+    ]
+  },
+  {
+    "id": 835,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken SI-enhet används för kraft?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Watt",
+      "Pascal"
+    ],
+    "answer": 0,
+    "explanation": "Kraft mäts i newton.",
+    "tags": [
+      "grundvetenskap"
+    ]
+  },
+  {
+    "id": 836,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken SI-enhet används för tryck?",
+    "options": [
+      "Pascal",
+      "Newton",
+      "Tesla",
+      "Kelvin"
+    ],
+    "answer": 0,
+    "explanation": "Tryck mäts i pascal.",
+    "tags": [
+      "grundvetenskap"
+    ]
+  },
+  {
+    "id": 837,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad kallas övergången direkt från fast form till gas?",
+    "options": [
+      "Sublimering",
+      "Kondensation",
+      "Smältning",
+      "Förångning"
+    ],
+    "answer": 0,
+    "explanation": "Direkt övergång från fast form till gas kallas sublimering.",
+    "tags": [
+      "grundvetenskap"
+    ]
+  },
+  {
+    "id": 838,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad kallas övergången från gas till vätska?",
+    "options": [
+      "Kondensation",
+      "Sublimering",
+      "Frysning",
+      "Smältning"
+    ],
+    "answer": 0,
+    "explanation": "Gas som blir vätska kondenserar.",
+    "tags": [
+      "grundvetenskap"
+    ]
+  },
+  {
+    "id": 839,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket pH-värde är neutralt vid rumstemperatur?",
+    "options": [
+      "7",
+      "0",
+      "5",
+      "14"
+    ],
+    "answer": 0,
+    "explanation": "Neutralt pH är 7.",
+    "tags": [
+      "grundvetenskap"
+    ]
+  },
+  {
+    "id": 840,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Japan?",
+    "options": [
+      "Japan – argentinsk peso",
+      "Japan – yen",
+      "Japan – rand",
+      "Japan – forint"
+    ],
+    "answer": 1,
+    "explanation": "Japan använder yen.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 841,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Storbritannien?",
+    "options": [
+      "Storbritannien – riyal",
+      "Storbritannien – dinar",
+      "Storbritannien – pund sterling",
+      "Storbritannien – tjeckisk koruna"
+    ],
+    "answer": 2,
+    "explanation": "Storbritannien använder pund sterling.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 842,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Schweiz?",
+    "options": [
+      "Schweiz – dinar",
+      "Schweiz – won",
+      "Schweiz – schweizerfranc",
+      "Schweiz – yen"
+    ],
+    "answer": 2,
+    "explanation": "Schweiz använder schweizerfranc.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 843,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Polen?",
+    "options": [
+      "Polen – złoty",
+      "Polen – yen",
+      "Polen – australisk dollar",
+      "Polen – singaporiansk dollar"
+    ],
+    "answer": 0,
+    "explanation": "Polen använder złoty.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 844,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Tjeckien?",
+    "options": [
+      "Tjeckien – dinar",
+      "Tjeckien – svensk krona",
+      "Tjeckien – dong",
+      "Tjeckien – tjeckisk koruna"
+    ],
+    "answer": 3,
+    "explanation": "Tjeckien använder tjeckisk koruna.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 845,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Ungern?",
+    "options": [
+      "Ungern – dirham",
+      "Ungern – złoty",
+      "Ungern – euro",
+      "Ungern – forint"
+    ],
+    "answer": 3,
+    "explanation": "Ungern använder forint.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 846,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Danmark?",
+    "options": [
+      "Danmark – nyzeeländsk dollar",
+      "Danmark – amerikansk dollar",
+      "Danmark – dansk krona",
+      "Danmark – baht"
+    ],
+    "answer": 2,
+    "explanation": "Danmark använder dansk krona.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 847,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Norge?",
+    "options": [
+      "Norge – real",
+      "Norge – kanadensisk dollar",
+      "Norge – norsk krona",
+      "Norge – turkisk lira"
+    ],
+    "answer": 2,
+    "explanation": "Norge använder norsk krona.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 848,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Island?",
+    "options": [
+      "Island – isländsk krona",
+      "Island – norsk krona",
+      "Island – singaporiansk dollar",
+      "Island – nyzeeländsk dollar"
+    ],
+    "answer": 0,
+    "explanation": "Island använder isländsk krona.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 849,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: USA?",
+    "options": [
+      "USA – leu",
+      "USA – real",
+      "USA – pund sterling",
+      "USA – amerikansk dollar"
+    ],
+    "answer": 3,
+    "explanation": "USA använder amerikansk dollar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 850,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Kanada?",
+    "options": [
+      "Kanada – kanadensisk dollar",
+      "Kanada – riyal",
+      "Kanada – rupiah",
+      "Kanada – singaporiansk dollar"
+    ],
+    "answer": 0,
+    "explanation": "Kanada använder kanadensisk dollar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 851,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Australien?",
+    "options": [
+      "Australien – shekel",
+      "Australien – schweizerfranc",
+      "Australien – dinar",
+      "Australien – australisk dollar"
+    ],
+    "answer": 3,
+    "explanation": "Australien använder australisk dollar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 852,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Nya Zeeland?",
+    "options": [
+      "Nya Zeeland – tjeckisk koruna",
+      "Nya Zeeland – nyzeeländsk dollar",
+      "Nya Zeeland – mexikansk peso",
+      "Nya Zeeland – euro"
+    ],
+    "answer": 1,
+    "explanation": "Nya Zeeland använder nyzeeländsk dollar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 853,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Kina?",
+    "options": [
+      "Kina – isländsk krona",
+      "Kina – renminbi/yuan",
+      "Kina – singaporiansk dollar",
+      "Kina – baht"
+    ],
+    "answer": 1,
+    "explanation": "Kina använder renminbi/yuan.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 854,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Indien?",
+    "options": [
+      "Indien – rupie",
+      "Indien – dirham",
+      "Indien – amerikansk dollar",
+      "Indien – riyal"
+    ],
+    "answer": 0,
+    "explanation": "Indien använder rupie.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 855,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Sydkorea?",
+    "options": [
+      "Sydkorea – dirham",
+      "Sydkorea – dong",
+      "Sydkorea – won",
+      "Sydkorea – yen"
+    ],
+    "answer": 2,
+    "explanation": "Sydkorea använder won.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 856,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Thailand?",
+    "options": [
+      "Thailand – dinar",
+      "Thailand – won",
+      "Thailand – baht",
+      "Thailand – rand"
+    ],
+    "answer": 2,
+    "explanation": "Thailand använder baht.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 857,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Vietnam?",
+    "options": [
+      "Vietnam – real",
+      "Vietnam – norsk krona",
+      "Vietnam – dirham",
+      "Vietnam – dong"
+    ],
+    "answer": 3,
+    "explanation": "Vietnam använder dong.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 858,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Indonesien?",
+    "options": [
+      "Indonesien – egyptiskt pund",
+      "Indonesien – riyal",
+      "Indonesien – rupiah",
+      "Indonesien – złoty"
+    ],
+    "answer": 2,
+    "explanation": "Indonesien använder rupiah.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 859,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Turkiet?",
+    "options": [
+      "Turkiet – real",
+      "Turkiet – turkisk lira",
+      "Turkiet – mexikansk peso",
+      "Turkiet – dinar"
+    ],
+    "answer": 1,
+    "explanation": "Turkiet använder turkisk lira.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 860,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Mexiko?",
+    "options": [
+      "Mexiko – forint",
+      "Mexiko – real",
+      "Mexiko – mexikansk peso",
+      "Mexiko – amerikansk dollar"
+    ],
+    "answer": 2,
+    "explanation": "Mexiko använder mexikansk peso.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 861,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Brasilien?",
+    "options": [
+      "Brasilien – isländsk krona",
+      "Brasilien – norsk krona",
+      "Brasilien – pund sterling",
+      "Brasilien – real"
+    ],
+    "answer": 3,
+    "explanation": "Brasilien använder real.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 862,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Argentina?",
+    "options": [
+      "Argentina – egyptiskt pund",
+      "Argentina – leu",
+      "Argentina – argentinsk peso",
+      "Argentina – svensk krona"
+    ],
+    "answer": 2,
+    "explanation": "Argentina använder argentinsk peso.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 863,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Egypten?",
+    "options": [
+      "Egypten – yen",
+      "Egypten – dinar",
+      "Egypten – egyptiskt pund",
+      "Egypten – turkisk lira"
+    ],
+    "answer": 2,
+    "explanation": "Egypten använder egyptiskt pund.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 864,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Marocko?",
+    "options": [
+      "Marocko – dirham",
+      "Marocko – argentinsk peso",
+      "Marocko – schweizerfranc",
+      "Marocko – riyal"
+    ],
+    "answer": 0,
+    "explanation": "Marocko använder dirham.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 865,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Saudiarabien?",
+    "options": [
+      "Saudiarabien – won",
+      "Saudiarabien – riyal",
+      "Saudiarabien – dong",
+      "Saudiarabien – leu"
+    ],
+    "answer": 1,
+    "explanation": "Saudiarabien använder riyal.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 866,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Förenade arabemiraten?",
+    "options": [
+      "Förenade arabemiraten – dinar",
+      "Förenade arabemiraten – egyptiskt pund",
+      "Förenade arabemiraten – dirham",
+      "Förenade arabemiraten – riyal"
+    ],
+    "answer": 2,
+    "explanation": "Förenade arabemiraten använder dirham.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 867,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Israel?",
+    "options": [
+      "Israel – dirham",
+      "Israel – amerikansk dollar",
+      "Israel – shekel",
+      "Israel – pund sterling"
+    ],
+    "answer": 2,
+    "explanation": "Israel använder shekel.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 868,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Rumänien?",
+    "options": [
+      "Rumänien – svensk krona",
+      "Rumänien – leu",
+      "Rumänien – renminbi/yuan",
+      "Rumänien – turkisk lira"
+    ],
+    "answer": 1,
+    "explanation": "Rumänien använder leu.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 869,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Bulgarien?",
+    "options": [
+      "Bulgarien – lev",
+      "Bulgarien – isländsk krona",
+      "Bulgarien – leu",
+      "Bulgarien – złoty"
+    ],
+    "answer": 0,
+    "explanation": "Bulgarien använder lev.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 870,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Serbien?",
+    "options": [
+      "Serbien – pund sterling",
+      "Serbien – dinar",
+      "Serbien – isländsk krona",
+      "Serbien – mexikansk peso"
+    ],
+    "answer": 1,
+    "explanation": "Serbien använder dinar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 871,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Kroatien?",
+    "options": [
+      "Kroatien – australisk dollar",
+      "Kroatien – dansk krona",
+      "Kroatien – euro",
+      "Kroatien – dirham"
+    ],
+    "answer": 2,
+    "explanation": "Kroatien använder euro.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 872,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Sverige?",
+    "options": [
+      "Sverige – dansk krona",
+      "Sverige – svensk krona",
+      "Sverige – singaporiansk dollar",
+      "Sverige – nyzeeländsk dollar"
+    ],
+    "answer": 1,
+    "explanation": "Sverige använder svensk krona.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 873,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket land och vilken valuta hör korrekt ihop: Singapore?",
+    "options": [
+      "Singapore – rupie",
+      "Singapore – forint",
+      "Singapore – singaporiansk dollar",
+      "Singapore – rupiah"
+    ],
+    "answer": 2,
+    "explanation": "Singapore använder singaporiansk dollar.",
+    "tags": [
+      "valutor"
+    ]
+  },
+  {
+    "id": 874,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Mona Lisa?",
+    "options": [
+      "Mona Lisa – Gustav Klimt",
+      "Mona Lisa – Leonardo da Vinci",
+      "Mona Lisa – Salvador Dalí",
+      "Mona Lisa – Rembrandt"
+    ],
+    "answer": 1,
+    "explanation": "Mona Lisa målades av Leonardo da Vinci.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 875,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Skriet?",
+    "options": [
+      "Skriet – Eugène Delacroix",
+      "Skriet – Leonardo da Vinci",
+      "Skriet – Claude Monet",
+      "Skriet – Edvard Munch"
+    ],
+    "answer": 3,
+    "explanation": "Skriet målades av Edvard Munch.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 876,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Stjärnenatt?",
+    "options": [
+      "Stjärnenatt – Rembrandt",
+      "Stjärnenatt – Vincent van Gogh",
+      "Stjärnenatt – Grant Wood",
+      "Stjärnenatt – Eugène Delacroix"
+    ],
+    "answer": 1,
+    "explanation": "Stjärnenatt målades av Vincent van Gogh.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 877,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Flicka med pärlörhänge?",
+    "options": [
+      "Flicka med pärlörhänge – Diego Velázquez",
+      "Flicka med pärlörhänge – Frida Kahlo",
+      "Flicka med pärlörhänge – Johannes Vermeer",
+      "Flicka med pärlörhänge – Pierre-Auguste Renoir"
+    ],
+    "answer": 2,
+    "explanation": "Flicka med pärlörhänge målades av Johannes Vermeer.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 878,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Venus födelse?",
+    "options": [
+      "Venus födelse – John Constable",
+      "Venus födelse – Frida Kahlo",
+      "Venus födelse – Sandro Botticelli",
+      "Venus födelse – Eugène Delacroix"
+    ],
+    "answer": 2,
+    "explanation": "Venus födelse målades av Sandro Botticelli.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 879,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Minnets envishet?",
+    "options": [
+      "Minnets envishet – Rembrandt",
+      "Minnets envishet – Johannes Vermeer",
+      "Minnets envishet – Michelangelo",
+      "Minnets envishet – Salvador Dalí"
+    ],
+    "answer": 3,
+    "explanation": "Minnets envishet målades av Salvador Dalí.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 880,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Las Meninas?",
+    "options": [
+      "Las Meninas – Pablo Picasso",
+      "Las Meninas – René Magritte",
+      "Las Meninas – Diego Velázquez",
+      "Las Meninas – Rembrandt"
+    ],
+    "answer": 2,
+    "explanation": "Las Meninas målades av Diego Velázquez.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 881,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Kyssen?",
+    "options": [
+      "Kyssen – Pablo Picasso",
+      "Kyssen – Diego Velázquez",
+      "Kyssen – Caspar David Friedrich",
+      "Kyssen – Gustav Klimt"
+    ],
+    "answer": 3,
+    "explanation": "Kyssen målades av Gustav Klimt.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 882,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Amerikansk gotik?",
+    "options": [
+      "Amerikansk gotik – Grant Wood",
+      "Amerikansk gotik – John Constable",
+      "Amerikansk gotik – Rembrandt",
+      "Amerikansk gotik – René Magritte"
+    ],
+    "answer": 0,
+    "explanation": "Amerikansk gotik målades av Grant Wood.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 883,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Friheten på barrikaderna?",
+    "options": [
+      "Friheten på barrikaderna – Gustav Klimt",
+      "Friheten på barrikaderna – Eugène Delacroix",
+      "Friheten på barrikaderna – Salvador Dalí",
+      "Friheten på barrikaderna – John Constable"
+    ],
+    "answer": 1,
+    "explanation": "Friheten på barrikaderna målades av Eugène Delacroix.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 884,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Näckrosor?",
+    "options": [
+      "Näckrosor – Leonardo da Vinci",
+      "Näckrosor – Salvador Dalí",
+      "Näckrosor – Claude Monet",
+      "Näckrosor – Edvard Munch"
+    ],
+    "answer": 2,
+    "explanation": "Näckrosor målades av Claude Monet.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 885,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Solrosor?",
+    "options": [
+      "Solrosor – Diego Velázquez",
+      "Solrosor – Edvard Munch",
+      "Solrosor – Vincent van Gogh",
+      "Solrosor – Johannes Vermeer"
+    ],
+    "answer": 2,
+    "explanation": "Solrosor målades av Vincent van Gogh.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 886,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Adam skapelse?",
+    "options": [
+      "Adam skapelse – Francisco Goya",
+      "Adam skapelse – Grant Wood",
+      "Adam skapelse – Michelangelo",
+      "Adam skapelse – Andy Warhol"
+    ],
+    "answer": 2,
+    "explanation": "Adam skapelse målades av Michelangelo.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 887,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Olympia?",
+    "options": [
+      "Olympia – Michelangelo",
+      "Olympia – Vincent van Gogh",
+      "Olympia – Édouard Manet",
+      "Olympia – Francisco Goya"
+    ],
+    "answer": 2,
+    "explanation": "Olympia målades av Édouard Manet.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 888,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Nattcaféet?",
+    "options": [
+      "Nattcaféet – Eugène Delacroix",
+      "Nattcaféet – Vincent van Gogh",
+      "Nattcaféet – Leonardo da Vinci",
+      "Nattcaféet – Salvador Dalí"
+    ],
+    "answer": 1,
+    "explanation": "Nattcaféet målades av Vincent van Gogh.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 889,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Guernica?",
+    "options": [
+      "Guernica – Pablo Picasso",
+      "Guernica – Michelangelo",
+      "Guernica – Francisco Goya",
+      "Guernica – Caspar David Friedrich"
+    ],
+    "answer": 0,
+    "explanation": "Guernica målades av Pablo Picasso.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 890,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Nattvakten?",
+    "options": [
+      "Nattvakten – Diego Velázquez",
+      "Nattvakten – Caspar David Friedrich",
+      "Nattvakten – Salvador Dalí",
+      "Nattvakten – Rembrandt"
+    ],
+    "answer": 3,
+    "explanation": "Nattvakten målades av Rembrandt.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 891,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Campbells soppburkar?",
+    "options": [
+      "Campbells soppburkar – Michelangelo",
+      "Campbells soppburkar – Leonardo da Vinci",
+      "Campbells soppburkar – Gustav Klimt",
+      "Campbells soppburkar – Andy Warhol"
+    ],
+    "answer": 3,
+    "explanation": "Campbells soppburkar målades av Andy Warhol.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 892,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket The Son of Man?",
+    "options": [
+      "The Son of Man – René Magritte",
+      "The Son of Man – Caspar David Friedrich",
+      "The Son of Man – Grant Wood",
+      "The Son of Man – Claude Monet"
+    ],
+    "answer": 0,
+    "explanation": "The Son of Man målades av René Magritte.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 893,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Bal du moulin de la Galette?",
+    "options": [
+      "Bal du moulin de la Galette – Leonardo da Vinci",
+      "Bal du moulin de la Galette – Eugène Delacroix",
+      "Bal du moulin de la Galette – Claude Monet",
+      "Bal du moulin de la Galette – Pierre-Auguste Renoir"
+    ],
+    "answer": 3,
+    "explanation": "Bal du moulin de la Galette målades av Pierre-Auguste Renoir.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 894,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Las dos Fridas?",
+    "options": [
+      "Las dos Fridas – Pierre-Auguste Renoir",
+      "Las dos Fridas – René Magritte",
+      "Las dos Fridas – Claude Monet",
+      "Las dos Fridas – Frida Kahlo"
+    ],
+    "answer": 3,
+    "explanation": "Las dos Fridas målades av Frida Kahlo.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 895,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Vandraren över dimhavet?",
+    "options": [
+      "Vandraren över dimhavet – Michelangelo",
+      "Vandraren över dimhavet – Caspar David Friedrich",
+      "Vandraren över dimhavet – Leonardo da Vinci",
+      "Vandraren över dimhavet – Pablo Picasso"
+    ],
+    "answer": 1,
+    "explanation": "Vandraren över dimhavet målades av Caspar David Friedrich.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 896,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Primavera?",
+    "options": [
+      "Primavera – Leonardo da Vinci",
+      "Primavera – Édouard Manet",
+      "Primavera – Sandro Botticelli",
+      "Primavera – Pierre-Auguste Renoir"
+    ],
+    "answer": 2,
+    "explanation": "Primavera målades av Sandro Botticelli.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 897,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket Saturnus slukar sin son?",
+    "options": [
+      "Saturnus slukar sin son – Pierre-Auguste Renoir",
+      "Saturnus slukar sin son – Claude Monet",
+      "Saturnus slukar sin son – Rembrandt",
+      "Saturnus slukar sin son – Francisco Goya"
+    ],
+    "answer": 3,
+    "explanation": "Saturnus slukar sin son målades av Francisco Goya.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 898,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket konstnärspar är korrekt för verket The Hay Wain?",
+    "options": [
+      "The Hay Wain – Vincent van Gogh",
+      "The Hay Wain – Michelangelo",
+      "The Hay Wain – John Constable",
+      "The Hay Wain – Caspar David Friedrich"
+    ],
+    "answer": 2,
+    "explanation": "The Hay Wain målades av John Constable.",
+    "tags": [
+      "konst"
+    ]
+  },
+  {
+    "id": 899,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen femur?",
+    "options": [
+      "skenbenet",
+      "lårbenet",
+      "skulderbladet",
+      "örats hörselsnäcka"
+    ],
+    "answer": 1,
+    "explanation": "femur betyder lårbenet.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 900,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen humerus?",
+    "options": [
+      "kroppens största ven",
+      "hjärtmuskeln",
+      "överarmsbenet",
+      "vadbenet"
+    ],
+    "answer": 2,
+    "explanation": "humerus betyder överarmsbenet.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 901,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen scapula?",
+    "options": [
+      "skulderbladet",
+      "röstapparaten",
+      "knäskålen",
+      "nyckelbenet"
+    ],
+    "answer": 0,
+    "explanation": "scapula betyder skulderbladet.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 902,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen clavicula?",
+    "options": [
+      "bröstbenet",
+      "nyckelbenet",
+      "strålbenet",
+      "skenbenet"
+    ],
+    "answer": 1,
+    "explanation": "clavicula betyder nyckelbenet.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 903,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen patella?",
+    "options": [
+      "knäskålen",
+      "matstrupen",
+      "bröstbenet",
+      "korsbenet"
+    ],
+    "answer": 0,
+    "explanation": "patella betyder knäskålen.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 904,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen radius?",
+    "options": [
+      "lungblåsorna",
+      "hjärtmuskeln",
+      "överarmsbenet",
+      "strålbenet"
+    ],
+    "answer": 3,
+    "explanation": "radius betyder strålbenet.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 905,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen ulna?",
+    "options": [
+      "armbågsbenet",
+      "hjärtmuskeln",
+      "tjocktarmen",
+      "överarmsbenet"
+    ],
+    "answer": 0,
+    "explanation": "ulna betyder armbågsbenet.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 906,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen fibula?",
+    "options": [
+      "ögats lins",
+      "vadbenet",
+      "skulderbladet",
+      "skenbenet"
+    ],
+    "answer": 1,
+    "explanation": "fibula betyder vadbenet.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 907,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen tibia?",
+    "options": [
+      "skenbenet",
+      "röstapparaten",
+      "tjocktarmen",
+      "regnbågshinnan"
+    ],
+    "answer": 0,
+    "explanation": "tibia betyder skenbenet.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 908,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen sternum?",
+    "options": [
+      "bröstbenet",
+      "skenbenet",
+      "underkäken",
+      "överarmsbenet"
+    ],
+    "answer": 0,
+    "explanation": "sternum betyder bröstbenet.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 909,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen sacrum?",
+    "options": [
+      "korsbenet",
+      "röstapparaten",
+      "luftstrupen",
+      "underkäken"
+    ],
+    "answer": 0,
+    "explanation": "sacrum betyder korsbenet.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 910,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen mandibula?",
+    "options": [
+      "lungblåsorna",
+      "knäskålen",
+      "underkäken",
+      "strålbenet"
+    ],
+    "answer": 2,
+    "explanation": "mandibula betyder underkäken.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 911,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen myokardiet?",
+    "options": [
+      "matstrupen",
+      "lungblåsorna",
+      "hjärtmuskeln",
+      "kroppens största ven"
+    ],
+    "answer": 2,
+    "explanation": "myokardiet betyder hjärtmuskeln.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 912,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen storhjärnan?",
+    "options": [
+      "hjärnans största del",
+      "luftstrupen",
+      "lårbenet",
+      "vadbenet"
+    ],
+    "answer": 0,
+    "explanation": "storhjärnan betyder hjärnans största del.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 913,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen alveoler?",
+    "options": [
+      "armbågsbenet",
+      "hjärnans största del",
+      "överarmsbenet",
+      "lungblåsorna"
+    ],
+    "answer": 3,
+    "explanation": "alveoler betyder lungblåsorna.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 914,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen larynx?",
+    "options": [
+      "nyckelbenet",
+      "hjärtmuskeln",
+      "underkäken",
+      "röstapparaten"
+    ],
+    "answer": 3,
+    "explanation": "larynx betyder röstapparaten.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 915,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen esofagus?",
+    "options": [
+      "armbågsbenet",
+      "ögats lins",
+      "tunntarmens första del",
+      "matstrupen"
+    ],
+    "answer": 3,
+    "explanation": "esofagus betyder matstrupen.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 916,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen trachea?",
+    "options": [
+      "knäskålen",
+      "luftstrupen",
+      "nyckelbenet",
+      "kroppens största ven"
+    ],
+    "answer": 1,
+    "explanation": "trachea betyder luftstrupen.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 917,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen colon?",
+    "options": [
+      "luftstrupen",
+      "matstrupen",
+      "tjocktarmen",
+      "armbågsbenet"
+    ],
+    "answer": 2,
+    "explanation": "colon betyder tjocktarmen.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 918,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen duodenum?",
+    "options": [
+      "tjocktarmen",
+      "skenbenet",
+      "kroppens största artär",
+      "tunntarmens första del"
+    ],
+    "answer": 3,
+    "explanation": "duodenum betyder tunntarmens första del.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 919,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen aorta?",
+    "options": [
+      "lårbenet",
+      "matstrupen",
+      "kroppens största artär",
+      "ögats lins"
+    ],
+    "answer": 2,
+    "explanation": "aorta betyder kroppens största artär.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 920,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen vena cava?",
+    "options": [
+      "kroppens största ven",
+      "skulderbladet",
+      "kroppens största artär",
+      "vadbenet"
+    ],
+    "answer": 0,
+    "explanation": "vena cava betyder kroppens största ven.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 921,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen cochlea?",
+    "options": [
+      "skenbenet",
+      "korsbenet",
+      "lungblåsorna",
+      "örats hörselsnäcka"
+    ],
+    "answer": 3,
+    "explanation": "cochlea betyder örats hörselsnäcka.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 922,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen iris?",
+    "options": [
+      "regnbågshinnan",
+      "röstapparaten",
+      "korsbenet",
+      "tjocktarmen"
+    ],
+    "answer": 0,
+    "explanation": "iris betyder regnbågshinnan.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 923,
+    "category": "Vetenskap",
+    "difficulty": 3,
+    "question": "Vilken kroppsdel avses med termen lens crystallina?",
+    "options": [
+      "bröstbenet",
+      "knäskålen",
+      "ögats lins",
+      "lårbenet"
+    ],
+    "answer": 2,
+    "explanation": "lens crystallina betyder ögats lins.",
+    "tags": [
+      "anatomi"
+    ]
+  },
+  {
+    "id": 924,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket är världens största nu levande landdjur?",
+    "options": [
+      "Afrikansk elefant",
+      "Noshörning",
+      "Flodhäst",
+      "Giraff"
+    ],
+    "answer": 0,
+    "explanation": "Den afrikanska elefanten är världens största landdjur.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 925,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket är världens största nu levande djur?",
+    "options": [
+      "Blåval",
+      "Kaskelot",
+      "Valhaj",
+      "Elefant"
+    ],
+    "answer": 0,
+    "explanation": "Blåvalen är världens största nu levande djur.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 926,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket däggdjur kan flyga aktivt?",
+    "options": [
+      "Fladdermus",
+      "Flygekorre",
+      "Pingvin",
+      "Struts"
+    ],
+    "answer": 0,
+    "explanation": "Fladdermöss är de enda däggdjuren med aktiv flygförmåga.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 927,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket djur är känt för att ha svartvit randig päls?",
+    "options": [
+      "Zebra",
+      "Okapi",
+      "Tapir",
+      "Gnu"
+    ],
+    "answer": 0,
+    "explanation": "Zebran känns igen på sina svarta och vita ränder.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 928,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken fågel är världens största nu levande fågel?",
+    "options": [
+      "Struts",
+      "Emu",
+      "Kondor",
+      "Albatross"
+    ],
+    "answer": 0,
+    "explanation": "Strutsen är världens största nu levande fågel.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 929,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken fågel kan flyga baklänges?",
+    "options": [
+      "Kolibri",
+      "Svala",
+      "Falk",
+      "Hackspett"
+    ],
+    "answer": 0,
+    "explanation": "Kolibrier kan flyga baklänges.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 930,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket djur är snabbast på land?",
+    "options": [
+      "Gepard",
+      "Lejon",
+      "Gaffelantilop",
+      "Struts"
+    ],
+    "answer": 0,
+    "explanation": "Geparden är snabbast på land över korta sträckor.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 931,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket djur har längst hals?",
+    "options": [
+      "Giraff",
+      "Okapi",
+      "Kamel",
+      "Alpacka"
+    ],
+    "answer": 0,
+    "explanation": "Giraffen har längst hals av alla nu levande djur.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 932,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket djur är känt för att ändra hudfärg?",
+    "options": [
+      "Kameleont",
+      "Leguan",
+      "Gecko",
+      "Salamander"
+    ],
+    "answer": 0,
+    "explanation": "Kameleonter kan förändra hudens färg och mönster.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 933,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket djur bygger bäverdammar?",
+    "options": [
+      "Bäver",
+      "Utter",
+      "Mink",
+      "Bisam"
+    ],
+    "answer": 0,
+    "explanation": "Bävrar bygger dammar av trä och växtmaterial.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 934,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken fisk är världens största?",
+    "options": [
+      "Valhaj",
+      "Vithaj",
+      "Mantarocka",
+      "Blåfenad tonfisk"
+    ],
+    "answer": 0,
+    "explanation": "Valhajen är världens största fisk.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 935,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket djur har ett stort horn på nosen?",
+    "options": [
+      "Noshörning",
+      "Flodhäst",
+      "Tapir",
+      "Vildsvin"
+    ],
+    "answer": 0,
+    "explanation": "Noshörningen känns igen på hornet eller hornen på nosen.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 936,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket djur producerar ull som ofta används i kläder?",
+    "options": [
+      "Får",
+      "Get",
+      "Lama",
+      "Alpacka"
+    ],
+    "answer": 0,
+    "explanation": "Fårull används mycket i textilier.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 937,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken insekt producerar honung?",
+    "options": [
+      "Honungsbi",
+      "Geting",
+      "Humla",
+      "Myrlejon"
+    ],
+    "answer": 0,
+    "explanation": "Honungsbin producerar honung.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 938,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken fågel förknippas med fredssymbolen och olivkvisten?",
+    "options": [
+      "Duva",
+      "Svan",
+      "Örn",
+      "Trana"
+    ],
+    "answer": 0,
+    "explanation": "Duvan med olivkvist är en klassisk fredssymbol.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 939,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket djur kallas ofta öknens skepp?",
+    "options": [
+      "Kamel",
+      "Dromedar",
+      "Lama",
+      "Yak"
+    ],
+    "answer": 0,
+    "explanation": "Kamelen brukar kallas öknens skepp.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 940,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket djur har åtta armar?",
+    "options": [
+      "Bläckfisk",
+      "Krabba",
+      "Sjöstjärna",
+      "Kvalster"
+    ],
+    "answer": 0,
+    "explanation": "Bläckfisken har åtta armar.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 941,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket djur bär ofta sitt unge i en pung?",
+    "options": [
+      "Känguru",
+      "Koala",
+      "Vombat",
+      "Dingo"
+    ],
+    "answer": 0,
+    "explanation": "Kängurur är pungdjur och bär ungen i en pung.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 942,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken kattart är störst?",
+    "options": [
+      "Tiger",
+      "Lejon",
+      "Jaguar",
+      "Leopard"
+    ],
+    "answer": 0,
+    "explanation": "Tigern är den största nu levande kattarten.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 943,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket djur är känt för sin mycket långsamma rörelse i träd?",
+    "options": [
+      "Sengångare",
+      "Koala",
+      "Panda",
+      "Lemur"
+    ],
+    "answer": 0,
+    "explanation": "Sengångare rör sig mycket långsamt i träden.",
+    "tags": [
+      "djur"
+    ]
+  },
+  {
+    "id": 944,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad kallas vatten i gasform?",
+    "options": [
+      "Vattenånga",
+      "Is",
+      "Dagg",
+      "Dimma"
+    ],
+    "answer": 0,
+    "explanation": "Vatten i gasform kallas vattenånga.",
+    "tags": [
+      "natur"
+    ]
+  },
+  {
+    "id": 945,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken gas tar växter främst upp vid fotosyntesen?",
+    "options": [
+      "Koldioxid",
+      "Syre",
+      "Kväve",
+      "Helium"
+    ],
+    "answer": 0,
+    "explanation": "Växter tar upp koldioxid vid fotosyntesen.",
+    "tags": [
+      "natur"
+    ]
+  },
+  {
+    "id": 946,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad kallas ett område där en flod möter havet och sötvatten blandas med saltvatten?",
+    "options": [
+      "Estuarium",
+      "Atoll",
+      "Fjord",
+      "Delta"
+    ],
+    "answer": 0,
+    "explanation": "Ett estuarium är en flodmynning där söt- och saltvatten blandas.",
+    "tags": [
+      "natur"
+    ]
+  },
+  {
+    "id": 947,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad kallas en ringformad korallö?",
+    "options": [
+      "Atoll",
+      "Delta",
+      "Fjord",
+      "Laguna"
+    ],
+    "answer": 0,
+    "explanation": "En atoll är en ringformad korallö.",
+    "tags": [
+      "natur"
+    ]
+  },
+  {
+    "id": 948,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad kallas smält berg under jordytan?",
+    "options": [
+      "Magma",
+      "Lava",
+      "Granit",
+      "Basalt"
+    ],
+    "answer": 0,
+    "explanation": "Under jordytan kallas smält berg magma.",
+    "tags": [
+      "natur"
+    ]
+  },
+  {
+    "id": 949,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad kallas smält berg som når jordytan?",
+    "options": [
+      "Lava",
+      "Magma",
+      "Kvarts",
+      "Skiffer"
+    ],
+    "answer": 0,
+    "explanation": "När magma når jordytan kallas den lava.",
+    "tags": [
+      "natur"
+    ]
+  },
+  {
+    "id": 950,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket molnslag förknippas oftast med åska?",
+    "options": [
+      "Cumulonimbus",
+      "Cirrus",
+      "Stratus",
+      "Altocumulus"
+    ],
+    "answer": 0,
+    "explanation": "Cumulonimbus är det klassiska åskmolnet.",
+    "tags": [
+      "natur"
+    ]
+  },
+  {
+    "id": 951,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad mäter Richterskalan traditionellt?",
+    "options": [
+      "Jordbävningars magnitud",
+      "Vindstyrka",
+      "Lufttryck",
+      "Nederbörd"
+    ],
+    "answer": 0,
+    "explanation": "Richterskalan användes för att beskriva jordbävningars magnitud.",
+    "tags": [
+      "natur"
+    ]
+  },
+  {
+    "id": 952,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad kallas vetenskapen om väder?",
+    "options": [
+      "Meteorologi",
+      "Geologi",
+      "Ekologi",
+      "Hydrologi"
+    ],
+    "answer": 0,
+    "explanation": "Meteorologi är vetenskapen om väder och atmosfär.",
+    "tags": [
+      "natur"
+    ]
+  },
+  {
+    "id": 953,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket lager i atmosfären innehåller ozonlagret?",
+    "options": [
+      "Stratosfären",
+      "Troposfären",
+      "Mesosfären",
+      "Termosfären"
+    ],
+    "answer": 0,
+    "explanation": "Ozonlagret finns huvudsakligen i stratosfären.",
+    "tags": [
+      "natur"
+    ]
+  },
+  {
+    "id": 954,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Hur många dagar har ett skottår?",
+    "options": [
+      "366",
+      "365",
+      "364",
+      "367"
+    ],
+    "answer": 0,
+    "explanation": "Ett skottår har 366 dagar.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 955,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Hur många minuter är en timme?",
+    "options": [
+      "60",
+      "50",
+      "100",
+      "90"
+    ],
+    "answer": 0,
+    "explanation": "En timme består av 60 minuter.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 956,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Hur många grader är en rät vinkel?",
+    "options": [
+      "90",
+      "45",
+      "180",
+      "360"
+    ],
+    "answer": 0,
+    "explanation": "En rät vinkel är 90 grader.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 957,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Hur många sidor har en oktagon?",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "En oktagon har åtta sidor.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 958,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vad betyder det romerska talet X?",
+    "options": [
+      "10",
+      "5",
+      "50",
+      "100"
+    ],
+    "answer": 0,
+    "explanation": "X betyder 10 med romerska siffror.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 959,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vad betyder det romerska talet L?",
+    "options": [
+      "50",
+      "10",
+      "100",
+      "500"
+    ],
+    "answer": 0,
+    "explanation": "L betyder 50 med romerska siffror.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 960,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vilken färg får man genom att blanda blått och gult?",
+    "options": [
+      "Grönt",
+      "Lila",
+      "Orange",
+      "Brunt"
+    ],
+    "answer": 0,
+    "explanation": "Blått och gult ger grönt i traditionell färgblandning.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 961,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vilken kontinent ligger Sahara i?",
+    "options": [
+      "Afrika",
+      "Asien",
+      "Sydamerika",
+      "Australien"
+    ],
+    "answer": 0,
+    "explanation": "Sahara ligger i Afrika.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 962,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vilken veckodag kommer efter torsdag?",
+    "options": [
+      "Fredag",
+      "Onsdag",
+      "Lördag",
+      "Söndag"
+    ],
+    "answer": 0,
+    "explanation": "Efter torsdag kommer fredag.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 963,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Hur många månader har 31 dagar?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Sju månader har 31 dagar.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 964,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vad heter jordens naturliga satellit?",
+    "options": [
+      "Månen",
+      "Solen",
+      "Mars",
+      "Venus"
+    ],
+    "answer": 0,
+    "explanation": "Månen är jordens naturliga satellit.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 965,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vilket språk talas främst i Italien?",
+    "options": [
+      "Italienska",
+      "Spanska",
+      "Portugisiska",
+      "Franska"
+    ],
+    "answer": 0,
+    "explanation": "Italienska är huvudspråk i Italien.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 966,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vad kallas en person som skriver böcker?",
+    "options": [
+      "Författare",
+      "Regissör",
+      "Kompositör",
+      "Redaktör"
+    ],
+    "answer": 0,
+    "explanation": "En person som skriver böcker kallas författare.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 967,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vilket instrument mäter temperatur?",
+    "options": [
+      "Termometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "answer": 0,
+    "explanation": "Temperatur mäts med en termometer.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 968,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vilket instrument mäter lufttryck?",
+    "options": [
+      "Barometer",
+      "Termometer",
+      "Kompass",
+      "Seismograf"
+    ],
+    "answer": 0,
+    "explanation": "Lufttryck mäts med en barometer.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 969,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vilket instrument visar väderstreck?",
+    "options": [
+      "Kompass",
+      "Sextant",
+      "Barometer",
+      "Kronometer"
+    ],
+    "answer": 0,
+    "explanation": "En kompass visar väderstreck.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 970,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vad kallas en berättelse med gudar och övernaturliga väsen som förklarar världen?",
+    "options": [
+      "Myt",
+      "Satir",
+      "Biografi",
+      "Novell"
+    ],
+    "answer": 0,
+    "explanation": "En sådan berättelse kallas myt.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 971,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vad kallas motsatsen till synonym?",
+    "options": [
+      "Antonym",
+      "Homonym",
+      "Akronym",
+      "Pronomen"
+    ],
+    "answer": 0,
+    "explanation": "Antonym betyder motsatsord.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 972,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vilket skiljetecken används normalt efter en direkt fråga?",
+    "options": [
+      "Frågetecken",
+      "Kolon",
+      "Semikolon",
+      "Apostrof"
+    ],
+    "answer": 0,
+    "explanation": "En direkt fråga avslutas normalt med frågetecken.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 973,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vad kallas ett ord som låter likadant men har annan betydelse?",
+    "options": [
+      "Homonym",
+      "Antonym",
+      "Synonym",
+      "Akronym"
+    ],
+    "answer": 0,
+    "explanation": "Homonymer är ord med samma form eller ljud men olika betydelse.",
+    "tags": [
+      "allmänbildning"
+    ]
+  },
+  {
+    "id": 974,
+    "category": "Musik",
+    "difficulty": 1,
+    "question": "Vilken grupp sjöng Dancing Queen?",
+    "options": [
+      "ABBA",
+      "Roxette",
+      "Europe",
+      "Ace of Base"
+    ],
+    "answer": 0,
+    "explanation": "Dancing Queen är en låt av ABBA.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 975,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilken artist gav ut Purple Rain?",
+    "options": [
+      "Prince",
+      "David Bowie",
+      "Michael Jackson",
+      "George Michael"
+    ],
+    "answer": 0,
+    "explanation": "Purple Rain gavs ut av Prince.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 976,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilket band gjorde Hotel California?",
+    "options": [
+      "Eagles",
+      "Fleetwood Mac",
+      "Toto",
+      "Boston"
+    ],
+    "answer": 0,
+    "explanation": "Hotel California är en låt av Eagles.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 977,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilken artist är känd för låten Like a Prayer?",
+    "options": [
+      "Madonna",
+      "Cher",
+      "Cyndi Lauper",
+      "Whitney Houston"
+    ],
+    "answer": 0,
+    "explanation": "Like a Prayer är en låt av Madonna.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 978,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilket band gjorde Every Breath You Take?",
+    "options": [
+      "The Police",
+      "U2",
+      "Dire Straits",
+      "Duran Duran"
+    ],
+    "answer": 0,
+    "explanation": "Every Breath You Take är en låt av The Police.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 979,
+    "category": "Film & TV",
+    "difficulty": 1,
+    "question": "Vad heter lejonungen i Lejonkungen?",
+    "options": [
+      "Simba",
+      "Mufasa",
+      "Scar",
+      "Timon"
+    ],
+    "answer": 0,
+    "explanation": "Simba är huvudfiguren i Lejonkungen.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 980,
+    "category": "Film & TV",
+    "difficulty": 2,
+    "question": "Vilken filmfigur spelas av Harrison Ford och använder piska?",
+    "options": [
+      "Indiana Jones",
+      "Han Solo",
+      "Rick Deckard",
+      "Jack Ryan"
+    ],
+    "answer": 0,
+    "explanation": "Indiana Jones är arkeologen med piska.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 981,
+    "category": "Film & TV",
+    "difficulty": 2,
+    "question": "Vad heter hotellet i The Shining?",
+    "options": [
+      "Overlook Hotel",
+      "Bates Motel",
+      "Grand Budapest Hotel",
+      "Continental"
+    ],
+    "answer": 0,
+    "explanation": "The Shining utspelar sig på Overlook Hotel.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 982,
+    "category": "Film & TV",
+    "difficulty": 2,
+    "question": "Vilken serie handlar om Walter White?",
+    "options": [
+      "Breaking Bad",
+      "Better Call Saul",
+      "Ozark",
+      "Narcos"
+    ],
+    "answer": 0,
+    "explanation": "Walter White är huvudfigur i Breaking Bad.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 983,
+    "category": "Historia",
+    "difficulty": 1,
+    "question": "Vem var den första människan på månen?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "answer": 0,
+    "explanation": "Neil Armstrong blev första människan på månen 1969.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 984,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vem var Storbritanniens premiärminister under större delen av andra världskriget?",
+    "options": [
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Harold Macmillan"
+    ],
+    "answer": 0,
+    "explanation": "Winston Churchill ledde Storbritannien under större delen av kriget.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 985,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilken drottning gav namn åt den viktorianska eran?",
+    "options": [
+      "Victoria",
+      "Elizabeth I",
+      "Anne",
+      "Mary"
+    ],
+    "answer": 0,
+    "explanation": "Den viktorianska eran är uppkallad efter drottning Victoria.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 986,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket imperium hade Konstantinopel som huvudstad?",
+    "options": [
+      "Bysantinska riket",
+      "Romerska republiken",
+      "Osmanska riket endast",
+      "Perserriket"
+    ],
+    "answer": 0,
+    "explanation": "Konstantinopel var huvudstad i Bysantinska riket.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 987,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vem ledde den sovjetiska revolutionen 1917?",
+    "options": [
+      "Vladimir Lenin",
+      "Josef Stalin",
+      "Leon Trotskij ensam",
+      "Nikita Chrusjtjov"
+    ],
+    "answer": 0,
+    "explanation": "Lenin var den centrala ledaren för bolsjevikerna 1917.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 988,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilket land är störst till ytan?",
+    "options": [
+      "Ryssland",
+      "Kanada",
+      "Kina",
+      "USA"
+    ],
+    "answer": 0,
+    "explanation": "Ryssland är världens största land till ytan.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 989,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilken kontinent är störst till ytan?",
+    "options": [
+      "Asien",
+      "Afrika",
+      "Nordamerika",
+      "Europa"
+    ],
+    "answer": 0,
+    "explanation": "Asien är världens största kontinent.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 990,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket land ligger både i Europa och Asien?",
+    "options": [
+      "Turkiet",
+      "Portugal",
+      "Irland",
+      "Island"
+    ],
+    "answer": 0,
+    "explanation": "Turkiet ligger på båda kontinenterna.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 991,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken stad ligger vid Bosporen?",
+    "options": [
+      "Istanbul",
+      "Aten",
+      "Bukarest",
+      "Sofia"
+    ],
+    "answer": 0,
+    "explanation": "Istanbul ligger vid Bosporen.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 992,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilket land har huvudstaden Ljubljana?",
+    "options": [
+      "Slovenien",
+      "Slovakien",
+      "Kroatien",
+      "Serbien"
+    ],
+    "answer": 0,
+    "explanation": "Ljubljana är Sloveniens huvudstad.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 993,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken ögrupp tillhör Teneriffa?",
+    "options": [
+      "Kanarieöarna",
+      "Balearerna",
+      "Azorerna",
+      "Kap Verde"
+    ],
+    "answer": 0,
+    "explanation": "Teneriffa tillhör Kanarieöarna.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 994,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket ämne har kemiska formeln H2O?",
+    "options": [
+      "Vatten",
+      "Syre",
+      "Väteperoxid",
+      "Salt"
+    ],
+    "answer": 0,
+    "explanation": "H2O är vatten.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 995,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken gas andas människan främst ut som restprodukt?",
+    "options": [
+      "Koldioxid",
+      "Syre",
+      "Väte",
+      "Helium"
+    ],
+    "answer": 0,
+    "explanation": "Människan andas ut koldioxid som restprodukt från cellandningen.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 996,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad kallas kroppens röda blodkroppar?",
+    "options": [
+      "Erytrocyter",
+      "Leukocyter",
+      "Trombocyter",
+      "Neuroner"
+    ],
+    "answer": 0,
+    "explanation": "Röda blodkroppar kallas erytrocyter.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 997,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad kallas kroppens vita blodkroppar?",
+    "options": [
+      "Leukocyter",
+      "Erytrocyter",
+      "Trombocyter",
+      "Osteocyter"
+    ],
+    "answer": 0,
+    "explanation": "Vita blodkroppar kallas leukocyter.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 998,
+    "category": "Mat & dryck",
+    "difficulty": 1,
+    "question": "Vilken frukt används traditionellt i guacamole?",
+    "options": [
+      "Avokado",
+      "Lime",
+      "Tomat",
+      "Mango"
+    ],
+    "answer": 0,
+    "explanation": "Guacamole har avokado som huvudråvara.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 999,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vilken dryck är basen i en mimosa?",
+    "options": [
+      "Mousserande vin",
+      "Gin",
+      "Rom",
+      "Whisky"
+    ],
+    "answer": 0,
+    "explanation": "En mimosa görs av mousserande vin och apelsinjuice.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 1000,
+    "category": "Blandat",
+    "difficulty": 2,
+    "question": "Hur många färger har en traditionell regnbåge?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "En traditionell regnbåge beskrivs med sju färger.",
+    "tags": [
+      "pubquizklassiker"
+    ]
   }
 ]

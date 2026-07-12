@@ -11,3 +11,5 @@
 .feedback{margin-top:15px;padding:15px;border-radius:14px;background:#f0e9dc;line-height:1.45}.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}.actions button{flex:1;min-width:150px}.score{font-size:64px;font-weight:950;color:var(--green);margin-top:8px}.breakdown{display:grid;gap:7px;margin-top:15px}.breakdown div{display:flex;justify-content:space-between;padding:9px 11px;border-radius:10px;background:#f1ece2}
 footer{text-align:center;color:var(--muted);font-size:12px;margin-top:22px}
 @media(max-width:650px){.stats{grid-template-columns:1fr 1fr}.row,.grid-buttons{grid-template-columns:1fr}.hero{padding:22px}.trophy{font-size:48px}.stats strong{font-size:19px}}
+
+.insight{margin-top:16px;padding:14px;border-radius:14px;background:#e8efe9;color:var(--green);line-height:1.45}.insight strong{display:block;margin-bottom:3px}.weak{color:var(--bad)}

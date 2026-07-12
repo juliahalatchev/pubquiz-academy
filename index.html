@@ -12,9 +12,9 @@
 <main class="app">
 <header class="hero">
   <div>
-    <div class="eyebrow">PUBQUIZ ACADEMY 0.2</div>
+    <div class="eyebrow">PUBQUIZ ACADEMY 0.3</div>
     <h1>Träna hjärnan för pubens strålkastarljus.</h1>
-    <p>500 frågor, smart repetition och ett nytt Bishops-läge.</p>
+    <p>1 000 frågor, dagens quiz och en tränare som hittar dina kunskapsluckor.</p>
   </div>
   <div class="trophy">🍻</div>
 </header>
@@ -44,12 +44,13 @@
   </div>
 
   <div class="grid-buttons">
-    <button data-mode="normal" class="primary">10 frågor</button>
+    <button data-mode="daily" class="primary">Dagens quiz · 15</button>
+    <button data-mode="normal" class="soft">10 frågor</button>
     <button data-mode="bishops" class="gold">Kvällens Bishops · 30</button>
     <button data-mode="weak" class="soft">Repetera felsvar</button>
     <button data-mode="quick" class="soft">Snabbrunda · 60 sek</button>
   </div>
-  <p class="fine">Frågorna och statistiken fungerar även offline efter första besöket.</p>
+  <div id="insight" class="insight"></div><p class="fine">Dagens quiz är samma hela kalenderdagen. Frågorna och statistiken fungerar även offline efter första besöket.</p>
 </section>
 
 <section id="quiz" class="card hidden">
