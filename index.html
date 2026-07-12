@@ -3,82 +3,158 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#17352f">
+<meta name="theme-color" content="#122a25">
 <title>Pubquiz Academy</title>
 <link rel="manifest" href="manifest.json">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div class="ambient ambient-one"></div>
+<div class="ambient ambient-two"></div>
+
 <main class="app">
-<header class="hero">
-  <div>
-    <div class="eyebrow">PUBQUIZ ACADEMY 0.3</div>
-    <h1>Träna hjärnan för pubens strålkastarljus.</h1>
-    <p>1 000 frågor, dagens quiz och en tränare som hittar dina kunskapsluckor.</p>
-  </div>
-  <div class="trophy">🍻</div>
-</header>
-
-<section class="stats">
-  <article><strong id="answered">0</strong><span>besvarade</span></article>
-  <article><strong id="accuracy">0%</strong><span>rätt totalt</span></article>
-  <article><strong id="bestStreak">0</strong><span>bästa svit</span></article>
-  <article><strong id="level">Pubnovis</strong><span>nivå</span></article>
-</section>
-
-<section id="home" class="card">
-  <div class="row">
-    <div>
-      <label for="category">Kategori</label>
-      <select id="category"><option value="Alla">Alla kategorier</option></select>
+  <nav class="topbar">
+    <div class="brand-mark">QA</div>
+    <div class="brand-copy">
+      <strong>Pubquiz Academy</strong>
+      <span>Kunskap på fat sedan 2026</span>
     </div>
-    <div>
-      <label for="difficulty">Svårighetsgrad</label>
-      <select id="difficulty">
-        <option value="Alla">Blandad</option>
-        <option value="1">Lätt</option>
-        <option value="2">Medel</option>
-        <option value="3">Svår</option>
-      </select>
+    <div class="question-count">1 000 frågor</div>
+  </nav>
+
+  <header class="hero">
+    <div class="hero-copy">
+      <div class="eyebrow">VERSION 0.4 · THE POLISHED PINT</div>
+      <h1>Gör hjärnan redo för <em>kvällens sista utslagsfråga.</em></h1>
+      <p>Välj en runda, samla rätt svar och förvandla kunskapsluckor till små välmöblerade faktarum.</p>
+      <button data-mode="daily" class="hero-button">
+        <span class="button-icon">✦</span>
+        <span><strong>Spela dagens quiz</strong><small>15 frågor · samma runda hela dagen</small></span>
+        <span class="arrow">→</span>
+      </button>
     </div>
-  </div>
+    <div class="hero-art" aria-hidden="true">
+      <div class="laurel">☘</div>
+      <div class="beer">🍺</div>
+      <div class="seal">QUIZ<br><strong>NIGHT</strong><br>EST. 2026</div>
+    </div>
+  </header>
 
-  <div class="grid-buttons">
-    <button data-mode="daily" class="primary">Dagens quiz · 15</button>
-    <button data-mode="normal" class="soft">10 frågor</button>
-    <button data-mode="bishops" class="gold">Kvällens Bishops · 30</button>
-    <button data-mode="weak" class="soft">Repetera felsvar</button>
-    <button data-mode="quick" class="soft">Snabbrunda · 60 sek</button>
-  </div>
-  <div id="insight" class="insight"></div><p class="fine">Dagens quiz är samma hela kalenderdagen. Frågorna och statistiken fungerar även offline efter första besöket.</p>
-</section>
+  <section class="stats" aria-label="Din statistik">
+    <article><span class="stat-icon">◎</span><div><strong id="answered">0</strong><span>besvarade</span></div></article>
+    <article><span class="stat-icon">✓</span><div><strong id="accuracy">0%</strong><span>rätt totalt</span></div></article>
+    <article><span class="stat-icon">⚡</span><div><strong id="bestStreak">0</strong><span>bästa svit</span></div></article>
+    <article><span class="stat-icon">♛</span><div><strong id="level">Pubnovis</strong><span>nuvarande nivå</span></div></article>
+  </section>
 
-<section id="quiz" class="card hidden">
-  <div class="quiztop"><span id="qCategory"></span><span id="counter"></span></div>
-  <div class="progress"><div id="progressBar"></div></div>
-  <div id="timer" class="timer hidden"></div>
-  <h2 id="question"></h2>
-  <div id="options" class="options"></div>
-  <div id="feedback" class="feedback hidden"></div>
-  <div class="actions">
-    <button id="next" class="primary hidden">Nästa fråga</button>
-    <button id="quit" class="linkbtn">Avsluta</button>
-  </div>
-</section>
+  <section id="home" class="dashboard">
+    <article class="card setup-card">
+      <div class="section-heading">
+        <div>
+          <span class="kicker">SKRÄDDARSY RUNDAN</span>
+          <h2>Vad känner du för?</h2>
+        </div>
+        <span class="heading-ornament">✦</span>
+      </div>
 
-<section id="result" class="card hidden">
-  <div class="eyebrow">RUNDAN ÄR KLAR</div>
-  <div id="score" class="score"></div>
-  <h2 id="resultTitle"></h2>
-  <p id="resultText"></p>
-  <div id="categoryBreakdown" class="breakdown"></div>
-  <div class="actions">
-    <button id="again" class="primary">Kör samma läge igen</button>
-    <button id="homeBtn" class="soft">Startsidan</button>
-  </div>
-</section>
+      <div class="row">
+        <div class="field">
+          <label for="category">Kategori</label>
+          <div class="select-wrap">
+            <span>▦</span>
+            <select id="category"><option value="Alla">Alla kategorier</option></select>
+          </div>
+        </div>
+        <div class="field">
+          <label for="difficulty">Svårighetsgrad</label>
+          <div class="select-wrap">
+            <span>◆</span>
+            <select id="difficulty">
+              <option value="Alla">Blandad nivå</option>
+              <option value="1">Lätt</option>
+              <option value="2">Medel</option>
+              <option value="3">Svår</option>
+            </select>
+          </div>
+        </div>
+      </div>
 
-<footer>Byggd för kvällar då laget behöver ett orakel med bra dagsform.</footer>
+      <div class="mode-grid">
+        <button data-mode="normal" class="mode-card">
+          <span class="mode-icon">10</span>
+          <span><strong>Klassisk runda</strong><small>Tio blandade frågor</small></span>
+          <span class="chevron">›</span>
+        </button>
+        <button data-mode="bishops" class="mode-card featured">
+          <span class="mode-icon">♜</span>
+          <span><strong>Kvällens Bishops</strong><small>30 frågor i pubformat</small></span>
+          <span class="chevron">›</span>
+        </button>
+        <button data-mode="weak" class="mode-card">
+          <span class="mode-icon">↻</span>
+          <span><strong>Repetera felsvar</strong><small>Träna där det skaver</small></span>
+          <span class="chevron">›</span>
+        </button>
+        <button data-mode="quick" class="mode-card">
+          <span class="mode-icon">60</span>
+          <span><strong>Snabbrunda</strong><small>Så många du hinner</small></span>
+          <span class="chevron">›</span>
+        </button>
+      </div>
+    </article>
+
+    <aside class="side-column">
+      <article id="insight" class="insight card"></article>
+      <article class="card tip-card">
+        <span class="tip-label">QUIZMASTerns TIPS</span>
+        <blockquote>“Svara först i huvudet. Titta sedan på alternativen. Annars kan ett snyggt felsvar börja möblera om minnet.”</blockquote>
+      </article>
+    </aside>
+
+    <p class="fine">Dagens quiz är samma hela kalenderdagen. Statistik och frågor fungerar offline efter första besöket.</p>
+  </section>
+
+  <section id="quiz" class="quiz-shell hidden">
+    <div class="quiz-header">
+      <button id="quit" class="round-icon" aria-label="Avsluta">×</button>
+      <div class="quiz-identity">
+        <span id="qCategory"></span>
+        <strong id="counter"></strong>
+      </div>
+      <div id="timer" class="timer hidden"></div>
+    </div>
+
+    <div class="progress"><div id="progressBar"></div></div>
+
+    <article class="question-card">
+      <div class="question-decoration">?</div>
+      <h2 id="question"></h2>
+      <div id="options" class="options"></div>
+      <div id="feedback" class="feedback hidden"></div>
+      <button id="next" class="next-button hidden">Nästa fråga <span>→</span></button>
+    </article>
+  </section>
+
+  <section id="result" class="result-shell hidden">
+    <article class="result-card">
+      <div class="result-crown">♛</div>
+      <div class="eyebrow">RUNDAN ÄR KLAR</div>
+      <div id="score" class="score"></div>
+      <h2 id="resultTitle"></h2>
+      <p id="resultText"></p>
+      <div id="categoryBreakdown" class="breakdown"></div>
+      <div class="actions">
+        <button id="again" class="primary-action">Kör samma läge igen</button>
+        <button id="homeBtn" class="secondary-action">Till startsidan</button>
+      </div>
+    </article>
+  </section>
+
+  <footer>
+    <span>Pubquiz Academy</span>
+    <span class="footer-dot">◆</span>
+    <span>Byggd för skarpa hjärnor och suddiga pubbord</span>
+  </footer>
 </main>
 <script src="app.js"></script>
 </body>
