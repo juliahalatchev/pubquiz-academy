@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   QUESTIONS=QUESTIONS.filter(q=>q.status==='active');
 
   let stats;
-  try{stats=JSON.parse(localStorage.getItem('pqa_v7_stats'))||JSON.parse(localStorage.getItem('pqa_v6_stats'))}catch(e){}
+  try{stats=JSON.parse(localStorage.getItem('pqa_v8_stats'))||JSON.parse(localStorage.getItem('pqa_v7_stats'))}catch(e){}
   stats=stats||{answered:0,correct:0,bestStreak:0,wrong:{},byCategory:{},bySubcategory:{},questionHistory:{},sessions:0};
   stats.bySubcategory=stats.bySubcategory||{};
   stats.questionHistory=stats.questionHistory||{};
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   el.subcategoryCount.textContent=Object.keys(REPORT.subcategories).length;
   el.qualityScore.textContent=REPORT.averageQualityScore+'/100';
 
-  function save(){localStorage.setItem('pqa_v7_stats',JSON.stringify(stats));renderStats()}
+  function save(){localStorage.setItem('pqa_v8_stats',JSON.stringify(stats));renderStats()}
   function level(){return stats.correct>=800?'Quizorakel':stats.correct>=500?'Allvetare':stats.correct>=250?'Quizräv':stats.correct>=80?'Pubtalang':'Pubnovis'}
   function profile(source){
     return Object.entries(source).filter(([,v])=>v.a>=4).map(([name,v])=>({name,percent:Math.round(v.c/v.a*100),a:v.a})).sort((a,b)=>a.percent-b.percent)

@@ -1,15 +1,15 @@
-# Pubquiz Academy 0.7 · Question Engine
+# Pubquiz Academy 0.8 · Question Factory
 
 ## Nytt
-- Delkategorier på samtliga frågor
-- Automatisk kvalitetsgranskning och quality-report.json
-- Frågor med låg kvalitet markeras för granskning
-- Adaptiv repetition med individuella intervall per fråga
-- Kunskapsprofil på delkategorinivå
-- Question Engine-läge med kvalitetsfiltrerade frågor
-- Delkategori-pass som fokuserar på ett tydligt svagt område
-- Frågeurval baserat på pubvärde, kvalitet, svaghet och förfallodag
-- Statistik migreras från version 0.6
+- 2 000 strukturerade frågeposter
+- Adminverktyg på `admin.html`
+- Sök, filtrera, redigera, skapa och arkivera frågor
+- Import/export av JSON och export av CSV
+- Automatisk kvalitetskontroll
+- Lokala ändringar sparas i webbläsaren
 
-## Uppdatering
-Kopiera samtliga filer till din lokala pubquiz-academy-mapp, ersätt, commit och push via GitHub Desktop.
+## Publicera ändringar från adminverktyget
+Exportera `questions.json`, ersätt filen i projektmappen och gör Commit + Push via GitHub Desktop.
+
+## Uppdatera appen
+Kopiera alla filer till `pubquiz-academy`, välj Ersätt, skriv `Version 0.8 - Question Factory`, Commit och Push origin.

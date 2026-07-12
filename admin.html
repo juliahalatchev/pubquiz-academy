@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="sv"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#163a34"><title>Question Factory</title><link rel="stylesheet" href="admin.css"></head>
+<body><main class="admin-shell">
+<header class="admin-header"><a href="index.html" class="back">← Appen</a><div><span>QUESTION FACTORY 0.8</span><h1>Frågebanken</h1></div><button id="newQuestion" class="primary">Ny fråga</button></header>
+<section class="notice">Ändringar sparas lokalt i webbläsaren. Exportera sedan <strong>questions.json</strong> och ersätt filen i GitHub-projektet för att publicera dem.</section>
+<section class="metrics"><div><strong id="total">–</strong><span>frågor</span></div><div><strong id="active">–</strong><span>aktiva</span></div><div><strong id="review">–</strong><span>granskning</span></div><div><strong id="avgQuality">–</strong><span>snittkvalitet</span></div></section>
+<section class="toolbar"><input id="search" type="search" placeholder="Sök fråga, svar, tagg eller delkategori"><select id="categoryFilter"><option value="">Alla kategorier</option></select><select id="statusFilter"><option value="">Alla statusar</option><option value="active">Aktiv</option><option value="review">Behöver granskas</option><option value="archived">Arkiverad</option></select><button id="validate">Kvalitetskontroll</button></section>
+<section class="actions"><label class="file-button">Importera JSON<input id="importJson" type="file" accept=".json"></label><button id="exportJson">Exportera questions.json</button><button id="exportCsv">Exportera CSV</button><button id="resetLocal" class="danger">Återställ lokala ändringar</button></section>
+<section id="validation" class="validation hidden"></section><div id="list" class="question-list"></div><div id="pagination" class="pagination"></div>
+</main>
+<dialog id="editor"><form method="dialog" id="editorForm"><div class="dialog-head"><h2 id="dialogTitle">Redigera fråga</h2><button value="cancel">×</button></div><input type="hidden" id="qid">
+<div class="two"><label>Kategori<input id="qcategory" required></label><label>Delkategori<input id="qsubcategory" required></label></div>
+<div class="two"><label>Svårighet<select id="qdifficulty"><option value="1">Lätt</option><option value="2">Medel</option><option value="3">Svår</option></select></label><label>Status<select id="qstatus"><option value="active">Aktiv</option><option value="review">Behöver granskas</option><option value="archived">Arkiverad</option></select></label></div>
+<label>Fråga<textarea id="qquestion" required></textarea></label>
+<div class="options-editor"><label>A<input id="o0" required></label><label>B<input id="o1" required></label><label>C<input id="o2" required></label><label>D<input id="o3" required></label></div>
+<label>Rätt svar<select id="qanswer"><option value="0">A</option><option value="1">B</option><option value="2">C</option><option value="3">D</option></select></label>
+<label>Förklaring<textarea id="qexplanation" required></textarea></label><label>Taggar, kommaseparerade<input id="qtags"></label>
+<div class="dialog-actions"><button value="cancel">Avbryt</button><button id="saveQuestion" value="default" class="primary">Spara</button></div></form></dialog>
+<script src="admin.js"></script></body></html>
