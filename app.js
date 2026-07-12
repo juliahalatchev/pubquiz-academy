@@ -1,7 +1,7 @@
 
 document.addEventListener('DOMContentLoaded', async () => {
-  const $ = id => document.getElementById(id);
-  const el = {
+  const $=id=>document.getElementById(id);
+  const el={
     answered:$('answered'),accuracy:$('accuracy'),bestStreak:$('bestStreak'),level:$('level'),
     category:$('category'),difficulty:$('difficulty'),home:$('home'),quiz:$('quiz'),result:$('result'),
     qCategory:$('qCategory'),counter:$('counter'),progressBar:$('progressBar'),timer:$('timer'),
@@ -9,446 +9,165 @@ document.addEventListener('DOMContentLoaded', async () => {
     score:$('score'),resultTitle:$('resultTitle'),resultText:$('resultText'),
     categoryBreakdown:$('categoryBreakdown'),again:$('again'),homeBtn:$('homeBtn'),
     insight:$('insight'),coachTitle:$('coachTitle'),coachText:$('coachText'),
-    coachStart:$('coachStart'),roundBanner:$('roundBanner'),roundLabel:$('roundLabel'),
-    roundTitle:$('roundTitle'),intelligenceReport:$('intelligenceReport')
+    roundBanner:$('roundBanner'),roundLabel:$('roundLabel'),roundTitle:$('roundTitle'),
+    intelligenceReport:$('intelligenceReport'),subcategoryPill:$('subcategoryPill'),
+    activeQuestions:$('activeQuestions'),subcategoryCount:$('subcategoryCount'),qualityScore:$('qualityScore')
   };
 
-  let QUESTIONS = [];
-  try {
-    const response = await fetch('questions.json', {cache:'no-store'});
-    QUESTIONS = await response.json();
-  } catch (error) {
-    document.body.innerHTML = '<main class="app-shell"><section class="section-block"><h1>Kunde inte läsa frågebanken</h1><p>Öppna appen via GitHub Pages.</p></section></main>';
+  let QUESTIONS=[],REPORT={};
+  try{
+    [QUESTIONS,REPORT]=await Promise.all([
+      fetch('questions.json',{cache:'no-store'}).then(r=>r.json()),
+      fetch('quality-report.json',{cache:'no-store'}).then(r=>r.json())
+    ]);
+  }catch(e){
+    document.body.innerHTML='<main class="app-shell"><section class="section-block"><h1>Kunde inte läsa Question Engine</h1></section></main>';
     return;
   }
 
+  QUESTIONS=QUESTIONS.filter(q=>q.status==='active');
+
   let stats;
-  try {
-    stats = JSON.parse(localStorage.getItem('pqa_v6_stats'));
-    if (!stats) stats = JSON.parse(localStorage.getItem('pqa_v5_stats'));
-  } catch (e) {}
-  stats = stats || {
-    answered:0,correct:0,bestStreak:0,wrong:{},byCategory:{},seen:[],
-    questionHistory:{},sessions:0
-  };
-  stats.questionHistory = stats.questionHistory || {};
-  stats.sessions = stats.sessions || 0;
+  try{stats=JSON.parse(localStorage.getItem('pqa_v7_stats'))||JSON.parse(localStorage.getItem('pqa_v6_stats'))}catch(e){}
+  stats=stats||{answered:0,correct:0,bestStreak:0,wrong:{},byCategory:{},bySubcategory:{},questionHistory:{},sessions:0};
+  stats.bySubcategory=stats.bySubcategory||{};
+  stats.questionHistory=stats.questionHistory||{};
+  stats.wrong=stats.wrong||{};
 
-  let round=[],index=0,points=0,streak=0,answeredCurrent=false,lastMode='intelligence';
-  let categoryScores={},timerId=null,secondsLeft=60,finishedCount=0,advanceId=null;
-  let sessionWrong=[],sessionRight=[],sessionStart=0;
+  let round=[],index=0,points=0,streak=0,answeredCurrent=false,lastMode='engine';
+  let categoryScores={},subScores={},advanceId=null,finishedCount=0;
 
-  const categoryOrder = [
-    'Geografi','Historia','Sverige','Musik','Film & TV','Sport',
-    'Vetenskap','Mat & dryck','Litteratur & konst','Blandat','Språk'
-  ];
-
-  [...new Set(QUESTIONS.map(q=>q.category))].sort().forEach(category=>{
-    const option=document.createElement('option');
-    option.value=category;
-    option.textContent=category;
-    el.category.appendChild(option);
+  [...new Set(QUESTIONS.map(q=>q.category))].sort().forEach(c=>{
+    const o=document.createElement('option');o.value=c;o.textContent=c;el.category.appendChild(o);
   });
 
-  function save(){
-    localStorage.setItem('pqa_v6_stats',JSON.stringify(stats));
-    renderStats();
-  }
+  el.activeQuestions.textContent=REPORT.activeCount;
+  el.subcategoryCount.textContent=Object.keys(REPORT.subcategories).length;
+  el.qualityScore.textContent=REPORT.averageQualityScore+'/100';
 
-  function level(){
-    if(stats.correct>=800)return'Quizorakel';
-    if(stats.correct>=500)return'Allvetare';
-    if(stats.correct>=250)return'Quizräv';
-    if(stats.correct>=80)return'Pubtalang';
-    return'Pubnovis';
+  function save(){localStorage.setItem('pqa_v7_stats',JSON.stringify(stats));renderStats()}
+  function level(){return stats.correct>=800?'Quizorakel':stats.correct>=500?'Allvetare':stats.correct>=250?'Quizräv':stats.correct>=80?'Pubtalang':'Pubnovis'}
+  function profile(source){
+    return Object.entries(source).filter(([,v])=>v.a>=4).map(([name,v])=>({name,percent:Math.round(v.c/v.a*100),a:v.a})).sort((a,b)=>a.percent-b.percent)
   }
-
-  function categoryProfile(){
-    return Object.entries(stats.byCategory)
-      .filter(([,v])=>v.a>=5)
-      .map(([name,v])=>({name,answered:v.a,correct:v.c,percent:Math.round(v.c/v.a*100)}))
-      .sort((a,b)=>a.percent-b.percent);
-  }
-
   function renderStats(){
-    el.answered.textContent=stats.answered;
-    el.accuracy.textContent=stats.answered?Math.round(stats.correct/stats.answered*100)+'%':'0%';
-    el.bestStreak.textContent=stats.bestStreak;
-    el.level.textContent=level();
-
-    const profile=categoryProfile();
-    if(!profile.length){
-      el.insight.innerHTML='<strong>Din quizprofil byggs upp</strong>Efter några rundor ser du ditt starkaste och svagaste område här.';
-      el.coachTitle.textContent='Börja med en intelligent basrunda';
-      el.coachText.textContent='Appen behöver lite data innan den kan rikta träningen riktigt vasst.';
+    el.answered.textContent=stats.answered;el.accuracy.textContent=stats.answered?Math.round(stats.correct/stats.answered*100)+'%':'0%';
+    el.bestStreak.textContent=stats.bestStreak;el.level.textContent=level();
+    const subs=profile(stats.bySubcategory),cats=profile(stats.byCategory);
+    if(!subs.length){
+      el.insight.innerHTML='<strong>Kunskapsprofilen byggs upp</strong>Efter några rundor ser motorn vilka delområden som behöver tätare repetition.';
+      el.coachTitle.textContent='Börja med Question Engine';
+      el.coachText.textContent='Ett första adaptivt pass ger motorn data på både kategori- och delkategorinivå.';
     }else{
-      const weak=profile[0];
-      const strong=profile[profile.length-1];
-      el.insight.innerHTML='<strong>Din quizprofil</strong><span class="weak">Träna mer: '+weak.name+' ('+weak.percent+'%)</span><br>Starkast just nu: '+strong.name+' ('+strong.percent+'%)';
+      const weak=subs[0],strong=subs[subs.length-1];
+      el.insight.innerHTML='<strong>Din detaljprofil</strong><span class="weak">Träna mer: '+weak.name+' ('+weak.percent+'%)</span><br>Starkast: '+strong.name+' ('+strong.percent+'%)';
       el.coachTitle.textContent='Fokusera på '+weak.name;
-      el.coachText.textContent='Det är just nu din tydligaste kunskapslucka. Smart träning blandar den med pubklassiker och tidigare felsvar.';
+      el.coachText.textContent='Detta är din tydligaste delkategori-lucka. Motorn blandar in närliggande ämnen för bättre överföring.';
     }
   }
 
-  function shuffle(array,seed=null){
-    const copy=[...array];
-    let random=Math.random;
-    if(seed!==null){
-      let state=seed>>>0;
-      random=()=>{
-        state=(state*1664525+1013904223)>>>0;
-        return state/4294967296;
-      };
+  function shuffle(a){
+    const x=[...a];for(let i=x.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[x[i],x[j]]=[x[j],x[i]]}return x
+  }
+  function show(t){[el.home,el.quiz,el.result].forEach(x=>x.classList.add('hidden'));t.classList.remove('hidden');window.scrollTo({top:0,behavior:'smooth'})}
+  function filtered(){return QUESTIONS.filter(q=>(el.category.value==='Alla'||q.category===el.category.value)&&(el.difficulty.value==='Alla'||String(q.difficulty)===el.difficulty.value))}
+  function dueScore(q){
+    const h=stats.questionHistory[q.id]||{seen:0,wrong:0,correct:0,lastSeen:0,interval:1};
+    const now=Date.now(),days=(now-(h.lastSeen||0))/86400000;
+    const overdue=Math.max(0,days-(h.interval||1));
+    const sub=stats.bySubcategory[q.subcategory];
+    const weakness=sub&&sub.a>=4?1-(sub.c/sub.a):.3;
+    return (q.pubWeight||1)+(q.qualityScore/100)+weakness*2+(h.wrong||0)*.8+Math.min(3,overdue*.35)-Math.min(1.5,(h.correct||0)*.12);
+  }
+  function weighted(pool,count){
+    const src=[...pool],out=[];
+    while(src.length&&out.length<count){
+      const weights=src.map(q=>Math.max(.1,dueScore(q))),total=weights.reduce((a,b)=>a+b,0);
+      let t=Math.random()*total,idx=0;
+      for(let i=0;i<weights.length;i++){t-=weights[i];if(t<=0){idx=i;break}}
+      out.push(src.splice(idx,1)[0]);
     }
-    for(let i=copy.length-1;i>0;i--){
-      const j=Math.floor(random()*(i+1));
-      [copy[i],copy[j]]=[copy[j],copy[i]];
-    }
-    return copy;
+    return out;
   }
-
-  function weightedPick(pool,count,seed=null){
-    const source=[...pool];
-    const selected=[];
-    let random=Math.random;
-    if(seed!==null){
-      let state=seed>>>0;
-      random=()=>{
-        state=(state*1664525+1013904223)>>>0;
-        return state/4294967296;
-      };
-    }
-
-    while(source.length && selected.length<count){
-      const weights=source.map(q=>{
-        const history=stats.questionHistory[q.id]||{seen:0,wrong:0};
-        const categoryData=stats.byCategory[q.category];
-        const weakness=categoryData&&categoryData.a>=5
-          ? Math.max(0,1-(categoryData.c/categoryData.a))
-          : .25;
-        const recencyPenalty=history.seen?Math.min(.75,history.seen*.12):0;
-        const wrongBoost=Math.min(3,(history.wrong||0)*.8);
-        return Math.max(.1,(q.pubWeight||1)+weakness*2+wrongBoost-recencyPenalty);
-      });
-      const total=weights.reduce((a,b)=>a+b,0);
-      let target=random()*total;
-      let chosen=0;
-      for(let i=0;i<weights.length;i++){
-        target-=weights[i];
-        if(target<=0){chosen=i;break}
-      }
-      selected.push(source.splice(chosen,1)[0]);
-    }
-    return selected;
+  function chooseSubcategory(pool){
+    const groups={};pool.forEach(q=>(groups[q.subcategory]||(groups[q.subcategory]=[])).push(q));
+    const ranked=Object.keys(groups).map(name=>{
+      const d=stats.bySubcategory[name];
+      const p=d&&d.a>=4?d.c/d.a:.65;
+      return {name,score:(1-p)+Math.min(1,groups[name].length/20)};
+    }).sort((a,b)=>b.score-a.score);
+    return ranked[0]&&groups[ranked[0].name]||pool;
   }
-
-  function daySeed(){
-    const d=new Date();
-    return Number(String(d.getFullYear())+String(d.getMonth()+1).padStart(2,'0')+String(d.getDate()).padStart(2,'0'));
-  }
-
-  function show(target){
-    [el.home,el.quiz,el.result].forEach(section=>section.classList.add('hidden'));
-    target.classList.remove('hidden');
-    window.scrollTo({top:0,behavior:'smooth'});
-  }
-
-  function filteredPool(){
-    return QUESTIONS.filter(q=>
-      (el.category.value==='Alla'||q.category===el.category.value)&&
-      (el.difficulty.value==='Alla'||String(q.difficulty)===el.difficulty.value)
-    );
-  }
-
-  function balancedIntelligence(pool,count){
-    if(el.category.value!=='Alla') return weightedPick(pool,count);
-
-    const targetCategories=[
-      'Geografi','Historia','Musik','Film & TV','Sport',
-      'Vetenskap','Mat & dryck','Litteratur & konst','Sverige','Blandat'
-    ];
-    const selected=[];
-    let remaining=[...pool];
-
-    targetCategories.forEach(category=>{
-      if(selected.length>=count)return;
-      const categoryPool=remaining.filter(q=>q.category===category);
-      const picks=weightedPick(categoryPool,Math.min(3,categoryPool.length));
-      selected.push(...picks);
-      const ids=new Set(picks.map(q=>q.id));
-      remaining=remaining.filter(q=>!ids.has(q.id));
-    });
-
-    if(selected.length<count){
-      selected.push(...weightedPick(remaining,count-selected.length));
-    }
-
-    const easy=shuffle(selected.filter(q=>q.difficulty===1));
-    const medium=shuffle(selected.filter(q=>q.difficulty===2));
-    const hard=shuffle(selected.filter(q=>q.difficulty===3));
-    return [...easy,...medium,...hard].slice(0,count);
-  }
-
-  function buildRound(mode){
-    let pool=filteredPool();
-    const count=mode==='intelligence'?30:mode==='daily'?15:mode==='lastminute'?12:mode==='classics'?15:10;
-
+  function build(mode){
+    let p=filtered(),count=mode==='intelligence'?30:mode==='engine'?20:mode==='lastminute'?12:15;
     if(mode==='weak'){
-      const weak=pool.filter(q=>stats.wrong[q.id]||(stats.questionHistory[q.id]||{}).wrong);
-      return weightedPick(weak.length>=3?weak:pool,count);
+      const w=p.filter(q=>stats.wrong[q.id]||(stats.questionHistory[q.id]||{}).wrong);
+      return weighted(w.length>=3?w:p,10);
     }
-
-    if(mode==='classics'){
-      const classics=pool.filter(q=>q.quizType==='klassiker'||q.pubWeight>=2.5);
-      return weightedPick(classics.length>=count?classics:pool,count);
-    }
-
-    if(mode==='lastminute'){
-      const highValue=pool.filter(q=>q.pubWeight>=2.3&&q.difficulty<=2);
-      return weightedPick(highValue.length>=count?highValue:pool,count);
-    }
-
-    if(mode==='daily'){
-      return weightedPick(pool,count,daySeed());
-    }
-
+    if(mode==='subcategory')return weighted(chooseSubcategory(p),15);
+    if(mode==='classics')return weighted(p.filter(q=>q.quizType==='klassiker'||q.pubWeight>=2.5),15);
+    if(mode==='lastminute')return weighted(p.filter(q=>q.pubWeight>=2.3&&q.difficulty<=2),12);
     if(mode==='smart'){
-      const profile=categoryProfile();
-      const weakCategories=new Set(profile.slice(0,2).map(x=>x.name));
-      const smartPool=pool.filter(q=>
-        weakCategories.has(q.category)||
-        stats.wrong[q.id]||
-        q.pubWeight>=2.4
-      );
-      return weightedPick(smartPool.length>=count?smartPool:pool,count);
+      const weakSubs=new Set(profile(stats.bySubcategory).slice(0,3).map(x=>x.name));
+      const smart=p.filter(q=>weakSubs.has(q.subcategory)||stats.wrong[q.id]||q.pubWeight>=2.5);
+      return weighted(smart.length>=15?smart:p,15);
     }
-
     if(mode==='intelligence'){
-      return balancedIntelligence(pool,count);
+      const picked=[];for(const c of ['Geografi','Historia','Musik','Film & TV','Sport','Vetenskap','Mat & dryck','Litteratur & konst','Sverige','Blandat']){
+        picked.push(...weighted(p.filter(q=>q.category===c),3))
+      }
+      return [...picked.filter(q=>q.difficulty===1),...picked.filter(q=>q.difficulty===2),...picked.filter(q=>q.difficulty===3)].slice(0,30);
     }
-
-    return weightedPick(pool,count);
+    return weighted(p,count);
   }
 
   function start(mode){
-    clearInterval(timerId);
-    clearTimeout(advanceId);
-    lastMode=mode;
-    round=buildRound(mode);
-    index=0;
-    points=0;
-    streak=0;
-    categoryScores={};
-    secondsLeft=60;
-    finishedCount=0;
-    answeredCurrent=false;
-    sessionWrong=[];
-    sessionRight=[];
-    sessionStart=Date.now();
-    stats.sessions++;
-
-    show(el.quiz);
-
-    if(mode==='quick'){
-      el.timer.classList.remove('hidden');
-      el.timer.textContent='60 sek';
-      timerId=setInterval(()=>{
-        secondsLeft--;
-        el.timer.textContent=secondsLeft+' sek';
-        if(secondsLeft<=0){
-          clearInterval(timerId);
-          finish();
-        }
-      },1000);
-    }else{
-      el.timer.classList.add('hidden');
-    }
-
-    showQuestion();
+    clearTimeout(advanceId);lastMode=mode;round=build(mode);index=0;points=0;streak=0;finishedCount=0;
+    categoryScores={};subScores={};stats.sessions=(stats.sessions||0)+1;show(el.quiz);showQuestion()
   }
-
-  function roundInfo(){
-    if(lastMode!=='intelligence')return null;
-    if(index<10)return{label:'RUNDA 1 AV 3',title:'Bred allmänbildning'};
-    if(index<20)return{label:'RUNDA 2 AV 3',title:'Pubklassiker och kultur'};
-    return{label:'RUNDA 3 AV 3',title:'Svårare avslutning'};
-  }
-
   function showQuestion(){
-    clearTimeout(advanceId);
-    if(index>=round.length){
-      finish();
-      return;
-    }
-
-    const info=roundInfo();
-    if(info){
-      el.roundBanner.classList.remove('hidden');
-      el.roundLabel.textContent=info.label;
-      el.roundTitle.textContent=info.title;
-    }else{
-      el.roundBanner.classList.add('hidden');
-    }
-
-    answeredCurrent=false;
-    const q=round[index];
+    if(index>=round.length){finish();return}
+    answeredCurrent=false;const q=round[index];
     el.qCategory.textContent=q.category+' · '+['','Lätt','Medel','Svår'][q.difficulty];
-    el.counter.textContent=(index+1)+' av '+round.length;
-    el.progressBar.style.width=(index/round.length*100)+'%';
-    el.question.textContent=q.question;
-    el.options.innerHTML='';
-    el.feedback.classList.add('hidden');
-
-    q.options.forEach((text,optionIndex)=>{
-      const button=document.createElement('button');
-      button.type='button';
-      button.className='option';
-      button.innerHTML='<span class="answer-letter">'+['A','B','C','D'][optionIndex]+'</span><span>'+text+'</span>';
-      button.addEventListener('click',()=>answer(optionIndex,button));
-      el.options.appendChild(button);
+    el.counter.textContent=(index+1)+' av '+round.length;el.progressBar.style.width=(index/round.length*100)+'%';
+    el.subcategoryPill.textContent=q.subcategory;el.question.textContent=q.question;el.options.innerHTML='';el.feedback.classList.add('hidden');
+    q.options.forEach((text,i)=>{
+      const b=document.createElement('button');b.className='option';b.innerHTML='<span class="answer-letter">'+['A','B','C','D'][i]+'</span><span>'+text+'</span>';
+      b.onclick=()=>answer(i,b);el.options.appendChild(b)
     });
   }
-
   function answer(choice,button){
-    if(answeredCurrent)return;
-    answeredCurrent=true;
-    finishedCount++;
-
-    const q=round[index];
-    const history=stats.questionHistory[q.id]||{seen:0,wrong:0,correct:0};
-    history.seen++;
-    stats.questionHistory[q.id]=history;
-
-    const buttons=[...el.options.querySelectorAll('.option')];
-    buttons.forEach((item,itemIndex)=>{
-      item.disabled=true;
-      if(itemIndex===q.answer)item.classList.add('correct');
-    });
-
-    stats.answered++;
-    if(!stats.seen.includes(q.id)){
-      stats.seen.push(q.id);
-      if(stats.seen.length>800)stats.seen=stats.seen.slice(-800);
-    }
-
-    stats.byCategory[q.category]=stats.byCategory[q.category]||{a:0,c:0};
-    stats.byCategory[q.category].a++;
-    categoryScores[q.category]=categoryScores[q.category]||{a:0,c:0};
-    categoryScores[q.category].a++;
-
+    if(answeredCurrent)return;answeredCurrent=true;finishedCount++;
+    const q=round[index],h=stats.questionHistory[q.id]||{seen:0,wrong:0,correct:0,lastSeen:0,interval:1};
+    h.seen++;h.lastSeen=Date.now();const buttons=[...el.options.querySelectorAll('.option')];
+    buttons.forEach((b,i)=>{b.disabled=true;if(i===q.answer)b.classList.add('correct')});
+    stats.answered++;stats.byCategory[q.category]=stats.byCategory[q.category]||{a:0,c:0};stats.bySubcategory[q.subcategory]=stats.bySubcategory[q.subcategory]||{a:0,c:0};
+    stats.byCategory[q.category].a++;stats.bySubcategory[q.subcategory].a++;categoryScores[q.category]=categoryScores[q.category]||{a:0,c:0};subScores[q.subcategory]=subScores[q.subcategory]||{a:0,c:0};categoryScores[q.category].a++;subScores[q.subcategory].a++;
     if(choice===q.answer){
-      points++;
-      stats.correct++;
-      streak++;
-      history.correct++;
-      stats.bestStreak=Math.max(stats.bestStreak,streak);
-      stats.byCategory[q.category].c++;
-      categoryScores[q.category].c++;
-      sessionRight.push(q);
-
-      if(stats.wrong[q.id]){
-        stats.wrong[q.id]--;
-        if(stats.wrong[q.id]<=0)delete stats.wrong[q.id];
-      }
-
-      el.feedback.innerHTML='<strong>Rätt!</strong> '+q.explanation;
-      if(navigator.vibrate)navigator.vibrate(25);
+      points++;streak++;stats.correct++;h.correct++;h.interval=Math.min(30,Math.max(1,(h.interval||1)*2));stats.bestStreak=Math.max(stats.bestStreak,streak);
+      stats.byCategory[q.category].c++;stats.bySubcategory[q.subcategory].c++;categoryScores[q.category].c++;subScores[q.subcategory].c++;
+      if(stats.wrong[q.id]&&!--stats.wrong[q.id])delete stats.wrong[q.id];
+      el.feedback.innerHTML='<strong>Rätt!</strong> '+q.explanation
     }else{
-      streak=0;
-      history.wrong++;
-      button.classList.add('wrong');
-      stats.wrong[q.id]=(stats.wrong[q.id]||0)+1;
-      sessionWrong.push(q);
-      el.feedback.innerHTML='<strong>Inte riktigt.</strong> '+q.explanation;
-      if(navigator.vibrate)navigator.vibrate([20,40,20]);
+      streak=0;h.wrong++;h.interval=1;stats.wrong[q.id]=(stats.wrong[q.id]||0)+1;button.classList.add('wrong');
+      el.feedback.innerHTML='<strong>Inte riktigt.</strong> '+q.explanation
     }
-
-    save();
-    el.feedback.classList.remove('hidden');
-
-    advanceId=setTimeout(()=>{
-      index++;
-      showQuestion();
-    },1650);
+    stats.questionHistory[q.id]=h;save();el.feedback.classList.remove('hidden');
+    advanceId=setTimeout(()=>{index++;showQuestion()},1650)
   }
-
-  function intelligenceSummary(){
-    const profile=Object.entries(categoryScores)
-      .map(([name,v])=>({name,percent:Math.round(v.c/v.a*100),answered:v.a}))
-      .sort((a,b)=>a.percent-b.percent);
-
-    const weakest=profile[0];
-    const strongest=profile[profile.length-1];
-    const classicAnswered=round.filter(q=>q.quizType==='klassiker').length;
-    const classicCorrect=sessionRight.filter(q=>q.quizType==='klassiker').length;
-    const classicPercent=classicAnswered?Math.round(classicCorrect/classicAnswered*100):0;
-
-    return {weakest,strongest,classicPercent};
-  }
-
   function finish(){
-    clearInterval(timerId);
-    clearTimeout(advanceId);
-    show(el.result);
-
-    const percent=Math.round(points/Math.max(finishedCount,1)*100);
-    el.score.textContent=percent+'%';
-
-    el.resultTitle.textContent=
-      percent>=90?'Quizorakel i högform':
-      percent>=75?'Redo för ett vasst pubbord':
-      percent>=55?'Stabil quizform':
-      'Nu vet coachen vad som ska tränas';
-
-    el.resultText.textContent=
-      lastMode==='lastminute'
-        ? 'Uppvärmningen är klar. De viktigaste luckorna är nu färska i minnet.'
-        : percent>=75
-          ? 'Din blandning av bredd och pubklassiker ser stark ut.'
-          : 'Felsvaren har lagts in i nästa smarta träningspass.';
-
-    const report=intelligenceSummary();
+    clearTimeout(advanceId);show(el.result);const pct=Math.round(points/Math.max(finishedCount,1)*100);el.score.textContent=pct+'%';
+    el.resultTitle.textContent=pct>=90?'Mycket stark motorträff':pct>=75?'Vass quizform':pct>=55?'Bra träningspass':'Motorn har hittat luckorna';
+    el.resultText.textContent='Nästa pass viktas om efter resultatet och frågornas repetitionsintervall.';
+    const subs=Object.entries(subScores).map(([name,v])=>({name,p:Math.round(v.c/v.a*100)})).sort((a,b)=>a.p-b.p);
     el.intelligenceReport.innerHTML='';
-
-    const rows=[
-      ['Pubklassiker',report.classicPercent+'% rätt'],
-      ['Starkast i rundan',report.strongest?report.strongest.name+' · '+report.strongest.percent+'%':'För få svar'],
-      ['Nästa fokus',report.weakest?report.weakest.name+' · '+report.weakest.percent+'%':'Fortsätt samla data']
-    ];
-
-    rows.forEach(([label,value])=>{
-      const row=document.createElement('div');
-      row.className='report-row';
-      row.innerHTML='<span>'+label+'</span><strong>'+value+'</strong>';
-      el.intelligenceReport.appendChild(row);
+    [['Svagaste delkategori',subs[0]?subs[0].name+' · '+subs[0].p+'%':'För få svar'],['Starkaste delkategori',subs.length?subs[subs.length-1].name+' · '+subs[subs.length-1].p+'%':'För få svar'],['Frågor i passet',finishedCount]].forEach(([l,v])=>{
+      const d=document.createElement('div');d.className='report-row';d.innerHTML='<span>'+l+'</span><strong>'+v+'</strong>';el.intelligenceReport.appendChild(d)
     });
-
-    el.categoryBreakdown.innerHTML='';
-    Object.entries(categoryScores).forEach(([category,values])=>{
-      const row=document.createElement('div');
-      row.innerHTML='<span>'+category+'</span><strong>'+values.c+'/'+values.a+'</strong>';
-      el.categoryBreakdown.appendChild(row);
-    });
-
-    save();
+    el.categoryBreakdown.innerHTML='';Object.entries(categoryScores).forEach(([c,v])=>{const d=document.createElement('div');d.innerHTML='<span>'+c+'</span><strong>'+v.c+'/'+v.a+'</strong>';el.categoryBreakdown.appendChild(d)});save()
   }
 
-  document.querySelectorAll('[data-mode]').forEach(button=>{
-    button.addEventListener('click',()=>start(button.dataset.mode));
-  });
-
-  el.quit.addEventListener('click',()=>{
-    clearInterval(timerId);
-    clearTimeout(advanceId);
-    show(el.home);
-  });
-
-  el.homeBtn.addEventListener('click',()=>show(el.home));
-  el.again.addEventListener('click',()=>start(lastMode));
-
-  renderStats();
-
-  if('serviceWorker'in navigator){
-    navigator.serviceWorker.register('sw.js').catch(()=>{});
-  }
+  document.querySelectorAll('[data-mode]').forEach(b=>b.onclick=()=>start(b.dataset.mode));
+  el.quit.onclick=()=>{clearTimeout(advanceId);show(el.home)};el.homeBtn.onclick=()=>show(el.home);el.again.onclick=()=>start(lastMode);
+  renderStats();if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{})
 });

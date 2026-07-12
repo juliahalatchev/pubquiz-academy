@@ -1,21 +1,15 @@
-# Pubquiz Academy 0.6 · Bishops Intelligence
+# Pubquiz Academy 0.7 · Question Engine
 
 ## Nytt
-- Bishops Intelligence med 30 frågor i tre rundor
-- Balanserad kategorimix och stigande svårighetsgrad
-- Frågor viktas efter pubquizvärde
-- Smart träning utifrån svaga kategorier, felsvar och sedda frågor
-- Sista minuten med 12 högvärdiga frågor
-- Pubklassiker med återkommande frågetyper
-- Intelligence-rapport efter rundan
-- Statistik från version 0.5 migreras automatiskt
-- Samma rena Design Edition-gränssnitt
+- Delkategorier på samtliga frågor
+- Automatisk kvalitetsgranskning och quality-report.json
+- Frågor med låg kvalitet markeras för granskning
+- Adaptiv repetition med individuella intervall per fråga
+- Kunskapsprofil på delkategorinivå
+- Question Engine-läge med kvalitetsfiltrerade frågor
+- Delkategori-pass som fokuserar på ett tydligt svagt område
+- Frågeurval baserat på pubvärde, kvalitet, svaghet och förfallodag
+- Statistik migreras från version 0.6
 
-## Uppdatera med GitHub Desktop
-1. Packa upp ZIP-filen.
-2. Kopiera alla filer till din lokala mapp `pubquiz-academy`.
-3. Välj Ersätt.
-4. Öppna GitHub Desktop.
-5. Skriv `Version 0.6 - Bishops Intelligence`.
-6. Klicka `Commit to main`.
-7. Klicka `Push origin`.
+## Uppdatering
+Kopiera samtliga filer till din lokala pubquiz-academy-mapp, ersätt, commit och push via GitHub Desktop.

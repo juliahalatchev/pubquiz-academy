@@ -452,3 +452,9 @@ footer{
   .coach-card{grid-template-columns:1fr}
   .coach-button{width:100%}
 }
+
+.engine-summary{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:0 0 16px}
+.engine-summary div{background:var(--surface);border-radius:18px;padding:16px;box-shadow:0 8px 24px rgba(22,32,28,.04)}
+.engine-summary span,.engine-summary strong{display:block}.engine-summary span{font-size:11px;color:var(--muted)}.engine-summary strong{font-size:22px;color:var(--green);margin-top:4px}
+.subcategory-pill{display:inline-flex;padding:7px 10px;border-radius:999px;background:var(--surface-soft);color:var(--green);font-size:11px;font-weight:800;margin-bottom:16px}
+@media(max-width:640px){.engine-summary{grid-template-columns:1fr}}

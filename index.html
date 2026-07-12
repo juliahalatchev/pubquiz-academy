@@ -2,152 +2,103 @@
 <html lang="sv">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#163a34">
   <title>Pubquiz Academy</title>
   <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <main class="app-shell">
-    <header class="app-header">
-      <div class="logo">QA</div>
+<main class="app-shell">
+  <header class="app-header">
+    <div class="logo">QA</div>
+    <div><strong>Pubquiz Academy</strong><span>Question Engine · 0.7</span></div>
+  </header>
+
+  <section id="home" class="screen">
+    <div class="hero compact-hero">
+      <span class="eyebrow">SMARTARE FRÅGEMOTOR</span>
+      <h1>Rätt fråga.<br>Vid rätt tillfälle.</h1>
+      <p>Motorn väljer nu frågor efter delkategori, kvalitet, pubvärde, repetition och din faktiska kunskapsprofil.</p>
+    </div>
+
+    <button data-mode="engine" class="primary-card intelligence-card">
+      <div class="icon-circle">QE</div>
+      <div><strong>Question Engine</strong><span>20 frågor · adaptiv mix · kvalitetsfiltrerat</span></div>
+      <span class="arrow">→</span>
+    </button>
+
+    <section class="stats-strip">
+      <div><strong id="answered">0</strong><span>Besvarade</span></div>
+      <div><strong id="accuracy">0%</strong><span>Rätt</span></div>
+      <div><strong id="bestStreak">0</strong><span>Bästa svit</span></div>
+      <div><strong id="level">Pubnovis</strong><span>Nivå</span></div>
+    </section>
+
+    <section class="engine-summary">
+      <div><span>Aktiva frågor</span><strong id="activeQuestions">–</strong></div>
+      <div><span>Delkategorier</span><strong id="subcategoryCount">–</strong></div>
+      <div><span>Kvalitet</span><strong id="qualityScore">–</strong></div>
+    </section>
+
+    <section class="coach-card">
       <div>
-        <strong>Pubquiz Academy</strong>
-        <span>Bishops Intelligence · 0.6</span>
+        <span class="eyebrow">MOTORNS REKOMMENDATION</span>
+        <h2 id="coachTitle">Analyserar frågebanken</h2>
+        <p id="coachText">Motorn kombinerar svaga områden, gamla felsvar och frågor som behöver återkomma.</p>
       </div>
-    </header>
-
-    <section id="home" class="screen">
-      <div class="hero compact-hero">
-        <span class="eyebrow">DIN PUBQUIZCOACH</span>
-        <h1>Träna på det som<br>faktiskt brukar komma.</h1>
-        <p>Appen väger pubklassiker, dina felsvar, svaga kategorier och nyligen sedda frågor för att bygga smartare rundor.</p>
-      </div>
-
-      <button data-mode="intelligence" class="primary-card intelligence-card">
-        <div class="icon-circle">BI</div>
-        <div>
-          <strong>Bishops Intelligence</strong>
-          <span>30 frågor · balanserade rundor · stigande svårighet</span>
-        </div>
-        <span class="arrow">→</span>
-      </button>
-
-      <section class="stats-strip" aria-label="Din statistik">
-        <div><strong id="answered">0</strong><span>Besvarade</span></div>
-        <div><strong id="accuracy">0%</strong><span>Rätt</span></div>
-        <div><strong id="bestStreak">0</strong><span>Bästa svit</span></div>
-        <div><strong id="level">Pubnovis</strong><span>Nivå</span></div>
-      </section>
-
-      <section class="coach-card">
-        <div>
-          <span class="eyebrow">COACHENS REKOMMENDATION</span>
-          <h2 id="coachTitle">Samlar träningsdata</h2>
-          <p id="coachText">Efter några rundor rekommenderar appen automatiskt vad som ger mest utdelning.</p>
-        </div>
-        <button id="coachStart" data-mode="smart" class="coach-button">Starta smart träning</button>
-      </section>
-
-      <section class="section-block">
-        <div class="section-title">
-          <div>
-            <span class="eyebrow">SNABBA VÄGAR</span>
-            <h2>Välj träningspass</h2>
-          </div>
-        </div>
-
-        <div class="mode-list">
-          <button data-mode="lastminute" class="mode-row">
-            <span class="mode-icon">5</span>
-            <span><strong>Sista minuten</strong><small>Tolv högvärdiga frågor före puben</small></span>
-            <span>›</span>
-          </button>
-          <button data-mode="classics" class="mode-row">
-            <span class="mode-icon">★</span>
-            <span><strong>Pubklassiker</strong><small>Frågetyper som gärna återkommer</small></span>
-            <span>›</span>
-          </button>
-          <button data-mode="daily" class="mode-row">
-            <span class="mode-icon">15</span>
-            <span><strong>Dagens quiz</strong><small>Samma smarta runda hela dagen</small></span>
-            <span>›</span>
-          </button>
-          <button data-mode="weak" class="mode-row">
-            <span class="mode-icon">↻</span>
-            <span><strong>Repetera felsvar</strong><small>Laga de konkreta kunskapsluckorna</small></span>
-            <span>›</span>
-          </button>
-          <button data-mode="quick" class="mode-row">
-            <span class="mode-icon">60</span>
-            <span><strong>Snabbrunda</strong><small>Så många du hinner på en minut</small></span>
-            <span>›</span>
-          </button>
-        </div>
-      </section>
-
-      <section class="section-block settings-block">
-        <div class="field">
-          <label for="category">Kategori</label>
-          <select id="category"><option value="Alla">Alla kategorier</option></select>
-        </div>
-        <div class="field">
-          <label for="difficulty">Svårighetsgrad</label>
-          <select id="difficulty">
-            <option value="Alla">Intelligent blandning</option>
-            <option value="1">Lätt</option>
-            <option value="2">Medel</option>
-            <option value="3">Svår</option>
-          </select>
-        </div>
-      </section>
-
-      <section id="insight" class="insight-card"></section>
+      <button data-mode="smart" class="coach-button">Starta rekommenderat pass</button>
     </section>
 
-    <section id="quiz" class="screen hidden">
-      <div class="quiz-top">
-        <button id="quit" class="icon-button" aria-label="Avsluta">×</button>
-        <div class="quiz-meta">
-          <span id="qCategory"></span>
-          <strong id="counter"></strong>
-        </div>
-        <div id="timer" class="timer hidden"></div>
+    <section class="section-block">
+      <div class="section-title"><div><span class="eyebrow">TRÄNINGSLÄGEN</span><h2>Välj pass</h2></div></div>
+      <div class="mode-list">
+        <button data-mode="intelligence" class="mode-row"><span class="mode-icon">30</span><span><strong>Bishops Intelligence</strong><small>Tre pubquizrundor</small></span><span>›</span></button>
+        <button data-mode="lastminute" class="mode-row"><span class="mode-icon">5</span><span><strong>Sista minuten</strong><small>Högvärdiga frågor före puben</small></span><span>›</span></button>
+        <button data-mode="classics" class="mode-row"><span class="mode-icon">★</span><span><strong>Pubklassiker</strong><small>Vanliga frågetyper</small></span><span>›</span></button>
+        <button data-mode="subcategory" class="mode-row"><span class="mode-icon">§</span><span><strong>Delkategori-pass</strong><small>Motorn väljer ett tydligt fokus</small></span><span>›</span></button>
+        <button data-mode="weak" class="mode-row"><span class="mode-icon">↻</span><span><strong>Repetera felsvar</strong><small>Laga konkreta luckor</small></span><span>›</span></button>
       </div>
-
-      <div id="roundBanner" class="round-banner hidden">
-        <span id="roundLabel"></span>
-        <strong id="roundTitle"></strong>
-      </div>
-
-      <div class="progress"><div id="progressBar"></div></div>
-
-      <article class="question-panel">
-        <h2 id="question"></h2>
-        <div id="options" class="options"></div>
-        <div id="feedback" class="feedback hidden"></div>
-      </article>
     </section>
 
-    <section id="result" class="screen hidden">
-      <article class="result-panel">
-        <span class="eyebrow">INTELLIGENCE-RAPPORT</span>
-        <div id="score" class="score"></div>
-        <h2 id="resultTitle"></h2>
-        <p id="resultText"></p>
-        <div id="intelligenceReport" class="intelligence-report"></div>
-        <div id="categoryBreakdown" class="breakdown"></div>
-        <div class="result-actions">
-          <button id="again" class="primary-button">Kör igen</button>
-          <button id="homeBtn" class="secondary-button">Startsidan</button>
-        </div>
-      </article>
+    <section class="section-block settings-block">
+      <div class="field"><label for="category">Kategori</label><select id="category"><option value="Alla">Alla kategorier</option></select></div>
+      <div class="field"><label for="difficulty">Svårighetsgrad</label><select id="difficulty"><option value="Alla">Adaptiv</option><option value="1">Lätt</option><option value="2">Medel</option><option value="3">Svår</option></select></div>
     </section>
 
-    <footer>Pubquiz Academy · 1 000 frågor · Bishops Intelligence</footer>
-  </main>
+    <section id="insight" class="insight-card"></section>
+  </section>
 
-  <script src="app.js"></script>
+  <section id="quiz" class="screen hidden">
+    <div class="quiz-top">
+      <button id="quit" class="icon-button">×</button>
+      <div class="quiz-meta"><span id="qCategory"></span><strong id="counter"></strong></div>
+      <div id="timer" class="timer hidden"></div>
+    </div>
+    <div id="roundBanner" class="round-banner hidden"><span id="roundLabel"></span><strong id="roundTitle"></strong></div>
+    <div class="progress"><div id="progressBar"></div></div>
+    <article class="question-panel">
+      <div id="subcategoryPill" class="subcategory-pill"></div>
+      <h2 id="question"></h2>
+      <div id="options" class="options"></div>
+      <div id="feedback" class="feedback hidden"></div>
+    </article>
+  </section>
+
+  <section id="result" class="screen hidden">
+    <article class="result-panel">
+      <span class="eyebrow">QUESTION ENGINE-RAPPORT</span>
+      <div id="score" class="score"></div>
+      <h2 id="resultTitle"></h2>
+      <p id="resultText"></p>
+      <div id="intelligenceReport" class="intelligence-report"></div>
+      <div id="categoryBreakdown" class="breakdown"></div>
+      <div class="result-actions"><button id="again" class="primary-button">Kör igen</button><button id="homeBtn" class="secondary-button">Startsidan</button></div>
+    </article>
+  </section>
+
+  <footer>Pubquiz Academy · Question Engine 0.7</footer>
+</main>
+<script src="app.js"></script>
 </body>
 </html>
