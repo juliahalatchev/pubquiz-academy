@@ -1,0 +1,9 @@
+{
+  "name": "Pubquiz Academy",
+  "short_name": "Pubquiz",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3ecdc",
+  "theme_color": "#17352f",
+  "icons": []
+}

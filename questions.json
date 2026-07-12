@@ -1,0 +1,8662 @@
+[
+  {
+    "id": 1,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilken är huvudstaden i Sverige?",
+    "options": [
+      "Stockholm",
+      "Mexico City",
+      "Rom",
+      "Reykjavík"
+    ],
+    "answer": 0,
+    "explanation": "Stockholm är huvudstad i Sverige.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "I vilket land är Stockholm huvudstad?",
+    "options": [
+      "Sydafrika",
+      "Frankrike",
+      "Portugal",
+      "Sverige"
+    ],
+    "answer": 3,
+    "explanation": "Stockholm är huvudstad i Sverige.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilken är huvudstaden i Norge?",
+    "options": [
+      "Sofia",
+      "Oslo",
+      "Chișinău",
+      "Paris"
+    ],
+    "answer": 1,
+    "explanation": "Oslo är huvudstad i Norge.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "I vilket land är Oslo huvudstad?",
+    "options": [
+      "Sydafrika",
+      "Laos",
+      "Rumänien",
+      "Norge"
+    ],
+    "answer": 3,
+    "explanation": "Oslo är huvudstad i Norge.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilken är huvudstaden i Danmark?",
+    "options": [
+      "Köpenhamn",
+      "Stockholm",
+      "Ljubljana",
+      "Kuala Lumpur"
+    ],
+    "answer": 0,
+    "explanation": "Köpenhamn är huvudstad i Danmark.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "I vilket land är Köpenhamn huvudstad?",
+    "options": [
+      "Portugal",
+      "Danmark",
+      "Kina",
+      "Bulgarien"
+    ],
+    "answer": 1,
+    "explanation": "Köpenhamn är huvudstad i Danmark.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilken är huvudstaden i Finland?",
+    "options": [
+      "Helsingfors",
+      "Seoul",
+      "Pyongyang",
+      "Abu Dhabi"
+    ],
+    "answer": 0,
+    "explanation": "Helsingfors är huvudstad i Finland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "I vilket land är Helsingfors huvudstad?",
+    "options": [
+      "Finland",
+      "Schweiz",
+      "Bangladesh",
+      "Senegal"
+    ],
+    "answer": 0,
+    "explanation": "Helsingfors är huvudstad i Finland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Island?",
+    "options": [
+      "Baku",
+      "Podgorica",
+      "Reykjavík",
+      "New Delhi"
+    ],
+    "answer": 2,
+    "explanation": "Reykjavík är huvudstad i Island.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Reykjavík huvudstad?",
+    "options": [
+      "Island",
+      "Moldavien",
+      "Belgien",
+      "Argentina"
+    ],
+    "answer": 0,
+    "explanation": "Reykjavík är huvudstad i Island.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Estland?",
+    "options": [
+      "Tallinn",
+      "Canberra",
+      "New Delhi",
+      "Ljubljana"
+    ],
+    "answer": 0,
+    "explanation": "Tallinn är huvudstad i Estland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Tallinn huvudstad?",
+    "options": [
+      "Estland",
+      "USA",
+      "Förenade arabemiraten",
+      "Nederländerna"
+    ],
+    "answer": 0,
+    "explanation": "Tallinn är huvudstad i Estland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Lettland?",
+    "options": [
+      "Wellington",
+      "Ljubljana",
+      "Riga",
+      "Dhaka"
+    ],
+    "answer": 2,
+    "explanation": "Riga är huvudstad i Lettland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Riga huvudstad?",
+    "options": [
+      "Lettland",
+      "Moldavien",
+      "Polen",
+      "Venezuela"
+    ],
+    "answer": 0,
+    "explanation": "Riga är huvudstad i Lettland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Litauen?",
+    "options": [
+      "Vilnius",
+      "Berlin",
+      "Washington, D.C.",
+      "Sofia"
+    ],
+    "answer": 0,
+    "explanation": "Vilnius är huvudstad i Litauen.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Vilnius huvudstad?",
+    "options": [
+      "Australien",
+      "Litauen",
+      "Thailand",
+      "Slovakien"
+    ],
+    "answer": 1,
+    "explanation": "Vilnius är huvudstad i Litauen.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Polen?",
+    "options": [
+      "Tbilisi",
+      "Dakar",
+      "Ottawa",
+      "Warszawa"
+    ],
+    "answer": 3,
+    "explanation": "Warszawa är huvudstad i Polen.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Warszawa huvudstad?",
+    "options": [
+      "Rumänien",
+      "Tjeckien",
+      "Indien",
+      "Polen"
+    ],
+    "answer": 3,
+    "explanation": "Warszawa är huvudstad i Polen.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilken är huvudstaden i Tyskland?",
+    "options": [
+      "Budapest",
+      "Rom",
+      "Ljubljana",
+      "Berlin"
+    ],
+    "answer": 3,
+    "explanation": "Berlin är huvudstad i Tyskland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "I vilket land är Berlin huvudstad?",
+    "options": [
+      "Nepal",
+      "Bangladesh",
+      "Saudiarabien",
+      "Tyskland"
+    ],
+    "answer": 3,
+    "explanation": "Berlin är huvudstad i Tyskland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Nederländerna?",
+    "options": [
+      "Ankara",
+      "Oslo",
+      "Amsterdam",
+      "Rom"
+    ],
+    "answer": 2,
+    "explanation": "Amsterdam är huvudstad i Nederländerna.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Amsterdam huvudstad?",
+    "options": [
+      "Indonesien",
+      "Italien",
+      "Nederländerna",
+      "Argentina"
+    ],
+    "answer": 2,
+    "explanation": "Amsterdam är huvudstad i Nederländerna.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Belgien?",
+    "options": [
+      "Bryssel",
+      "Nairobi",
+      "Belgrad",
+      "Ottawa"
+    ],
+    "answer": 0,
+    "explanation": "Bryssel är huvudstad i Belgien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Bryssel huvudstad?",
+    "options": [
+      "Albanien",
+      "Kenya",
+      "Belgien",
+      "Förenade arabemiraten"
+    ],
+    "answer": 2,
+    "explanation": "Bryssel är huvudstad i Belgien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilken är huvudstaden i Frankrike?",
+    "options": [
+      "Paris",
+      "Pretoria",
+      "Accra",
+      "Stockholm"
+    ],
+    "answer": 0,
+    "explanation": "Paris är huvudstad i Frankrike.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "I vilket land är Paris huvudstad?",
+    "options": [
+      "Frankrike",
+      "Peru",
+      "Italien",
+      "Indien"
+    ],
+    "answer": 0,
+    "explanation": "Paris är huvudstad i Frankrike.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilken är huvudstaden i Spanien?",
+    "options": [
+      "Amsterdam",
+      "Madrid",
+      "Alger",
+      "Jerevan"
+    ],
+    "answer": 1,
+    "explanation": "Madrid är huvudstad i Spanien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "I vilket land är Madrid huvudstad?",
+    "options": [
+      "Österrike",
+      "Turkiet",
+      "Spanien",
+      "Egypten"
+    ],
+    "answer": 2,
+    "explanation": "Madrid är huvudstad i Spanien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Portugal?",
+    "options": [
+      "Sofia",
+      "Lissabon",
+      "Pretoria",
+      "Tirana"
+    ],
+    "answer": 1,
+    "explanation": "Lissabon är huvudstad i Portugal.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Lissabon huvudstad?",
+    "options": [
+      "Nigeria",
+      "Singapore",
+      "Portugal",
+      "Filippinerna"
+    ],
+    "answer": 2,
+    "explanation": "Lissabon är huvudstad i Portugal.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilken är huvudstaden i Italien?",
+    "options": [
+      "Rom",
+      "Warszawa",
+      "Köpenhamn",
+      "Peking"
+    ],
+    "answer": 0,
+    "explanation": "Rom är huvudstad i Italien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "I vilket land är Rom huvudstad?",
+    "options": [
+      "Italien",
+      "Litauen",
+      "Sverige",
+      "Tyskland"
+    ],
+    "answer": 0,
+    "explanation": "Rom är huvudstad i Italien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Schweiz?",
+    "options": [
+      "Tokyo",
+      "Addis Abeba",
+      "Bern",
+      "Berlin"
+    ],
+    "answer": 2,
+    "explanation": "Bern är huvudstad i Schweiz.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Bern huvudstad?",
+    "options": [
+      "Österrike",
+      "Sydafrika",
+      "Bulgarien",
+      "Schweiz"
+    ],
+    "answer": 3,
+    "explanation": "Bern är huvudstad i Schweiz.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Österrike?",
+    "options": [
+      "Wien",
+      "Podgorica",
+      "Paris",
+      "Phnom Penh"
+    ],
+    "answer": 0,
+    "explanation": "Wien är huvudstad i Österrike.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Wien huvudstad?",
+    "options": [
+      "Malaysia",
+      "Nordkorea",
+      "Kambodja",
+      "Österrike"
+    ],
+    "answer": 3,
+    "explanation": "Wien är huvudstad i Österrike.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Tjeckien?",
+    "options": [
+      "Vilnius",
+      "Prag",
+      "Paris",
+      "Hanoi"
+    ],
+    "answer": 1,
+    "explanation": "Prag är huvudstad i Tjeckien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Prag huvudstad?",
+    "options": [
+      "Singapore",
+      "Montenegro",
+      "Tjeckien",
+      "Senegal"
+    ],
+    "answer": 2,
+    "explanation": "Prag är huvudstad i Tjeckien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Slovakien?",
+    "options": [
+      "Dublin",
+      "Bratislava",
+      "Wellington",
+      "Mexico City"
+    ],
+    "answer": 1,
+    "explanation": "Bratislava är huvudstad i Slovakien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Bratislava huvudstad?",
+    "options": [
+      "Sydafrika",
+      "Norge",
+      "Slovakien",
+      "Lettland"
+    ],
+    "answer": 2,
+    "explanation": "Bratislava är huvudstad i Slovakien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Ungern?",
+    "options": [
+      "Rabat",
+      "Phnom Penh",
+      "Budapest",
+      "Alger"
+    ],
+    "answer": 2,
+    "explanation": "Budapest är huvudstad i Ungern.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Budapest huvudstad?",
+    "options": [
+      "Kroatien",
+      "Sverige",
+      "Bangladesh",
+      "Ungern"
+    ],
+    "answer": 3,
+    "explanation": "Budapest är huvudstad i Ungern.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Slovenien?",
+    "options": [
+      "Kuala Lumpur",
+      "Tbilisi",
+      "Brasília",
+      "Ljubljana"
+    ],
+    "answer": 3,
+    "explanation": "Ljubljana är huvudstad i Slovenien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Ljubljana huvudstad?",
+    "options": [
+      "Slovenien",
+      "Bulgarien",
+      "Litauen",
+      "Argentina"
+    ],
+    "answer": 0,
+    "explanation": "Ljubljana är huvudstad i Slovenien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Kroatien?",
+    "options": [
+      "Riga",
+      "Vilnius",
+      "Astana",
+      "Zagreb"
+    ],
+    "answer": 3,
+    "explanation": "Zagreb är huvudstad i Kroatien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Zagreb huvudstad?",
+    "options": [
+      "Kroatien",
+      "Nederländerna",
+      "Litauen",
+      "Etiopien"
+    ],
+    "answer": 0,
+    "explanation": "Zagreb är huvudstad i Kroatien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Serbien?",
+    "options": [
+      "Belgrad",
+      "Kyiv",
+      "Rom",
+      "Hanoi"
+    ],
+    "answer": 0,
+    "explanation": "Belgrad är huvudstad i Serbien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Belgrad huvudstad?",
+    "options": [
+      "Serbien",
+      "Nederländerna",
+      "Laos",
+      "Kazakstan"
+    ],
+    "answer": 0,
+    "explanation": "Belgrad är huvudstad i Serbien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Bosnien och Hercegovina?",
+    "options": [
+      "Ottawa",
+      "Kyiv",
+      "Bogotá",
+      "Sarajevo"
+    ],
+    "answer": 3,
+    "explanation": "Sarajevo är huvudstad i Bosnien och Hercegovina.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Sarajevo huvudstad?",
+    "options": [
+      "Tyskland",
+      "Bosnien och Hercegovina",
+      "Colombia",
+      "Australien"
+    ],
+    "answer": 1,
+    "explanation": "Sarajevo är huvudstad i Bosnien och Hercegovina.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilken är huvudstaden i Montenegro?",
+    "options": [
+      "Podgorica",
+      "Dakar",
+      "Berlin",
+      "Sofia"
+    ],
+    "answer": 0,
+    "explanation": "Podgorica är huvudstad i Montenegro.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 52,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land är Podgorica huvudstad?",
+    "options": [
+      "Montenegro",
+      "Irland",
+      "Polen",
+      "Pakistan"
+    ],
+    "answer": 0,
+    "explanation": "Podgorica är huvudstad i Montenegro.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 53,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Albanien?",
+    "options": [
+      "Tirana",
+      "Santiago",
+      "Accra",
+      "Pretoria"
+    ],
+    "answer": 0,
+    "explanation": "Tirana är huvudstad i Albanien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 54,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Tirana huvudstad?",
+    "options": [
+      "Österrike",
+      "Kanada",
+      "Albanien",
+      "Spanien"
+    ],
+    "answer": 2,
+    "explanation": "Tirana är huvudstad i Albanien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 55,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Grekland?",
+    "options": [
+      "Washington, D.C.",
+      "Aten",
+      "Abu Dhabi",
+      "Brasília"
+    ],
+    "answer": 1,
+    "explanation": "Aten är huvudstad i Grekland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 56,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Aten huvudstad?",
+    "options": [
+      "Kenya",
+      "Albanien",
+      "Kanada",
+      "Grekland"
+    ],
+    "answer": 3,
+    "explanation": "Aten är huvudstad i Grekland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 57,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Bulgarien?",
+    "options": [
+      "Mexico City",
+      "Kuala Lumpur",
+      "Sofia",
+      "Bryssel"
+    ],
+    "answer": 2,
+    "explanation": "Sofia är huvudstad i Bulgarien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 58,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Sofia huvudstad?",
+    "options": [
+      "Schweiz",
+      "Kanada",
+      "Ungern",
+      "Bulgarien"
+    ],
+    "answer": 3,
+    "explanation": "Sofia är huvudstad i Bulgarien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 59,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Rumänien?",
+    "options": [
+      "Oslo",
+      "Bukarest",
+      "Lissabon",
+      "Tbilisi"
+    ],
+    "answer": 1,
+    "explanation": "Bukarest är huvudstad i Rumänien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 60,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Bukarest huvudstad?",
+    "options": [
+      "Pakistan",
+      "Sydafrika",
+      "Rumänien",
+      "Island"
+    ],
+    "answer": 2,
+    "explanation": "Bukarest är huvudstad i Rumänien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 61,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilken är huvudstaden i Moldavien?",
+    "options": [
+      "New Delhi",
+      "Chișinău",
+      "Lima",
+      "Tallinn"
+    ],
+    "answer": 1,
+    "explanation": "Chișinău är huvudstad i Moldavien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 62,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land är Chișinău huvudstad?",
+    "options": [
+      "Spanien",
+      "Irland",
+      "Nordkorea",
+      "Moldavien"
+    ],
+    "answer": 3,
+    "explanation": "Chișinău är huvudstad i Moldavien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 63,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Ukraina?",
+    "options": [
+      "Budapest",
+      "Zagreb",
+      "Chișinău",
+      "Kyiv"
+    ],
+    "answer": 3,
+    "explanation": "Kyiv är huvudstad i Ukraina.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 64,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Kyiv huvudstad?",
+    "options": [
+      "Kambodja",
+      "Ukraina",
+      "Japan",
+      "Irland"
+    ],
+    "answer": 1,
+    "explanation": "Kyiv är huvudstad i Ukraina.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 65,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Irland?",
+    "options": [
+      "Kairo",
+      "Dublin",
+      "Dhaka",
+      "Reykjavík"
+    ],
+    "answer": 1,
+    "explanation": "Dublin är huvudstad i Irland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 66,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Dublin huvudstad?",
+    "options": [
+      "Irland",
+      "Rumänien",
+      "Sydkorea",
+      "Peru"
+    ],
+    "answer": 0,
+    "explanation": "Dublin är huvudstad i Irland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 67,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilken är huvudstaden i Storbritannien?",
+    "options": [
+      "London",
+      "Mexico City",
+      "Tokyo",
+      "Hanoi"
+    ],
+    "answer": 0,
+    "explanation": "London är huvudstad i Storbritannien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 68,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "I vilket land är London huvudstad?",
+    "options": [
+      "Vietnam",
+      "Storbritannien",
+      "Etiopien",
+      "Senegal"
+    ],
+    "answer": 1,
+    "explanation": "London är huvudstad i Storbritannien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 69,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Kanada?",
+    "options": [
+      "Zagreb",
+      "Ottawa",
+      "London",
+      "Astana"
+    ],
+    "answer": 1,
+    "explanation": "Ottawa är huvudstad i Kanada.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 70,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Ottawa huvudstad?",
+    "options": [
+      "Kanada",
+      "Saudiarabien",
+      "Indonesien",
+      "Sydkorea"
+    ],
+    "answer": 0,
+    "explanation": "Ottawa är huvudstad i Kanada.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 71,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "Vilken är huvudstaden i USA?",
+    "options": [
+      "Washington, D.C.",
+      "Baku",
+      "Katmandu",
+      "Sarajevo"
+    ],
+    "answer": 0,
+    "explanation": "Washington, D.C. är huvudstad i USA.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 72,
+    "category": "Geografi",
+    "difficulty": 1,
+    "question": "I vilket land är Washington, D.C. huvudstad?",
+    "options": [
+      "Sverige",
+      "Senegal",
+      "USA",
+      "Nigeria"
+    ],
+    "answer": 2,
+    "explanation": "Washington, D.C. är huvudstad i USA.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 73,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Mexiko?",
+    "options": [
+      "Mexico City",
+      "Tokyo",
+      "Bogotá",
+      "Warszawa"
+    ],
+    "answer": 0,
+    "explanation": "Mexico City är huvudstad i Mexiko.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 74,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Mexico City huvudstad?",
+    "options": [
+      "Kenya",
+      "Mexiko",
+      "Peru",
+      "Kambodja"
+    ],
+    "answer": 1,
+    "explanation": "Mexico City är huvudstad i Mexiko.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 75,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Brasilien?",
+    "options": [
+      "Ankara",
+      "Bern",
+      "Sarajevo",
+      "Brasília"
+    ],
+    "answer": 3,
+    "explanation": "Brasília är huvudstad i Brasilien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 76,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Brasília huvudstad?",
+    "options": [
+      "Armenien",
+      "Kroatien",
+      "Chile",
+      "Brasilien"
+    ],
+    "answer": 3,
+    "explanation": "Brasília är huvudstad i Brasilien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 77,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Argentina?",
+    "options": [
+      "Santiago",
+      "Mexico City",
+      "Tirana",
+      "Buenos Aires"
+    ],
+    "answer": 3,
+    "explanation": "Buenos Aires är huvudstad i Argentina.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 78,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Buenos Aires huvudstad?",
+    "options": [
+      "Filippinerna",
+      "Nya Zeeland",
+      "Grekland",
+      "Argentina"
+    ],
+    "answer": 3,
+    "explanation": "Buenos Aires är huvudstad i Argentina.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 79,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Chile?",
+    "options": [
+      "Mexico City",
+      "Santiago",
+      "Amsterdam",
+      "Addis Abeba"
+    ],
+    "answer": 1,
+    "explanation": "Santiago är huvudstad i Chile.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 80,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Santiago huvudstad?",
+    "options": [
+      "Chile",
+      "Montenegro",
+      "Peru",
+      "Bulgarien"
+    ],
+    "answer": 0,
+    "explanation": "Santiago är huvudstad i Chile.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 81,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Peru?",
+    "options": [
+      "Berlin",
+      "Kyiv",
+      "Kairo",
+      "Lima"
+    ],
+    "answer": 3,
+    "explanation": "Lima är huvudstad i Peru.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 82,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Lima huvudstad?",
+    "options": [
+      "Peru",
+      "Vietnam",
+      "Nepal",
+      "Tunisien"
+    ],
+    "answer": 0,
+    "explanation": "Lima är huvudstad i Peru.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 83,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Colombia?",
+    "options": [
+      "Madrid",
+      "Bogotá",
+      "Sofia",
+      "Kuala Lumpur"
+    ],
+    "answer": 1,
+    "explanation": "Bogotá är huvudstad i Colombia.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 84,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Bogotá huvudstad?",
+    "options": [
+      "Ukraina",
+      "Colombia",
+      "Georgien",
+      "Lettland"
+    ],
+    "answer": 1,
+    "explanation": "Bogotá är huvudstad i Colombia.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 85,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Venezuela?",
+    "options": [
+      "Wellington",
+      "Caracas",
+      "Accra",
+      "Tbilisi"
+    ],
+    "answer": 1,
+    "explanation": "Caracas är huvudstad i Venezuela.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 86,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Caracas huvudstad?",
+    "options": [
+      "Turkiet",
+      "Ungern",
+      "Singapore",
+      "Venezuela"
+    ],
+    "answer": 3,
+    "explanation": "Caracas är huvudstad i Venezuela.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 87,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Japan?",
+    "options": [
+      "Washington, D.C.",
+      "Kyiv",
+      "Abuja",
+      "Tokyo"
+    ],
+    "answer": 3,
+    "explanation": "Tokyo är huvudstad i Japan.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 88,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Tokyo huvudstad?",
+    "options": [
+      "Japan",
+      "Filippinerna",
+      "USA",
+      "Tyskland"
+    ],
+    "answer": 0,
+    "explanation": "Tokyo är huvudstad i Japan.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 89,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Kina?",
+    "options": [
+      "Lima",
+      "Pretoria",
+      "Peking",
+      "Caracas"
+    ],
+    "answer": 2,
+    "explanation": "Peking är huvudstad i Kina.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 90,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Peking huvudstad?",
+    "options": [
+      "Slovakien",
+      "Kina",
+      "Rumänien",
+      "Nepal"
+    ],
+    "answer": 1,
+    "explanation": "Peking är huvudstad i Kina.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 91,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Sydkorea?",
+    "options": [
+      "Pretoria",
+      "Phnom Penh",
+      "Caracas",
+      "Seoul"
+    ],
+    "answer": 3,
+    "explanation": "Seoul är huvudstad i Sydkorea.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 92,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Seoul huvudstad?",
+    "options": [
+      "Sydkorea",
+      "Laos",
+      "Nepal",
+      "Albanien"
+    ],
+    "answer": 0,
+    "explanation": "Seoul är huvudstad i Sydkorea.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 93,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Nordkorea?",
+    "options": [
+      "Rabat",
+      "Pyongyang",
+      "Stockholm",
+      "Seoul"
+    ],
+    "answer": 1,
+    "explanation": "Pyongyang är huvudstad i Nordkorea.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 94,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Pyongyang huvudstad?",
+    "options": [
+      "Förenade arabemiraten",
+      "Senegal",
+      "Nordkorea",
+      "Sydafrika"
+    ],
+    "answer": 2,
+    "explanation": "Pyongyang är huvudstad i Nordkorea.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 95,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Indien?",
+    "options": [
+      "New Delhi",
+      "Alger",
+      "Jakarta",
+      "Ottawa"
+    ],
+    "answer": 0,
+    "explanation": "New Delhi är huvudstad i Indien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 96,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är New Delhi huvudstad?",
+    "options": [
+      "Indien",
+      "Vietnam",
+      "Nya Zeeland",
+      "Slovenien"
+    ],
+    "answer": 0,
+    "explanation": "New Delhi är huvudstad i Indien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 97,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Pakistan?",
+    "options": [
+      "Jerevan",
+      "Tasjkent",
+      "Islamabad",
+      "Bangkok"
+    ],
+    "answer": 2,
+    "explanation": "Islamabad är huvudstad i Pakistan.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 98,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Islamabad huvudstad?",
+    "options": [
+      "Pakistan",
+      "Serbien",
+      "Nya Zeeland",
+      "Österrike"
+    ],
+    "answer": 0,
+    "explanation": "Islamabad är huvudstad i Pakistan.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 99,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Bangladesh?",
+    "options": [
+      "Bogotá",
+      "Dhaka",
+      "Aten",
+      "Canberra"
+    ],
+    "answer": 1,
+    "explanation": "Dhaka är huvudstad i Bangladesh.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 100,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Dhaka huvudstad?",
+    "options": [
+      "Irland",
+      "Bangladesh",
+      "Laos",
+      "USA"
+    ],
+    "answer": 1,
+    "explanation": "Dhaka är huvudstad i Bangladesh.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 101,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Nepal?",
+    "options": [
+      "Katmandu",
+      "Pretoria",
+      "Peking",
+      "Riga"
+    ],
+    "answer": 0,
+    "explanation": "Katmandu är huvudstad i Nepal.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 102,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Katmandu huvudstad?",
+    "options": [
+      "Nepal",
+      "Ukraina",
+      "Estland",
+      "Finland"
+    ],
+    "answer": 0,
+    "explanation": "Katmandu är huvudstad i Nepal.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 103,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Thailand?",
+    "options": [
+      "Bern",
+      "Bangkok",
+      "Kairo",
+      "Chișinău"
+    ],
+    "answer": 1,
+    "explanation": "Bangkok är huvudstad i Thailand.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 104,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Bangkok huvudstad?",
+    "options": [
+      "Thailand",
+      "Nya Zeeland",
+      "Indien",
+      "Irland"
+    ],
+    "answer": 0,
+    "explanation": "Bangkok är huvudstad i Thailand.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 105,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Vietnam?",
+    "options": [
+      "Hanoi",
+      "Madrid",
+      "Santiago",
+      "Budapest"
+    ],
+    "answer": 0,
+    "explanation": "Hanoi är huvudstad i Vietnam.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 106,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Hanoi huvudstad?",
+    "options": [
+      "Tyskland",
+      "Vietnam",
+      "Nepal",
+      "Montenegro"
+    ],
+    "answer": 1,
+    "explanation": "Hanoi är huvudstad i Vietnam.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 107,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Kambodja?",
+    "options": [
+      "Phnom Penh",
+      "Jerevan",
+      "Rom",
+      "Riyadh"
+    ],
+    "answer": 0,
+    "explanation": "Phnom Penh är huvudstad i Kambodja.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 108,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Phnom Penh huvudstad?",
+    "options": [
+      "Kambodja",
+      "Polen",
+      "Indien",
+      "Kenya"
+    ],
+    "answer": 0,
+    "explanation": "Phnom Penh är huvudstad i Kambodja.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 109,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilken är huvudstaden i Laos?",
+    "options": [
+      "Alger",
+      "Madrid",
+      "Vientiane",
+      "Jakarta"
+    ],
+    "answer": 2,
+    "explanation": "Vientiane är huvudstad i Laos.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 110,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land är Vientiane huvudstad?",
+    "options": [
+      "Slovakien",
+      "Indonesien",
+      "Laos",
+      "Kroatien"
+    ],
+    "answer": 2,
+    "explanation": "Vientiane är huvudstad i Laos.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 111,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Malaysia?",
+    "options": [
+      "Kuala Lumpur",
+      "Wellington",
+      "Jakarta",
+      "Tasjkent"
+    ],
+    "answer": 0,
+    "explanation": "Kuala Lumpur är huvudstad i Malaysia.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 112,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Kuala Lumpur huvudstad?",
+    "options": [
+      "Belgien",
+      "Singapore",
+      "Malaysia",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation": "Kuala Lumpur är huvudstad i Malaysia.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 113,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Indonesien?",
+    "options": [
+      "Jakarta",
+      "Helsingfors",
+      "Tokyo",
+      "Tunis"
+    ],
+    "answer": 0,
+    "explanation": "Jakarta är huvudstad i Indonesien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 114,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Jakarta huvudstad?",
+    "options": [
+      "Grekland",
+      "Indonesien",
+      "Sydkorea",
+      "Storbritannien"
+    ],
+    "answer": 1,
+    "explanation": "Jakarta är huvudstad i Indonesien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 115,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Filippinerna?",
+    "options": [
+      "Manila",
+      "Abuja",
+      "Tbilisi",
+      "Oslo"
+    ],
+    "answer": 0,
+    "explanation": "Manila är huvudstad i Filippinerna.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 116,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Manila huvudstad?",
+    "options": [
+      "Vietnam",
+      "Filippinerna",
+      "Georgien",
+      "Algeriet"
+    ],
+    "answer": 1,
+    "explanation": "Manila är huvudstad i Filippinerna.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 117,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Singapore?",
+    "options": [
+      "Köpenhamn",
+      "Singapore",
+      "Manila",
+      "Alger"
+    ],
+    "answer": 1,
+    "explanation": "Singapore är huvudstad i Singapore.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 118,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Singapore huvudstad?",
+    "options": [
+      "Thailand",
+      "Singapore",
+      "Ukraina",
+      "Chile"
+    ],
+    "answer": 1,
+    "explanation": "Singapore är huvudstad i Singapore.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 119,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Australien?",
+    "options": [
+      "Vientiane",
+      "Ankara",
+      "Canberra",
+      "Caracas"
+    ],
+    "answer": 2,
+    "explanation": "Canberra är huvudstad i Australien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 120,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Canberra huvudstad?",
+    "options": [
+      "Australien",
+      "Irland",
+      "Kanada",
+      "Chile"
+    ],
+    "answer": 0,
+    "explanation": "Canberra är huvudstad i Australien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 121,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Nya Zeeland?",
+    "options": [
+      "Wellington",
+      "Dakar",
+      "Lima",
+      "Rom"
+    ],
+    "answer": 0,
+    "explanation": "Wellington är huvudstad i Nya Zeeland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 122,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Wellington huvudstad?",
+    "options": [
+      "USA",
+      "Nya Zeeland",
+      "Marocko",
+      "Uzbekistan"
+    ],
+    "answer": 1,
+    "explanation": "Wellington är huvudstad i Nya Zeeland.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 123,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Egypten?",
+    "options": [
+      "Pyongyang",
+      "Brasília",
+      "Kairo",
+      "Bukarest"
+    ],
+    "answer": 2,
+    "explanation": "Kairo är huvudstad i Egypten.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 124,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Kairo huvudstad?",
+    "options": [
+      "USA",
+      "Schweiz",
+      "Egypten",
+      "Senegal"
+    ],
+    "answer": 2,
+    "explanation": "Kairo är huvudstad i Egypten.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 125,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Marocko?",
+    "options": [
+      "Rabat",
+      "Alger",
+      "Madrid",
+      "Bern"
+    ],
+    "answer": 0,
+    "explanation": "Rabat är huvudstad i Marocko.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 126,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Rabat huvudstad?",
+    "options": [
+      "Egypten",
+      "Marocko",
+      "Nya Zeeland",
+      "Indonesien"
+    ],
+    "answer": 1,
+    "explanation": "Rabat är huvudstad i Marocko.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 127,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Algeriet?",
+    "options": [
+      "Alger",
+      "Lissabon",
+      "Kairo",
+      "Dublin"
+    ],
+    "answer": 0,
+    "explanation": "Alger är huvudstad i Algeriet.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 128,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Alger huvudstad?",
+    "options": [
+      "Lettland",
+      "Algeriet",
+      "Tyskland",
+      "Azerbajdzjan"
+    ],
+    "answer": 1,
+    "explanation": "Alger är huvudstad i Algeriet.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 129,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Tunisien?",
+    "options": [
+      "Kyiv",
+      "Amsterdam",
+      "Rom",
+      "Tunis"
+    ],
+    "answer": 3,
+    "explanation": "Tunis är huvudstad i Tunisien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 130,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Tunis huvudstad?",
+    "options": [
+      "Nigeria",
+      "Filippinerna",
+      "Pakistan",
+      "Tunisien"
+    ],
+    "answer": 3,
+    "explanation": "Tunis är huvudstad i Tunisien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 131,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Kenya?",
+    "options": [
+      "Jerevan",
+      "Vilnius",
+      "Nairobi",
+      "Santiago"
+    ],
+    "answer": 2,
+    "explanation": "Nairobi är huvudstad i Kenya.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 132,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Nairobi huvudstad?",
+    "options": [
+      "Kenya",
+      "Ungern",
+      "Storbritannien",
+      "Nederländerna"
+    ],
+    "answer": 0,
+    "explanation": "Nairobi är huvudstad i Kenya.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 133,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Etiopien?",
+    "options": [
+      "Budapest",
+      "Stockholm",
+      "Hanoi",
+      "Addis Abeba"
+    ],
+    "answer": 3,
+    "explanation": "Addis Abeba är huvudstad i Etiopien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 134,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Addis Abeba huvudstad?",
+    "options": [
+      "Brasilien",
+      "Island",
+      "Etiopien",
+      "Rumänien"
+    ],
+    "answer": 2,
+    "explanation": "Addis Abeba är huvudstad i Etiopien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 135,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Nigeria?",
+    "options": [
+      "Berlin",
+      "Singapore",
+      "Abuja",
+      "Bukarest"
+    ],
+    "answer": 2,
+    "explanation": "Abuja är huvudstad i Nigeria.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 136,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Abuja huvudstad?",
+    "options": [
+      "Nigeria",
+      "Laos",
+      "Sydafrika",
+      "Portugal"
+    ],
+    "answer": 0,
+    "explanation": "Abuja är huvudstad i Nigeria.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 137,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Ghana?",
+    "options": [
+      "Berlin",
+      "Prag",
+      "Accra",
+      "Ottawa"
+    ],
+    "answer": 2,
+    "explanation": "Accra är huvudstad i Ghana.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 138,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Accra huvudstad?",
+    "options": [
+      "Mexiko",
+      "Armenien",
+      "Saudiarabien",
+      "Ghana"
+    ],
+    "answer": 3,
+    "explanation": "Accra är huvudstad i Ghana.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 139,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Senegal?",
+    "options": [
+      "Ottawa",
+      "Buenos Aires",
+      "Bangkok",
+      "Dakar"
+    ],
+    "answer": 3,
+    "explanation": "Dakar är huvudstad i Senegal.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 140,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Dakar huvudstad?",
+    "options": [
+      "Saudiarabien",
+      "Estland",
+      "Senegal",
+      "Malaysia"
+    ],
+    "answer": 2,
+    "explanation": "Dakar är huvudstad i Senegal.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 141,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Sydafrika?",
+    "options": [
+      "Pretoria",
+      "Bryssel",
+      "Bukarest",
+      "Helsingfors"
+    ],
+    "answer": 0,
+    "explanation": "Pretoria är huvudstad i Sydafrika.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 142,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Pretoria huvudstad?",
+    "options": [
+      "Azerbajdzjan",
+      "Estland",
+      "Kroatien",
+      "Sydafrika"
+    ],
+    "answer": 3,
+    "explanation": "Pretoria är huvudstad i Sydafrika.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 143,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Turkiet?",
+    "options": [
+      "Washington, D.C.",
+      "Belgrad",
+      "Astana",
+      "Ankara"
+    ],
+    "answer": 3,
+    "explanation": "Ankara är huvudstad i Turkiet.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 144,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Ankara huvudstad?",
+    "options": [
+      "Belgien",
+      "Kina",
+      "Nya Zeeland",
+      "Turkiet"
+    ],
+    "answer": 3,
+    "explanation": "Ankara är huvudstad i Turkiet.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 145,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Georgien?",
+    "options": [
+      "Madrid",
+      "Budapest",
+      "Caracas",
+      "Tbilisi"
+    ],
+    "answer": 3,
+    "explanation": "Tbilisi är huvudstad i Georgien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 146,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Tbilisi huvudstad?",
+    "options": [
+      "Sydafrika",
+      "Georgien",
+      "Thailand",
+      "Mexiko"
+    ],
+    "answer": 1,
+    "explanation": "Tbilisi är huvudstad i Georgien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 147,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Armenien?",
+    "options": [
+      "Bogotá",
+      "Jerevan",
+      "Dublin",
+      "Lima"
+    ],
+    "answer": 1,
+    "explanation": "Jerevan är huvudstad i Armenien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 148,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Jerevan huvudstad?",
+    "options": [
+      "Vietnam",
+      "Australien",
+      "Armenien",
+      "Senegal"
+    ],
+    "answer": 2,
+    "explanation": "Jerevan är huvudstad i Armenien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 149,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilken är huvudstaden i Azerbajdzjan?",
+    "options": [
+      "Riga",
+      "Alger",
+      "Baku",
+      "Jakarta"
+    ],
+    "answer": 2,
+    "explanation": "Baku är huvudstad i Azerbajdzjan.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 150,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land är Baku huvudstad?",
+    "options": [
+      "Indonesien",
+      "Marocko",
+      "Azerbajdzjan",
+      "Mexiko"
+    ],
+    "answer": 2,
+    "explanation": "Baku är huvudstad i Azerbajdzjan.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 151,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilken är huvudstaden i Kazakstan?",
+    "options": [
+      "Astana",
+      "Santiago",
+      "Pretoria",
+      "Budapest"
+    ],
+    "answer": 0,
+    "explanation": "Astana är huvudstad i Kazakstan.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 152,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land är Astana huvudstad?",
+    "options": [
+      "Bulgarien",
+      "Portugal",
+      "Belgien",
+      "Kazakstan"
+    ],
+    "answer": 3,
+    "explanation": "Astana är huvudstad i Kazakstan.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 153,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilken är huvudstaden i Uzbekistan?",
+    "options": [
+      "Alger",
+      "Tasjkent",
+      "Brasília",
+      "Nairobi"
+    ],
+    "answer": 1,
+    "explanation": "Tasjkent är huvudstad i Uzbekistan.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 154,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "I vilket land är Tasjkent huvudstad?",
+    "options": [
+      "Singapore",
+      "Nya Zeeland",
+      "Uzbekistan",
+      "Ukraina"
+    ],
+    "answer": 2,
+    "explanation": "Tasjkent är huvudstad i Uzbekistan.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 155,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Saudiarabien?",
+    "options": [
+      "Riyadh",
+      "Wien",
+      "Nairobi",
+      "Tasjkent"
+    ],
+    "answer": 0,
+    "explanation": "Riyadh är huvudstad i Saudiarabien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 156,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Riyadh huvudstad?",
+    "options": [
+      "Saudiarabien",
+      "Kanada",
+      "Tunisien",
+      "Japan"
+    ],
+    "answer": 0,
+    "explanation": "Riyadh är huvudstad i Saudiarabien.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 157,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är huvudstaden i Förenade arabemiraten?",
+    "options": [
+      "Astana",
+      "Rabat",
+      "Abu Dhabi",
+      "Baku"
+    ],
+    "answer": 2,
+    "explanation": "Abu Dhabi är huvudstad i Förenade arabemiraten.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 158,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land är Abu Dhabi huvudstad?",
+    "options": [
+      "Kina",
+      "Sydafrika",
+      "Venezuela",
+      "Förenade arabemiraten"
+    ],
+    "answer": 3,
+    "explanation": "Abu Dhabi är huvudstad i Förenade arabemiraten.",
+    "tags": [
+      "huvudstäder"
+    ]
+  },
+  {
+    "id": 159,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken kemisk beteckning har väte?",
+    "options": [
+      "Ti",
+      "K",
+      "S",
+      "H"
+    ],
+    "answer": 3,
+    "explanation": "Väte har den kemiska beteckningen H.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 160,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen H?",
+    "options": [
+      "Brom",
+      "Kol",
+      "Koppar",
+      "Väte"
+    ],
+    "answer": 3,
+    "explanation": "H är den kemiska beteckningen för väte.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 161,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har helium?",
+    "options": [
+      "He",
+      "C",
+      "Ba",
+      "Mg"
+    ],
+    "answer": 0,
+    "explanation": "Helium har den kemiska beteckningen He.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 162,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen He?",
+    "options": [
+      "Volfram",
+      "Helium",
+      "Platina",
+      "Neon"
+    ],
+    "answer": 1,
+    "explanation": "He är den kemiska beteckningen för helium.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 163,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har litium?",
+    "options": [
+      "Hg",
+      "O",
+      "Al",
+      "Li"
+    ],
+    "answer": 3,
+    "explanation": "Litium har den kemiska beteckningen Li.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 164,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Li?",
+    "options": [
+      "Guld",
+      "Zink",
+      "Fluor",
+      "Litium"
+    ],
+    "answer": 3,
+    "explanation": "Li är den kemiska beteckningen för litium.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 165,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken kemisk beteckning har kol?",
+    "options": [
+      "Mn",
+      "C",
+      "O",
+      "Li"
+    ],
+    "answer": 1,
+    "explanation": "Kol har den kemiska beteckningen C.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 166,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen C?",
+    "options": [
+      "Fluor",
+      "Kol",
+      "Bly",
+      "Argon"
+    ],
+    "answer": 1,
+    "explanation": "C är den kemiska beteckningen för kol.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 167,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har kväve?",
+    "options": [
+      "Ni",
+      "Si",
+      "N",
+      "U"
+    ],
+    "answer": 2,
+    "explanation": "Kväve har den kemiska beteckningen N.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 168,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen N?",
+    "options": [
+      "Kväve",
+      "Kol",
+      "Kobolt",
+      "Silver"
+    ],
+    "answer": 0,
+    "explanation": "N är den kemiska beteckningen för kväve.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 169,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken kemisk beteckning har syre?",
+    "options": [
+      "O",
+      "Hg",
+      "K",
+      "W"
+    ],
+    "answer": 0,
+    "explanation": "Syre har den kemiska beteckningen O.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 170,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen O?",
+    "options": [
+      "Jod",
+      "Fluor",
+      "Kalium",
+      "Syre"
+    ],
+    "answer": 3,
+    "explanation": "O är den kemiska beteckningen för syre.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 171,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har fluor?",
+    "options": [
+      "Ca",
+      "Ar",
+      "Pt",
+      "F"
+    ],
+    "answer": 3,
+    "explanation": "Fluor har den kemiska beteckningen F.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 172,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen F?",
+    "options": [
+      "Mangan",
+      "Fluor",
+      "Platina",
+      "Kobolt"
+    ],
+    "answer": 1,
+    "explanation": "F är den kemiska beteckningen för fluor.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 173,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har neon?",
+    "options": [
+      "Ag",
+      "Se",
+      "Ni",
+      "Ne"
+    ],
+    "answer": 3,
+    "explanation": "Neon har den kemiska beteckningen Ne.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 174,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Ne?",
+    "options": [
+      "Svavel",
+      "Platina",
+      "Nickel",
+      "Neon"
+    ],
+    "answer": 3,
+    "explanation": "Ne är den kemiska beteckningen för neon.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 175,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har natrium?",
+    "options": [
+      "K",
+      "I",
+      "Na",
+      "Ti"
+    ],
+    "answer": 2,
+    "explanation": "Natrium har den kemiska beteckningen Na.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 176,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Na?",
+    "options": [
+      "Helium",
+      "Natrium",
+      "Kobolt",
+      "Guld"
+    ],
+    "answer": 1,
+    "explanation": "Na är den kemiska beteckningen för natrium.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 177,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har magnesium?",
+    "options": [
+      "As",
+      "Mg",
+      "Co",
+      "Ba"
+    ],
+    "answer": 1,
+    "explanation": "Magnesium har den kemiska beteckningen Mg.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 178,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Mg?",
+    "options": [
+      "Magnesium",
+      "Argon",
+      "Kalcium",
+      "Svavel"
+    ],
+    "answer": 0,
+    "explanation": "Mg är den kemiska beteckningen för magnesium.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 179,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har aluminium?",
+    "options": [
+      "Al",
+      "Ni",
+      "U",
+      "Li"
+    ],
+    "answer": 0,
+    "explanation": "Aluminium har den kemiska beteckningen Al.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 180,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Al?",
+    "options": [
+      "Natrium",
+      "Syre",
+      "Aluminium",
+      "Kobolt"
+    ],
+    "answer": 2,
+    "explanation": "Al är den kemiska beteckningen för aluminium.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 181,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har kisel?",
+    "options": [
+      "P",
+      "S",
+      "Si",
+      "Na"
+    ],
+    "answer": 2,
+    "explanation": "Kisel har den kemiska beteckningen Si.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 182,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Si?",
+    "options": [
+      "Aluminium",
+      "Kalcium",
+      "Kisel",
+      "Brom"
+    ],
+    "answer": 2,
+    "explanation": "Si är den kemiska beteckningen för kisel.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 183,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har fosfor?",
+    "options": [
+      "N",
+      "P",
+      "Ne",
+      "Pt"
+    ],
+    "answer": 1,
+    "explanation": "Fosfor har den kemiska beteckningen P.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 184,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen P?",
+    "options": [
+      "Syre",
+      "Tenn",
+      "Krom",
+      "Fosfor"
+    ],
+    "answer": 3,
+    "explanation": "P är den kemiska beteckningen för fosfor.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 185,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har svavel?",
+    "options": [
+      "Mn",
+      "Ne",
+      "S",
+      "Pt"
+    ],
+    "answer": 2,
+    "explanation": "Svavel har den kemiska beteckningen S.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 186,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen S?",
+    "options": [
+      "Jod",
+      "Svavel",
+      "Tenn",
+      "Selen"
+    ],
+    "answer": 1,
+    "explanation": "S är den kemiska beteckningen för svavel.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 187,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har klor?",
+    "options": [
+      "He",
+      "Br",
+      "Cl",
+      "Cr"
+    ],
+    "answer": 2,
+    "explanation": "Klor har den kemiska beteckningen Cl.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 188,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Cl?",
+    "options": [
+      "Platina",
+      "Nickel",
+      "Kväve",
+      "Klor"
+    ],
+    "answer": 3,
+    "explanation": "Cl är den kemiska beteckningen för klor.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 189,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har argon?",
+    "options": [
+      "Ni",
+      "Ba",
+      "Ar",
+      "Li"
+    ],
+    "answer": 2,
+    "explanation": "Argon har den kemiska beteckningen Ar.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 190,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Ar?",
+    "options": [
+      "Mangan",
+      "Jod",
+      "Natrium",
+      "Argon"
+    ],
+    "answer": 3,
+    "explanation": "Ar är den kemiska beteckningen för argon.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 191,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har kalium?",
+    "options": [
+      "K",
+      "Hg",
+      "Mg",
+      "Se"
+    ],
+    "answer": 0,
+    "explanation": "Kalium har den kemiska beteckningen K.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 192,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen K?",
+    "options": [
+      "Järn",
+      "Tenn",
+      "Kalium",
+      "Litium"
+    ],
+    "answer": 2,
+    "explanation": "K är den kemiska beteckningen för kalium.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 193,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har kalcium?",
+    "options": [
+      "Ar",
+      "Sn",
+      "Ca",
+      "F"
+    ],
+    "answer": 2,
+    "explanation": "Kalcium har den kemiska beteckningen Ca.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 194,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Ca?",
+    "options": [
+      "Järn",
+      "Kalcium",
+      "Kol",
+      "Guld"
+    ],
+    "answer": 1,
+    "explanation": "Ca är den kemiska beteckningen för kalcium.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 195,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken kemisk beteckning har järn?",
+    "options": [
+      "As",
+      "S",
+      "Fe",
+      "O"
+    ],
+    "answer": 2,
+    "explanation": "Järn har den kemiska beteckningen Fe.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 196,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Fe?",
+    "options": [
+      "Järn",
+      "Titan",
+      "Argon",
+      "Natrium"
+    ],
+    "answer": 0,
+    "explanation": "Fe är den kemiska beteckningen för järn.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 197,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har kobolt?",
+    "options": [
+      "S",
+      "Co",
+      "Se",
+      "Cl"
+    ],
+    "answer": 1,
+    "explanation": "Kobolt har den kemiska beteckningen Co.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 198,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Co?",
+    "options": [
+      "Magnesium",
+      "Kobolt",
+      "Kalcium",
+      "Natrium"
+    ],
+    "answer": 1,
+    "explanation": "Co är den kemiska beteckningen för kobolt.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 199,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har nickel?",
+    "options": [
+      "Ni",
+      "Na",
+      "He",
+      "H"
+    ],
+    "answer": 0,
+    "explanation": "Nickel har den kemiska beteckningen Ni.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 200,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Ni?",
+    "options": [
+      "Kalium",
+      "Kisel",
+      "Nickel",
+      "Helium"
+    ],
+    "answer": 2,
+    "explanation": "Ni är den kemiska beteckningen för nickel.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 201,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har koppar?",
+    "options": [
+      "W",
+      "N",
+      "Ne",
+      "Cu"
+    ],
+    "answer": 3,
+    "explanation": "Koppar har den kemiska beteckningen Cu.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 202,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Cu?",
+    "options": [
+      "Selen",
+      "Radium",
+      "Fluor",
+      "Koppar"
+    ],
+    "answer": 3,
+    "explanation": "Cu är den kemiska beteckningen för koppar.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 203,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har zink?",
+    "options": [
+      "W",
+      "Li",
+      "Co",
+      "Zn"
+    ],
+    "answer": 3,
+    "explanation": "Zink har den kemiska beteckningen Zn.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 204,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Zn?",
+    "options": [
+      "Brom",
+      "Kol",
+      "Guld",
+      "Zink"
+    ],
+    "answer": 3,
+    "explanation": "Zn är den kemiska beteckningen för zink.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 205,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken kemisk beteckning har silver?",
+    "options": [
+      "N",
+      "Ag",
+      "U",
+      "Ba"
+    ],
+    "answer": 1,
+    "explanation": "Silver har den kemiska beteckningen Ag.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 206,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Ag?",
+    "options": [
+      "Kväve",
+      "Silver",
+      "Natrium",
+      "Kalcium"
+    ],
+    "answer": 1,
+    "explanation": "Ag är den kemiska beteckningen för silver.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 207,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har tenn?",
+    "options": [
+      "Ra",
+      "As",
+      "Pt",
+      "Sn"
+    ],
+    "answer": 3,
+    "explanation": "Tenn har den kemiska beteckningen Sn.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 208,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Sn?",
+    "options": [
+      "Bly",
+      "Svavel",
+      "Krom",
+      "Tenn"
+    ],
+    "answer": 3,
+    "explanation": "Sn är den kemiska beteckningen för tenn.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 209,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har jod?",
+    "options": [
+      "Pt",
+      "Cu",
+      "Au",
+      "I"
+    ],
+    "answer": 3,
+    "explanation": "Jod har den kemiska beteckningen I.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 210,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen I?",
+    "options": [
+      "Jod",
+      "Bly",
+      "Nickel",
+      "Kalium"
+    ],
+    "answer": 0,
+    "explanation": "I är den kemiska beteckningen för jod.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 211,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken kemisk beteckning har guld?",
+    "options": [
+      "Au",
+      "O",
+      "Pb",
+      "N"
+    ],
+    "answer": 0,
+    "explanation": "Guld har den kemiska beteckningen Au.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 212,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Au?",
+    "options": [
+      "Krom",
+      "Natrium",
+      "Guld",
+      "Kol"
+    ],
+    "answer": 2,
+    "explanation": "Au är den kemiska beteckningen för guld.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 213,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har kvicksilver?",
+    "options": [
+      "Hg",
+      "Pb",
+      "Zn",
+      "Au"
+    ],
+    "answer": 0,
+    "explanation": "Kvicksilver har den kemiska beteckningen Hg.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 214,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Hg?",
+    "options": [
+      "Titan",
+      "Kvicksilver",
+      "Zink",
+      "Fluor"
+    ],
+    "answer": 1,
+    "explanation": "Hg är den kemiska beteckningen för kvicksilver.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 215,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har bly?",
+    "options": [
+      "Pb",
+      "F",
+      "Cl",
+      "Zn"
+    ],
+    "answer": 0,
+    "explanation": "Bly har den kemiska beteckningen Pb.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 216,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Pb?",
+    "options": [
+      "Bly",
+      "Klor",
+      "Kvicksilver",
+      "Titan"
+    ],
+    "answer": 0,
+    "explanation": "Pb är den kemiska beteckningen för bly.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 217,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har uran?",
+    "options": [
+      "He",
+      "U",
+      "Si",
+      "Ca"
+    ],
+    "answer": 1,
+    "explanation": "Uran har den kemiska beteckningen U.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 218,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen U?",
+    "options": [
+      "Kisel",
+      "Magnesium",
+      "Väte",
+      "Uran"
+    ],
+    "answer": 3,
+    "explanation": "U är den kemiska beteckningen för uran.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 219,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har platina?",
+    "options": [
+      "He",
+      "W",
+      "Pt",
+      "O"
+    ],
+    "answer": 2,
+    "explanation": "Platina har den kemiska beteckningen Pt.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 220,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Pt?",
+    "options": [
+      "Uran",
+      "Platina",
+      "Koppar",
+      "Aluminium"
+    ],
+    "answer": 1,
+    "explanation": "Pt är den kemiska beteckningen för platina.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 221,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har brom?",
+    "options": [
+      "As",
+      "O",
+      "Br",
+      "Ti"
+    ],
+    "answer": 2,
+    "explanation": "Brom har den kemiska beteckningen Br.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 222,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Br?",
+    "options": [
+      "Kol",
+      "Syre",
+      "Kalcium",
+      "Brom"
+    ],
+    "answer": 3,
+    "explanation": "Br är den kemiska beteckningen för brom.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 223,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har barium?",
+    "options": [
+      "Pb",
+      "Br",
+      "As",
+      "Ba"
+    ],
+    "answer": 3,
+    "explanation": "Barium har den kemiska beteckningen Ba.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 224,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Ba?",
+    "options": [
+      "Zink",
+      "Neon",
+      "Radium",
+      "Barium"
+    ],
+    "answer": 3,
+    "explanation": "Ba är den kemiska beteckningen för barium.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 225,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har radium?",
+    "options": [
+      "Br",
+      "Ra",
+      "Se",
+      "W"
+    ],
+    "answer": 1,
+    "explanation": "Radium har den kemiska beteckningen Ra.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 226,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Ra?",
+    "options": [
+      "Kol",
+      "Arsenik",
+      "Radium",
+      "Jod"
+    ],
+    "answer": 2,
+    "explanation": "Ra är den kemiska beteckningen för radium.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 227,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har volfram?",
+    "options": [
+      "W",
+      "S",
+      "Na",
+      "K"
+    ],
+    "answer": 0,
+    "explanation": "Volfram har den kemiska beteckningen W.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 228,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen W?",
+    "options": [
+      "Kvicksilver",
+      "Volfram",
+      "Väte",
+      "Brom"
+    ],
+    "answer": 1,
+    "explanation": "W är den kemiska beteckningen för volfram.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 229,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har mangan?",
+    "options": [
+      "Mn",
+      "Cl",
+      "W",
+      "Ba"
+    ],
+    "answer": 0,
+    "explanation": "Mangan har den kemiska beteckningen Mn.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 230,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Mn?",
+    "options": [
+      "Helium",
+      "Kvicksilver",
+      "Litium",
+      "Mangan"
+    ],
+    "answer": 3,
+    "explanation": "Mn är den kemiska beteckningen för mangan.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 231,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har krom?",
+    "options": [
+      "I",
+      "Ti",
+      "Hg",
+      "Cr"
+    ],
+    "answer": 3,
+    "explanation": "Krom har den kemiska beteckningen Cr.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 232,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Cr?",
+    "options": [
+      "Jod",
+      "Krom",
+      "Nickel",
+      "Helium"
+    ],
+    "answer": 1,
+    "explanation": "Cr är den kemiska beteckningen för krom.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 233,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har titan?",
+    "options": [
+      "Hg",
+      "O",
+      "Ti",
+      "Ag"
+    ],
+    "answer": 2,
+    "explanation": "Titan har den kemiska beteckningen Ti.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 234,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Ti?",
+    "options": [
+      "Titan",
+      "Radium",
+      "Jod",
+      "Selen"
+    ],
+    "answer": 0,
+    "explanation": "Ti är den kemiska beteckningen för titan.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 235,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har selen?",
+    "options": [
+      "Cl",
+      "Se",
+      "Al",
+      "Cu"
+    ],
+    "answer": 1,
+    "explanation": "Selen har den kemiska beteckningen Se.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 236,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen Se?",
+    "options": [
+      "Selen",
+      "Radium",
+      "Barium",
+      "Fosfor"
+    ],
+    "answer": 0,
+    "explanation": "Se är den kemiska beteckningen för selen.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 237,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken kemisk beteckning har arsenik?",
+    "options": [
+      "F",
+      "As",
+      "Ar",
+      "Mg"
+    ],
+    "answer": 1,
+    "explanation": "Arsenik har den kemiska beteckningen As.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 238,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket grundämne har beteckningen As?",
+    "options": [
+      "Selen",
+      "Arsenik",
+      "Kväve",
+      "Magnesium"
+    ],
+    "answer": 1,
+    "explanation": "As är den kemiska beteckningen för arsenik.",
+    "tags": [
+      "kemi",
+      "grundämnen"
+    ]
+  },
+  {
+    "id": 239,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Stolthet och fördom?",
+    "options": [
+      "Harper Lee",
+      "Alexandre Dumas",
+      "Miguel de Cervantes",
+      "Jane Austen"
+    ],
+    "answer": 3,
+    "explanation": "Stolthet och fördom skrevs av Jane Austen.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 240,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Jane Austen?",
+    "options": [
+      "Stolthet och fördom",
+      "Tjänarinnans berättelse",
+      "Processen",
+      "Gösta Berlings saga"
+    ],
+    "answer": 0,
+    "explanation": "Jane Austen skrev Stolthet och fördom.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 241,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev 1984?",
+    "options": [
+      "Miguel de Cervantes",
+      "George Orwell",
+      "Herman Melville",
+      "Fjodor Dostojevskij"
+    ],
+    "answer": 1,
+    "explanation": "1984 skrevs av George Orwell.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 242,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av George Orwell?",
+    "options": [
+      "Tjänarinnans berättelse",
+      "Fahrenheit 451",
+      "1984",
+      "Pippi Långstrump"
+    ],
+    "answer": 2,
+    "explanation": "George Orwell skrev 1984.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 243,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Moby Dick?",
+    "options": [
+      "Astrid Lindgren",
+      "Dan Brown",
+      "Mary Shelley",
+      "Herman Melville"
+    ],
+    "answer": 3,
+    "explanation": "Moby Dick skrevs av Herman Melville.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 244,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Herman Melville?",
+    "options": [
+      "Tjänarinnans berättelse",
+      "Oliver Twist",
+      "Moby Dick",
+      "Les Misérables"
+    ],
+    "answer": 2,
+    "explanation": "Herman Melville skrev Moby Dick.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 245,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Brott och straff?",
+    "options": [
+      "Emily Brontë",
+      "August Strindberg",
+      "Victor Hugo",
+      "Fjodor Dostojevskij"
+    ],
+    "answer": 3,
+    "explanation": "Brott och straff skrevs av Fjodor Dostojevskij.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 246,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Fjodor Dostojevskij?",
+    "options": [
+      "Anna Karenina",
+      "Norwegian Wood",
+      "Brott och straff",
+      "Jane Eyre"
+    ],
+    "answer": 2,
+    "explanation": "Fjodor Dostojevskij skrev Brott och straff.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 247,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Den store Gatsby?",
+    "options": [
+      "J.K. Rowling",
+      "F. Scott Fitzgerald",
+      "Hjalmar Söderberg",
+      "Haruki Murakami"
+    ],
+    "answer": 1,
+    "explanation": "Den store Gatsby skrevs av F. Scott Fitzgerald.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 248,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av F. Scott Fitzgerald?",
+    "options": [
+      "Den store Gatsby",
+      "Da Vinci-koden",
+      "Utvandrarna",
+      "Harry Potter och de vises sten"
+    ],
+    "answer": 0,
+    "explanation": "F. Scott Fitzgerald skrev Den store Gatsby.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 249,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Frankenstein?",
+    "options": [
+      "Astrid Lindgren",
+      "Donna Tartt",
+      "Charlotte Brontë",
+      "Mary Shelley"
+    ],
+    "answer": 3,
+    "explanation": "Frankenstein skrevs av Mary Shelley.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 250,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Mary Shelley?",
+    "options": [
+      "Processen",
+      "Frankenstein",
+      "Utvandrarna",
+      "Den allvarsamma leken"
+    ],
+    "answer": 1,
+    "explanation": "Mary Shelley skrev Frankenstein.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 251,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Jane Eyre?",
+    "options": [
+      "Charlotte Brontë",
+      "Charles Dickens",
+      "Michail Bulgakov",
+      "Dan Brown"
+    ],
+    "answer": 0,
+    "explanation": "Jane Eyre skrevs av Charlotte Brontë.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 252,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Charlotte Brontë?",
+    "options": [
+      "Madame Bovary",
+      "Jane Eyre",
+      "Pippi Långstrump",
+      "Harry Potter och de vises sten"
+    ],
+    "answer": 1,
+    "explanation": "Charlotte Brontë skrev Jane Eyre.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 253,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Wuthering Heights?",
+    "options": [
+      "Emily Brontë",
+      "Leo Tolstoj",
+      "Victor Hugo",
+      "Gabriel García Márquez"
+    ],
+    "answer": 0,
+    "explanation": "Wuthering Heights skrevs av Emily Brontë.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 254,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Emily Brontë?",
+    "options": [
+      "Greven av Monte Cristo",
+      "Utvandrarna",
+      "Anna Karenina",
+      "Wuthering Heights"
+    ],
+    "answer": 3,
+    "explanation": "Emily Brontë skrev Wuthering Heights.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 255,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Don Quijote?",
+    "options": [
+      "August Strindberg",
+      "Miguel de Cervantes",
+      "Franz Kafka",
+      "Mary Shelley"
+    ],
+    "answer": 1,
+    "explanation": "Don Quijote skrevs av Miguel de Cervantes.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 256,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Miguel de Cervantes?",
+    "options": [
+      "Den gamle och havet",
+      "Den allvarsamma leken",
+      "Utvandrarna",
+      "Don Quijote"
+    ],
+    "answer": 3,
+    "explanation": "Miguel de Cervantes skrev Don Quijote.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 257,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Den gamle och havet?",
+    "options": [
+      "Ernest Hemingway",
+      "J.K. Rowling",
+      "Haruki Murakami",
+      "F. Scott Fitzgerald"
+    ],
+    "answer": 0,
+    "explanation": "Den gamle och havet skrevs av Ernest Hemingway.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 258,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Ernest Hemingway?",
+    "options": [
+      "Tjänarinnans berättelse",
+      "Hundra år av ensamhet",
+      "Flugornas herre",
+      "Den gamle och havet"
+    ],
+    "answer": 3,
+    "explanation": "Ernest Hemingway skrev Den gamle och havet.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 259,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Processen?",
+    "options": [
+      "Fjodor Dostojevskij",
+      "Paulo Coelho",
+      "Franz Kafka",
+      "William Golding"
+    ],
+    "answer": 2,
+    "explanation": "Processen skrevs av Franz Kafka.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 260,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Franz Kafka?",
+    "options": [
+      "Hundra år av ensamhet",
+      "Harry Potter och de vises sten",
+      "Fahrenheit 451",
+      "Processen"
+    ],
+    "answer": 3,
+    "explanation": "Franz Kafka skrev Processen.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 261,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Odysseus?",
+    "options": [
+      "Emily Brontë",
+      "Franz Kafka",
+      "Antoine de Saint-Exupéry",
+      "James Joyce"
+    ],
+    "answer": 3,
+    "explanation": "Odysseus skrevs av James Joyce.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 262,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av James Joyce?",
+    "options": [
+      "Hundra år av ensamhet",
+      "Wuthering Heights",
+      "Odysseus",
+      "Rosens namn"
+    ],
+    "answer": 2,
+    "explanation": "James Joyce skrev Odysseus.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 263,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Anna Karenina?",
+    "options": [
+      "Victor Hugo",
+      "August Strindberg",
+      "J.K. Rowling",
+      "Leo Tolstoj"
+    ],
+    "answer": 3,
+    "explanation": "Anna Karenina skrevs av Leo Tolstoj.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 264,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Leo Tolstoj?",
+    "options": [
+      "1984",
+      "Doktor Glas",
+      "Tjänarinnans berättelse",
+      "Anna Karenina"
+    ],
+    "answer": 3,
+    "explanation": "Leo Tolstoj skrev Anna Karenina.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 265,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Les Misérables?",
+    "options": [
+      "James Joyce",
+      "Charles Dickens",
+      "Margaret Atwood",
+      "Victor Hugo"
+    ],
+    "answer": 3,
+    "explanation": "Les Misérables skrevs av Victor Hugo.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 266,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Victor Hugo?",
+    "options": [
+      "Les Misérables",
+      "1984",
+      "Gösta Berlings saga",
+      "Dracula"
+    ],
+    "answer": 0,
+    "explanation": "Victor Hugo skrev Les Misérables.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 267,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Greven av Monte Cristo?",
+    "options": [
+      "Alexandre Dumas",
+      "August Strindberg",
+      "Franz Kafka",
+      "George Orwell"
+    ],
+    "answer": 0,
+    "explanation": "Greven av Monte Cristo skrevs av Alexandre Dumas.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 268,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Alexandre Dumas?",
+    "options": [
+      "Stolthet och fördom",
+      "Tjänarinnans berättelse",
+      "Greven av Monte Cristo",
+      "Dödssynden"
+    ],
+    "answer": 2,
+    "explanation": "Alexandre Dumas skrev Greven av Monte Cristo.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 269,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Dracula?",
+    "options": [
+      "Selma Lagerlöf",
+      "Haruki Murakami",
+      "Erich Maria Remarque",
+      "Bram Stoker"
+    ],
+    "answer": 3,
+    "explanation": "Dracula skrevs av Bram Stoker.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 270,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Bram Stoker?",
+    "options": [
+      "Wuthering Heights",
+      "Pippi Långstrump",
+      "Dracula",
+      "Flugornas herre"
+    ],
+    "answer": 2,
+    "explanation": "Bram Stoker skrev Dracula.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 271,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Flugornas herre?",
+    "options": [
+      "Mary Shelley",
+      "Harper Lee",
+      "Donna Tartt",
+      "William Golding"
+    ],
+    "answer": 3,
+    "explanation": "Flugornas herre skrevs av William Golding.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 272,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av William Golding?",
+    "options": [
+      "Norwegian Wood",
+      "Dracula",
+      "Flugornas herre",
+      "Oliver Twist"
+    ],
+    "answer": 2,
+    "explanation": "William Golding skrev Flugornas herre.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 273,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Dorian Grays porträtt?",
+    "options": [
+      "Charles Dickens",
+      "Umberto Eco",
+      "Bram Stoker",
+      "Oscar Wilde"
+    ],
+    "answer": 3,
+    "explanation": "Dorian Grays porträtt skrevs av Oscar Wilde.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 274,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Oscar Wilde?",
+    "options": [
+      "Dorian Grays porträtt",
+      "Den store Gatsby",
+      "Röda rummet",
+      "Rosens namn"
+    ],
+    "answer": 0,
+    "explanation": "Oscar Wilde skrev Dorian Grays porträtt.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 275,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev På västfronten intet nytt?",
+    "options": [
+      "Ray Bradbury",
+      "George Orwell",
+      "Erich Maria Remarque",
+      "Leo Tolstoj"
+    ],
+    "answer": 2,
+    "explanation": "På västfronten intet nytt skrevs av Erich Maria Remarque.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 276,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Erich Maria Remarque?",
+    "options": [
+      "På västfronten intet nytt",
+      "Den store Gatsby",
+      "Dracula",
+      "Doktor Glas"
+    ],
+    "answer": 0,
+    "explanation": "Erich Maria Remarque skrev På västfronten intet nytt.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 277,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Hundra år av ensamhet?",
+    "options": [
+      "George Orwell",
+      "Franz Kafka",
+      "Gabriel García Márquez",
+      "Charlotte Brontë"
+    ],
+    "answer": 2,
+    "explanation": "Hundra år av ensamhet skrevs av Gabriel García Márquez.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 278,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Gabriel García Márquez?",
+    "options": [
+      "Odysseus",
+      "Hundra år av ensamhet",
+      "Fahrenheit 451",
+      "Dödssynden"
+    ],
+    "answer": 1,
+    "explanation": "Gabriel García Márquez skrev Hundra år av ensamhet.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 279,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Pippi Långstrump?",
+    "options": [
+      "Dan Brown",
+      "William Golding",
+      "Astrid Lindgren",
+      "George Orwell"
+    ],
+    "answer": 2,
+    "explanation": "Pippi Långstrump skrevs av Astrid Lindgren.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 280,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Astrid Lindgren?",
+    "options": [
+      "Gösta Berlings saga",
+      "Hundra år av ensamhet",
+      "Norwegian Wood",
+      "Pippi Långstrump"
+    ],
+    "answer": 3,
+    "explanation": "Astrid Lindgren skrev Pippi Långstrump.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 281,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Gösta Berlings saga?",
+    "options": [
+      "Selma Lagerlöf",
+      "Umberto Eco",
+      "George Orwell",
+      "Oscar Wilde"
+    ],
+    "answer": 0,
+    "explanation": "Gösta Berlings saga skrevs av Selma Lagerlöf.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 282,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Selma Lagerlöf?",
+    "options": [
+      "Utvandrarna",
+      "Gösta Berlings saga",
+      "Dorian Grays porträtt",
+      "Wuthering Heights"
+    ],
+    "answer": 1,
+    "explanation": "Selma Lagerlöf skrev Gösta Berlings saga.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 283,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Utvandrarna?",
+    "options": [
+      "Gabriel García Márquez",
+      "Ernest Hemingway",
+      "Vilhelm Moberg",
+      "Leo Tolstoj"
+    ],
+    "answer": 2,
+    "explanation": "Utvandrarna skrevs av Vilhelm Moberg.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 284,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Vilhelm Moberg?",
+    "options": [
+      "Utvandrarna",
+      "Rosens namn",
+      "Dorian Grays porträtt",
+      "Röda rummet"
+    ],
+    "answer": 0,
+    "explanation": "Vilhelm Moberg skrev Utvandrarna.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 285,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Doktor Glas?",
+    "options": [
+      "Hjalmar Söderberg",
+      "Astrid Lindgren",
+      "Gustave Flaubert",
+      "F. Scott Fitzgerald"
+    ],
+    "answer": 0,
+    "explanation": "Doktor Glas skrevs av Hjalmar Söderberg.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 286,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Hjalmar Söderberg?",
+    "options": [
+      "Frankenstein",
+      "Doktor Glas",
+      "Pippi Långstrump",
+      "På västfronten intet nytt"
+    ],
+    "answer": 1,
+    "explanation": "Hjalmar Söderberg skrev Doktor Glas.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 287,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Röda rummet?",
+    "options": [
+      "Charles Dickens",
+      "J.K. Rowling",
+      "F. Scott Fitzgerald",
+      "August Strindberg"
+    ],
+    "answer": 3,
+    "explanation": "Röda rummet skrevs av August Strindberg.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 288,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av August Strindberg?",
+    "options": [
+      "Röda rummet",
+      "Dorian Grays porträtt",
+      "Brott och straff",
+      "Alkemisten"
+    ],
+    "answer": 0,
+    "explanation": "August Strindberg skrev Röda rummet.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 289,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Harry Potter och de vises sten?",
+    "options": [
+      "Haruki Murakami",
+      "Victor Hugo",
+      "J.K. Rowling",
+      "Charles Dickens"
+    ],
+    "answer": 2,
+    "explanation": "Harry Potter och de vises sten skrevs av J.K. Rowling.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 290,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av J.K. Rowling?",
+    "options": [
+      "Moby Dick",
+      "Harry Potter och de vises sten",
+      "Den store Gatsby",
+      "Don Quijote"
+    ],
+    "answer": 1,
+    "explanation": "J.K. Rowling skrev Harry Potter och de vises sten.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 291,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Hobbiten?",
+    "options": [
+      "Ray Bradbury",
+      "J.R.R. Tolkien",
+      "Alexandre Dumas",
+      "Leo Tolstoj"
+    ],
+    "answer": 1,
+    "explanation": "Hobbiten skrevs av J.R.R. Tolkien.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 292,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av J.R.R. Tolkien?",
+    "options": [
+      "Tjänarinnans berättelse",
+      "Hobbiten",
+      "Den store Gatsby",
+      "Doktor Glas"
+    ],
+    "answer": 1,
+    "explanation": "J.R.R. Tolkien skrev Hobbiten.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 293,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Da Vinci-koden?",
+    "options": [
+      "Dan Brown",
+      "Antoine de Saint-Exupéry",
+      "Michail Bulgakov",
+      "Ernest Hemingway"
+    ],
+    "answer": 0,
+    "explanation": "Da Vinci-koden skrevs av Dan Brown.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 294,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Dan Brown?",
+    "options": [
+      "Den hemliga historien",
+      "Odysseus",
+      "Rosens namn",
+      "Da Vinci-koden"
+    ],
+    "answer": 3,
+    "explanation": "Dan Brown skrev Da Vinci-koden.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 295,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Alkemisten?",
+    "options": [
+      "Umberto Eco",
+      "Gabriel García Márquez",
+      "Paulo Coelho",
+      "William Golding"
+    ],
+    "answer": 2,
+    "explanation": "Alkemisten skrevs av Paulo Coelho.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 296,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Paulo Coelho?",
+    "options": [
+      "Don Quijote",
+      "Alkemisten",
+      "Wuthering Heights",
+      "Anna Karenina"
+    ],
+    "answer": 1,
+    "explanation": "Paulo Coelho skrev Alkemisten.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 297,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Tjänarinnans berättelse?",
+    "options": [
+      "Astrid Lindgren",
+      "Gabriel García Márquez",
+      "Margaret Atwood",
+      "Fjodor Dostojevskij"
+    ],
+    "answer": 2,
+    "explanation": "Tjänarinnans berättelse skrevs av Margaret Atwood.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 298,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Margaret Atwood?",
+    "options": [
+      "Mästaren och Margarita",
+      "Tjänarinnans berättelse",
+      "Madame Bovary",
+      "På västfronten intet nytt"
+    ],
+    "answer": 1,
+    "explanation": "Margaret Atwood skrev Tjänarinnans berättelse.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 299,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Fahrenheit 451?",
+    "options": [
+      "Victor Hugo",
+      "Erich Maria Remarque",
+      "Ray Bradbury",
+      "Charles Dickens"
+    ],
+    "answer": 2,
+    "explanation": "Fahrenheit 451 skrevs av Ray Bradbury.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 300,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Ray Bradbury?",
+    "options": [
+      "Dracula",
+      "Den hemliga historien",
+      "Fahrenheit 451",
+      "1984"
+    ],
+    "answer": 2,
+    "explanation": "Ray Bradbury skrev Fahrenheit 451.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 301,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Dödssynden?",
+    "options": [
+      "Franz Kafka",
+      "Selma Lagerlöf",
+      "Harper Lee",
+      "J.K. Rowling"
+    ],
+    "answer": 2,
+    "explanation": "Dödssynden skrevs av Harper Lee.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 302,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Harper Lee?",
+    "options": [
+      "Rosens namn",
+      "Harry Potter och de vises sten",
+      "Fahrenheit 451",
+      "Dödssynden"
+    ],
+    "answer": 3,
+    "explanation": "Harper Lee skrev Dödssynden.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 303,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Den hemliga historien?",
+    "options": [
+      "August Strindberg",
+      "Mary Shelley",
+      "Ernest Hemingway",
+      "Donna Tartt"
+    ],
+    "answer": 3,
+    "explanation": "Den hemliga historien skrevs av Donna Tartt.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 304,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Donna Tartt?",
+    "options": [
+      "Den lille prinsen",
+      "Den hemliga historien",
+      "Don Quijote",
+      "Madame Bovary"
+    ],
+    "answer": 1,
+    "explanation": "Donna Tartt skrev Den hemliga historien.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 305,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Norwegian Wood?",
+    "options": [
+      "Donna Tartt",
+      "Victor Hugo",
+      "Haruki Murakami",
+      "Emily Brontë"
+    ],
+    "answer": 2,
+    "explanation": "Norwegian Wood skrevs av Haruki Murakami.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 306,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Haruki Murakami?",
+    "options": [
+      "Processen",
+      "Pippi Långstrump",
+      "Norwegian Wood",
+      "Greven av Monte Cristo"
+    ],
+    "answer": 2,
+    "explanation": "Haruki Murakami skrev Norwegian Wood.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 307,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Rosens namn?",
+    "options": [
+      "Umberto Eco",
+      "Antoine de Saint-Exupéry",
+      "Astrid Lindgren",
+      "Oscar Wilde"
+    ],
+    "answer": 0,
+    "explanation": "Rosens namn skrevs av Umberto Eco.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 308,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Umberto Eco?",
+    "options": [
+      "Rosens namn",
+      "Mästaren och Margarita",
+      "Den hemliga historien",
+      "Frankenstein"
+    ],
+    "answer": 0,
+    "explanation": "Umberto Eco skrev Rosens namn.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 309,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Mästaren och Margarita?",
+    "options": [
+      "Ernest Hemingway",
+      "Alexandre Dumas",
+      "Michail Bulgakov",
+      "Haruki Murakami"
+    ],
+    "answer": 2,
+    "explanation": "Mästaren och Margarita skrevs av Michail Bulgakov.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 310,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Michail Bulgakov?",
+    "options": [
+      "Moby Dick",
+      "Mästaren och Margarita",
+      "Flugornas herre",
+      "Oliver Twist"
+    ],
+    "answer": 1,
+    "explanation": "Michail Bulgakov skrev Mästaren och Margarita.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 311,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Madame Bovary?",
+    "options": [
+      "Jane Austen",
+      "Margaret Atwood",
+      "Gustave Flaubert",
+      "Vilhelm Moberg"
+    ],
+    "answer": 2,
+    "explanation": "Madame Bovary skrevs av Gustave Flaubert.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 312,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Gustave Flaubert?",
+    "options": [
+      "Madame Bovary",
+      "Fahrenheit 451",
+      "Dracula",
+      "Harry Potter och de vises sten"
+    ],
+    "answer": 0,
+    "explanation": "Gustave Flaubert skrev Madame Bovary.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 313,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Oliver Twist?",
+    "options": [
+      "Emily Brontë",
+      "J.K. Rowling",
+      "Haruki Murakami",
+      "Charles Dickens"
+    ],
+    "answer": 3,
+    "explanation": "Oliver Twist skrevs av Charles Dickens.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 314,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Charles Dickens?",
+    "options": [
+      "Les Misérables",
+      "Den allvarsamma leken",
+      "Oliver Twist",
+      "Gösta Berlings saga"
+    ],
+    "answer": 2,
+    "explanation": "Charles Dickens skrev Oliver Twist.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 315,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Den lille prinsen?",
+    "options": [
+      "Michail Bulgakov",
+      "Charles Dickens",
+      "Antoine de Saint-Exupéry",
+      "Franz Kafka"
+    ],
+    "answer": 2,
+    "explanation": "Den lille prinsen skrevs av Antoine de Saint-Exupéry.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 316,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Antoine de Saint-Exupéry?",
+    "options": [
+      "Den lille prinsen",
+      "Tjänarinnans berättelse",
+      "Dracula",
+      "Pippi Långstrump"
+    ],
+    "answer": 0,
+    "explanation": "Antoine de Saint-Exupéry skrev Den lille prinsen.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 317,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem skrev Den allvarsamma leken?",
+    "options": [
+      "Hjalmar Söderberg",
+      "J.R.R. Tolkien",
+      "August Strindberg",
+      "James Joyce"
+    ],
+    "answer": 0,
+    "explanation": "Den allvarsamma leken skrevs av Hjalmar Söderberg.",
+    "tags": [
+      "litteratur",
+      "författare"
+    ]
+  },
+  {
+    "id": 318,
+    "category": "Litteratur & konst",
+    "difficulty": 3,
+    "question": "Vilket av dessa verk skrevs av Hjalmar Söderberg?",
+    "options": [
+      "Hobbiten",
+      "Dracula",
+      "Den allvarsamma leken",
+      "Processen"
+    ],
+    "answer": 2,
+    "explanation": "Hjalmar Söderberg skrev Den allvarsamma leken.",
+    "tags": [
+      "litteratur",
+      "verk"
+    ]
+  },
+  {
+    "id": 319,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Eiffeltornet?",
+    "options": [
+      "Kanada",
+      "Japan",
+      "Nya Zeeland",
+      "Frankrike"
+    ],
+    "answer": 3,
+    "explanation": "Eiffeltornet ligger i Frankrike.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 320,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Frankrike?",
+    "options": [
+      "Hallgrímskirkja",
+      "Sagrada Família",
+      "Pisa lutande torn",
+      "Eiffeltornet"
+    ],
+    "answer": 3,
+    "explanation": "Eiffeltornet förknippas med Frankrike.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 321,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Colosseum?",
+    "options": [
+      "Island",
+      "Indien",
+      "Italien",
+      "Storbritannien"
+    ],
+    "answer": 2,
+    "explanation": "Colosseum ligger i Italien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 322,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Italien?",
+    "options": [
+      "Trakai slott",
+      "Hallgrímskirkja",
+      "Colosseum",
+      "Kilimanjaros topp"
+    ],
+    "answer": 2,
+    "explanation": "Colosseum förknippas med Italien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 323,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Sagrada Família?",
+    "options": [
+      "Frankrike",
+      "Tanzania",
+      "Spanien",
+      "Marocko"
+    ],
+    "answer": 2,
+    "explanation": "Sagrada Família ligger i Spanien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 324,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Spanien?",
+    "options": [
+      "Marina Bay Sands",
+      "Akropolis",
+      "Hobbiton",
+      "Sagrada Família"
+    ],
+    "answer": 3,
+    "explanation": "Sagrada Família förknippas med Spanien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 325,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Akropolis?",
+    "options": [
+      "Sverige och Danmark",
+      "Mexiko",
+      "Litauen",
+      "Grekland"
+    ],
+    "answer": 3,
+    "explanation": "Akropolis ligger i Grekland.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 326,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Grekland?",
+    "options": [
+      "Atomium",
+      "Akropolis",
+      "Nidarosdomen",
+      "Kinesiska muren"
+    ],
+    "answer": 1,
+    "explanation": "Akropolis förknippas med Grekland.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 327,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Stonehenge?",
+    "options": [
+      "Sverige och Danmark",
+      "Storbritannien",
+      "Norge",
+      "Etiopien"
+    ],
+    "answer": 1,
+    "explanation": "Stonehenge ligger i Storbritannien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 328,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Storbritannien?",
+    "options": [
+      "Turning Torso",
+      "Stonehenge",
+      "Sagrada Família",
+      "Edinburgh Castle"
+    ],
+    "answer": 1,
+    "explanation": "Stonehenge förknippas med Storbritannien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 329,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Brandenburger Tor?",
+    "options": [
+      "Norge",
+      "Australien",
+      "Tyskland",
+      "Marocko"
+    ],
+    "answer": 2,
+    "explanation": "Brandenburger Tor ligger i Tyskland.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 330,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Tyskland?",
+    "options": [
+      "Golden Gate-bron",
+      "Hobbiton",
+      "Brandenburger Tor",
+      "Angkor Wat"
+    ],
+    "answer": 2,
+    "explanation": "Brandenburger Tor förknippas med Tyskland.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 331,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Pisa lutande torn?",
+    "options": [
+      "Italien",
+      "Sydafrika",
+      "USA",
+      "Kina"
+    ],
+    "answer": 0,
+    "explanation": "Pisa lutande torn ligger i Italien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 332,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Italien?",
+    "options": [
+      "Pisa lutande torn",
+      "Temppeliaukio-kyrkan",
+      "Angkor Wat",
+      "Pyramiderna i Giza"
+    ],
+    "answer": 0,
+    "explanation": "Pisa lutande torn förknippas med Italien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 333,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Neuschwanstein?",
+    "options": [
+      "Italien",
+      "Jordanien",
+      "Sverige",
+      "Tyskland"
+    ],
+    "answer": 3,
+    "explanation": "Neuschwanstein ligger i Tyskland.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 334,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Tyskland?",
+    "options": [
+      "CN Tower",
+      "Sagrada Família",
+      "Neuschwanstein",
+      "Frihetsgudinnan"
+    ],
+    "answer": 2,
+    "explanation": "Neuschwanstein förknippas med Tyskland.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 335,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Atomium?",
+    "options": [
+      "Chile",
+      "Tanzania",
+      "Belgien",
+      "Sydafrika"
+    ],
+    "answer": 2,
+    "explanation": "Atomium ligger i Belgien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 336,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Belgien?",
+    "options": [
+      "Turning Torso",
+      "Atomium",
+      "Kilimanjaros topp",
+      "Pyramiderna i Giza"
+    ],
+    "answer": 1,
+    "explanation": "Atomium förknippas med Belgien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 337,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Edinburgh Castle?",
+    "options": [
+      "USA",
+      "Kanada",
+      "Peru",
+      "Storbritannien"
+    ],
+    "answer": 3,
+    "explanation": "Edinburgh Castle ligger i Storbritannien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 338,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Storbritannien?",
+    "options": [
+      "Hassan II-moskén",
+      "Vasamuseet",
+      "Edinburgh Castle",
+      "Burj Khalifa"
+    ],
+    "answer": 2,
+    "explanation": "Edinburgh Castle förknippas med Storbritannien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 339,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Frihetsgudinnan?",
+    "options": [
+      "Belgien",
+      "Tyskland",
+      "USA",
+      "Jordanien"
+    ],
+    "answer": 2,
+    "explanation": "Frihetsgudinnan ligger i USA.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 340,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med USA?",
+    "options": [
+      "Moai-statyerna på Påskön",
+      "Frihetsgudinnan",
+      "Taj Mahal",
+      "Angkor Wat"
+    ],
+    "answer": 1,
+    "explanation": "Frihetsgudinnan förknippas med USA.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 341,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Golden Gate-bron?",
+    "options": [
+      "USA",
+      "Sydafrika",
+      "Belgien",
+      "Etiopien"
+    ],
+    "answer": 0,
+    "explanation": "Golden Gate-bron ligger i USA.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 342,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med USA?",
+    "options": [
+      "Operahuset i Sydney",
+      "Den lille havfrue",
+      "Vasamuseet",
+      "Golden Gate-bron"
+    ],
+    "answer": 3,
+    "explanation": "Golden Gate-bron förknippas med USA.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 343,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Chichén Itzá?",
+    "options": [
+      "Finland",
+      "Mexiko",
+      "Grekland",
+      "Litauen"
+    ],
+    "answer": 1,
+    "explanation": "Chichén Itzá ligger i Mexiko.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 344,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Mexiko?",
+    "options": [
+      "Kilimanjaros topp",
+      "Machu Picchu",
+      "Chichén Itzá",
+      "Kristusstatyn i Rio"
+    ],
+    "answer": 2,
+    "explanation": "Chichén Itzá förknippas med Mexiko.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 345,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Kristusstatyn i Rio?",
+    "options": [
+      "Brasilien",
+      "Jordanien",
+      "Marocko",
+      "Frankrike"
+    ],
+    "answer": 0,
+    "explanation": "Kristusstatyn i Rio ligger i Brasilien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 346,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Brasilien?",
+    "options": [
+      "Moai-statyerna på Påskön",
+      "Pisa lutande torn",
+      "Akropolis",
+      "Kristusstatyn i Rio"
+    ],
+    "answer": 3,
+    "explanation": "Kristusstatyn i Rio förknippas med Brasilien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 347,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Machu Picchu?",
+    "options": [
+      "Frankrike",
+      "Egypten",
+      "Peru",
+      "Marocko"
+    ],
+    "answer": 2,
+    "explanation": "Machu Picchu ligger i Peru.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 348,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Peru?",
+    "options": [
+      "Machu Picchu",
+      "Kilimanjaros topp",
+      "Chichén Itzá",
+      "Taj Mahal"
+    ],
+    "answer": 0,
+    "explanation": "Machu Picchu förknippas med Peru.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 349,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Moai-statyerna på Påskön?",
+    "options": [
+      "Grekland",
+      "Litauen",
+      "Chile",
+      "Indien"
+    ],
+    "answer": 2,
+    "explanation": "Moai-statyerna på Påskön ligger i Chile.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 350,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Chile?",
+    "options": [
+      "Sagrada Família",
+      "Moai-statyerna på Påskön",
+      "Hallgrímskirkja",
+      "Hobbiton"
+    ],
+    "answer": 1,
+    "explanation": "Moai-statyerna på Påskön förknippas med Chile.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 351,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger CN Tower?",
+    "options": [
+      "Kanada",
+      "Sydafrika",
+      "Egypten",
+      "Grekland"
+    ],
+    "answer": 0,
+    "explanation": "CN Tower ligger i Kanada.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 352,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Kanada?",
+    "options": [
+      "Öresundsbron",
+      "Vasamuseet",
+      "Hassan II-moskén",
+      "CN Tower"
+    ],
+    "answer": 3,
+    "explanation": "CN Tower förknippas med Kanada.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 353,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Mount Rushmore?",
+    "options": [
+      "USA",
+      "Tyskland",
+      "Sverige",
+      "Kambodja"
+    ],
+    "answer": 0,
+    "explanation": "Mount Rushmore ligger i USA.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 354,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med USA?",
+    "options": [
+      "Mount Rushmore",
+      "CN Tower",
+      "Golden Gate-bron",
+      "Eiffeltornet"
+    ],
+    "answer": 0,
+    "explanation": "Mount Rushmore förknippas med USA.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 355,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Kinesiska muren?",
+    "options": [
+      "Kina",
+      "Chile",
+      "Tyskland",
+      "Tanzania"
+    ],
+    "answer": 0,
+    "explanation": "Kinesiska muren ligger i Kina.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 356,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Kina?",
+    "options": [
+      "Atomium",
+      "Pisa lutande torn",
+      "Golden Gate-bron",
+      "Kinesiska muren"
+    ],
+    "answer": 3,
+    "explanation": "Kinesiska muren förknippas med Kina.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 357,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Taj Mahal?",
+    "options": [
+      "Egypten",
+      "Danmark",
+      "Indien",
+      "Sverige"
+    ],
+    "answer": 2,
+    "explanation": "Taj Mahal ligger i Indien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 358,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Indien?",
+    "options": [
+      "Taj Mahal",
+      "Temppeliaukio-kyrkan",
+      "Angkor Wat",
+      "Burj Khalifa"
+    ],
+    "answer": 0,
+    "explanation": "Taj Mahal förknippas med Indien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 359,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Angkor Wat?",
+    "options": [
+      "Marocko",
+      "Storbritannien",
+      "Italien",
+      "Kambodja"
+    ],
+    "answer": 3,
+    "explanation": "Angkor Wat ligger i Kambodja.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 360,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Kambodja?",
+    "options": [
+      "Angkor Wat",
+      "Turning Torso",
+      "Taj Mahal",
+      "Hobbiton"
+    ],
+    "answer": 0,
+    "explanation": "Angkor Wat förknippas med Kambodja.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 361,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Petra?",
+    "options": [
+      "Marocko",
+      "Indien",
+      "Sverige och Danmark",
+      "Jordanien"
+    ],
+    "answer": 3,
+    "explanation": "Petra ligger i Jordanien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 362,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Jordanien?",
+    "options": [
+      "Marina Bay Sands",
+      "Trakai slott",
+      "Pyramiderna i Giza",
+      "Petra"
+    ],
+    "answer": 3,
+    "explanation": "Petra förknippas med Jordanien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 363,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Burj Khalifa?",
+    "options": [
+      "Frankrike",
+      "Förenade arabemiraten",
+      "Storbritannien",
+      "Brasilien"
+    ],
+    "answer": 1,
+    "explanation": "Burj Khalifa ligger i Förenade arabemiraten.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 364,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Förenade arabemiraten?",
+    "options": [
+      "Burj Khalifa",
+      "Akropolis",
+      "Turning Torso",
+      "Nidarosdomen"
+    ],
+    "answer": 0,
+    "explanation": "Burj Khalifa förknippas med Förenade arabemiraten.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 365,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Fushimi Inari-taisha?",
+    "options": [
+      "Sydafrika",
+      "Japan",
+      "Tanzania",
+      "Singapore"
+    ],
+    "answer": 1,
+    "explanation": "Fushimi Inari-taisha ligger i Japan.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 366,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Japan?",
+    "options": [
+      "Brandenburger Tor",
+      "Hallgrímskirkja",
+      "Temppeliaukio-kyrkan",
+      "Fushimi Inari-taisha"
+    ],
+    "answer": 3,
+    "explanation": "Fushimi Inari-taisha förknippas med Japan.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 367,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Marina Bay Sands?",
+    "options": [
+      "Australien",
+      "Marocko",
+      "Spanien",
+      "Singapore"
+    ],
+    "answer": 3,
+    "explanation": "Marina Bay Sands ligger i Singapore.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 368,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Singapore?",
+    "options": [
+      "Marina Bay Sands",
+      "Taj Mahal",
+      "Hassan II-moskén",
+      "Nidarosdomen"
+    ],
+    "answer": 0,
+    "explanation": "Marina Bay Sands förknippas med Singapore.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 369,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Operahuset i Sydney?",
+    "options": [
+      "Australien",
+      "Förenade arabemiraten",
+      "Kanada",
+      "Egypten"
+    ],
+    "answer": 0,
+    "explanation": "Operahuset i Sydney ligger i Australien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 370,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Australien?",
+    "options": [
+      "Akropolis",
+      "Operahuset i Sydney",
+      "Vasamuseet",
+      "Stonehenge"
+    ],
+    "answer": 1,
+    "explanation": "Operahuset i Sydney förknippas med Australien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 371,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Hobbiton?",
+    "options": [
+      "Mexiko",
+      "Nya Zeeland",
+      "Tyskland",
+      "Spanien"
+    ],
+    "answer": 1,
+    "explanation": "Hobbiton ligger i Nya Zeeland.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 372,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Nya Zeeland?",
+    "options": [
+      "Table Mountain",
+      "Fushimi Inari-taisha",
+      "Marina Bay Sands",
+      "Hobbiton"
+    ],
+    "answer": 3,
+    "explanation": "Hobbiton förknippas med Nya Zeeland.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 373,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Pyramiderna i Giza?",
+    "options": [
+      "Norge",
+      "Egypten",
+      "Marocko",
+      "Island"
+    ],
+    "answer": 1,
+    "explanation": "Pyramiderna i Giza ligger i Egypten.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 374,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Egypten?",
+    "options": [
+      "Machu Picchu",
+      "Atomium",
+      "Pyramiderna i Giza",
+      "Öresundsbron"
+    ],
+    "answer": 2,
+    "explanation": "Pyramiderna i Giza förknippas med Egypten.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 375,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Klippkyrkorna i Lalibela?",
+    "options": [
+      "Danmark",
+      "Etiopien",
+      "Belgien",
+      "Tanzania"
+    ],
+    "answer": 1,
+    "explanation": "Klippkyrkorna i Lalibela ligger i Etiopien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 376,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Etiopien?",
+    "options": [
+      "Klippkyrkorna i Lalibela",
+      "Burj Khalifa",
+      "Mount Rushmore",
+      "Edinburgh Castle"
+    ],
+    "answer": 0,
+    "explanation": "Klippkyrkorna i Lalibela förknippas med Etiopien.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 377,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Table Mountain?",
+    "options": [
+      "Sydafrika",
+      "Kina",
+      "Grekland",
+      "Spanien"
+    ],
+    "answer": 0,
+    "explanation": "Table Mountain ligger i Sydafrika.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 378,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Sydafrika?",
+    "options": [
+      "Trakai slott",
+      "Pisa lutande torn",
+      "Sagrada Família",
+      "Table Mountain"
+    ],
+    "answer": 3,
+    "explanation": "Table Mountain förknippas med Sydafrika.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 379,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Hassan II-moskén?",
+    "options": [
+      "Grekland",
+      "Chile",
+      "Storbritannien",
+      "Marocko"
+    ],
+    "answer": 3,
+    "explanation": "Hassan II-moskén ligger i Marocko.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 380,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Marocko?",
+    "options": [
+      "Hassan II-moskén",
+      "Atomium",
+      "Akropolis",
+      "Turning Torso"
+    ],
+    "answer": 0,
+    "explanation": "Hassan II-moskén förknippas med Marocko.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 381,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Kilimanjaros topp?",
+    "options": [
+      "Tanzania",
+      "Sydafrika",
+      "Mexiko",
+      "Jordanien"
+    ],
+    "answer": 0,
+    "explanation": "Kilimanjaros topp ligger i Tanzania.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 382,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Tanzania?",
+    "options": [
+      "Taj Mahal",
+      "Kilimanjaros topp",
+      "Mount Rushmore",
+      "Hobbiton"
+    ],
+    "answer": 1,
+    "explanation": "Kilimanjaros topp förknippas med Tanzania.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 383,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Hallgrímskirkja?",
+    "options": [
+      "Tanzania",
+      "Japan",
+      "Island",
+      "Italien"
+    ],
+    "answer": 2,
+    "explanation": "Hallgrímskirkja ligger i Island.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 384,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Island?",
+    "options": [
+      "Hobbiton",
+      "Angkor Wat",
+      "Öresundsbron",
+      "Hallgrímskirkja"
+    ],
+    "answer": 3,
+    "explanation": "Hallgrímskirkja förknippas med Island.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 385,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Turning Torso?",
+    "options": [
+      "USA",
+      "Sverige",
+      "Danmark",
+      "Nya Zeeland"
+    ],
+    "answer": 1,
+    "explanation": "Turning Torso ligger i Sverige.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 386,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Sverige?",
+    "options": [
+      "Akropolis",
+      "Edinburgh Castle",
+      "Table Mountain",
+      "Turning Torso"
+    ],
+    "answer": 3,
+    "explanation": "Turning Torso förknippas med Sverige.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 387,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Öresundsbron?",
+    "options": [
+      "Storbritannien",
+      "Danmark",
+      "Sverige och Danmark",
+      "Jordanien"
+    ],
+    "answer": 2,
+    "explanation": "Öresundsbron ligger i Sverige och Danmark.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 388,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Sverige och Danmark?",
+    "options": [
+      "Brandenburger Tor",
+      "Öresundsbron",
+      "Klippkyrkorna i Lalibela",
+      "Fushimi Inari-taisha"
+    ],
+    "answer": 1,
+    "explanation": "Öresundsbron förknippas med Sverige och Danmark.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 389,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Vasamuseet?",
+    "options": [
+      "Sverige",
+      "Danmark",
+      "Förenade arabemiraten",
+      "Grekland"
+    ],
+    "answer": 0,
+    "explanation": "Vasamuseet ligger i Sverige.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 390,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Sverige?",
+    "options": [
+      "Kristusstatyn i Rio",
+      "Vasamuseet",
+      "Hassan II-moskén",
+      "Petra"
+    ],
+    "answer": 1,
+    "explanation": "Vasamuseet förknippas med Sverige.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 391,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Nidarosdomen?",
+    "options": [
+      "Norge",
+      "Kanada",
+      "USA",
+      "Kambodja"
+    ],
+    "answer": 0,
+    "explanation": "Nidarosdomen ligger i Norge.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 392,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Norge?",
+    "options": [
+      "Operahuset i Sydney",
+      "Nidarosdomen",
+      "Moai-statyerna på Påskön",
+      "Vasamuseet"
+    ],
+    "answer": 1,
+    "explanation": "Nidarosdomen förknippas med Norge.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 393,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Den lille havfrue?",
+    "options": [
+      "Belgien",
+      "Danmark",
+      "Etiopien",
+      "Mexiko"
+    ],
+    "answer": 1,
+    "explanation": "Den lille havfrue ligger i Danmark.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 394,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Danmark?",
+    "options": [
+      "Den lille havfrue",
+      "Pisa lutande torn",
+      "Table Mountain",
+      "Hassan II-moskén"
+    ],
+    "answer": 0,
+    "explanation": "Den lille havfrue förknippas med Danmark.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 395,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Temppeliaukio-kyrkan?",
+    "options": [
+      "Finland",
+      "Peru",
+      "Grekland",
+      "Spanien"
+    ],
+    "answer": 0,
+    "explanation": "Temppeliaukio-kyrkan ligger i Finland.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 396,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Finland?",
+    "options": [
+      "Vasamuseet",
+      "Colosseum",
+      "CN Tower",
+      "Temppeliaukio-kyrkan"
+    ],
+    "answer": 3,
+    "explanation": "Temppeliaukio-kyrkan förknippas med Finland.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 397,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "I vilket land ligger Trakai slott?",
+    "options": [
+      "Etiopien",
+      "Kanada",
+      "Jordanien",
+      "Litauen"
+    ],
+    "answer": 3,
+    "explanation": "Trakai slott ligger i Litauen.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 398,
+    "category": "Geografi",
+    "difficulty": 3,
+    "question": "Vilket av dessa landmärken förknippas med Litauen?",
+    "options": [
+      "Kilimanjaros topp",
+      "Trakai slott",
+      "Vasamuseet",
+      "Petra"
+    ],
+    "answer": 1,
+    "explanation": "Trakai slott förknippas med Litauen.",
+    "tags": [
+      "landmärken"
+    ]
+  },
+  {
+    "id": 399,
+    "category": "Sverige",
+    "difficulty": 1,
+    "question": "Vilken är Sveriges största sjö?",
+    "options": [
+      "Vättern",
+      "Mälaren",
+      "Vänern",
+      "Hjälmaren"
+    ],
+    "answer": 2,
+    "explanation": "Vänern är Sveriges största sjö.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 400,
+    "category": "Sverige",
+    "difficulty": 1,
+    "question": "Vilket är Sveriges högsta berg?",
+    "options": [
+      "Kebnekaise",
+      "Helags",
+      "Åreskutan",
+      "Sarektjåkkå"
+    ],
+    "answer": 0,
+    "explanation": "Kebnekaise är Sveriges högsta berg.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 401,
+    "category": "Sverige",
+    "difficulty": 1,
+    "question": "Vilken älv rinner genom Luleå?",
+    "options": [
+      "Piteälven",
+      "Luleälven",
+      "Kalixälven",
+      "Torne älv"
+    ],
+    "answer": 1,
+    "explanation": "Luleälven mynnar vid Luleå.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 402,
+    "category": "Sverige",
+    "difficulty": 2,
+    "question": "Vilket år grundades Uppsala universitet?",
+    "options": [
+      "1397",
+      "1477",
+      "1523",
+      "1666"
+    ],
+    "answer": 1,
+    "explanation": "Uppsala universitet grundades 1477.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 403,
+    "category": "Sverige",
+    "difficulty": 2,
+    "question": "Vilket landskap har älgen som landskapsdjur?",
+    "options": [
+      "Jämtland",
+      "Dalarna",
+      "Värmland",
+      "Norrbotten"
+    ],
+    "answer": 0,
+    "explanation": "Älgen är Jämtlands landskapsdjur.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 404,
+    "category": "Sverige",
+    "difficulty": 2,
+    "question": "Vilken svensk stad kallas ofta Lilla London?",
+    "options": [
+      "Malmö",
+      "Göteborg",
+      "Uppsala",
+      "Gävle"
+    ],
+    "answer": 1,
+    "explanation": "Göteborg har länge kallats Lilla London.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 405,
+    "category": "Historia",
+    "difficulty": 1,
+    "question": "Vilket år började andra världskriget i Europa?",
+    "options": [
+      "1918",
+      "1933",
+      "1939",
+      "1941"
+    ],
+    "answer": 2,
+    "explanation": "Tyskland invaderade Polen den 1 september 1939.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 406,
+    "category": "Historia",
+    "difficulty": 1,
+    "question": "Vilket år föll Berlinmuren?",
+    "options": [
+      "1979",
+      "1985",
+      "1989",
+      "1991"
+    ],
+    "answer": 2,
+    "explanation": "Berlinmuren öppnades den 9 november 1989.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 407,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vem blev Frankrikes kejsare 1804?",
+    "options": [
+      "Ludvig XIV",
+      "Napoleon Bonaparte",
+      "Robespierre",
+      "Charles de Gaulle"
+    ],
+    "answer": 1,
+    "explanation": "Napoleon kröntes till kejsare 1804.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 408,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilken stad begravdes av Vesuvius år 79?",
+    "options": [
+      "Troja",
+      "Pompeji",
+      "Sparta",
+      "Kartago"
+    ],
+    "answer": 1,
+    "explanation": "Pompeji begravdes av Vesuvius utbrott.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 409,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år blev Gustav Vasa kung?",
+    "options": [
+      "1397",
+      "1523",
+      "1611",
+      "1718"
+    ],
+    "answer": 1,
+    "explanation": "Gustav Vasa valdes till kung 1523.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 410,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilken civilisation byggde Machu Picchu?",
+    "options": [
+      "Maya",
+      "Inka",
+      "Aztekerna",
+      "Olmekerna"
+    ],
+    "answer": 1,
+    "explanation": "Machu Picchu byggdes av Inkariket.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 411,
+    "category": "Film & TV",
+    "difficulty": 1,
+    "question": "Vem regisserade Titanic från 1997?",
+    "options": [
+      "Steven Spielberg",
+      "James Cameron",
+      "Ridley Scott",
+      "Martin Scorsese"
+    ],
+    "answer": 1,
+    "explanation": "James Cameron regisserade Titanic.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 412,
+    "category": "Film & TV",
+    "difficulty": 1,
+    "question": "Vad heter skolan i Harry Potter?",
+    "options": [
+      "Hogwarts",
+      "Nevermore",
+      "Narnia",
+      "Durmstrang"
+    ],
+    "answer": 0,
+    "explanation": "Harry Potter studerar på Hogwarts.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 413,
+    "category": "Film & TV",
+    "difficulty": 1,
+    "question": "I vilken stad utspelar sig Friends huvudsakligen?",
+    "options": [
+      "Boston",
+      "Chicago",
+      "New York",
+      "Los Angeles"
+    ],
+    "answer": 2,
+    "explanation": "Friends utspelar sig huvudsakligen i New York.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 414,
+    "category": "Film & TV",
+    "difficulty": 2,
+    "question": "Vilken svensk regissör gjorde Det sjunde inseglet?",
+    "options": [
+      "Jan Troell",
+      "Ingmar Bergman",
+      "Roy Andersson",
+      "Lasse Hallström"
+    ],
+    "answer": 1,
+    "explanation": "Ingmar Bergman regisserade filmen.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 415,
+    "category": "Film & TV",
+    "difficulty": 1,
+    "question": "Vem spelade huvudrollen i Forrest Gump?",
+    "options": [
+      "Tom Hanks",
+      "Tom Cruise",
+      "Brad Pitt",
+      "Robin Williams"
+    ],
+    "answer": 0,
+    "explanation": "Tom Hanks spelar Forrest Gump.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 416,
+    "category": "Musik",
+    "difficulty": 1,
+    "question": "Vilket band vann Eurovision 1974 med Waterloo?",
+    "options": [
+      "Roxette",
+      "ABBA",
+      "Europe",
+      "Ace of Base"
+    ],
+    "answer": 1,
+    "explanation": "ABBA vann Eurovision 1974.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 417,
+    "category": "Musik",
+    "difficulty": 1,
+    "question": "Vem kallades The King of Pop?",
+    "options": [
+      "Prince",
+      "Michael Jackson",
+      "Elvis Presley",
+      "David Bowie"
+    ],
+    "answer": 1,
+    "explanation": "Michael Jackson kallades The King of Pop.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 418,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilket band gav ut The Dark Side of the Moon?",
+    "options": [
+      "Queen",
+      "Pink Floyd",
+      "Led Zeppelin",
+      "The Who"
+    ],
+    "answer": 1,
+    "explanation": "Pink Floyd gav ut albumet 1973.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 419,
+    "category": "Musik",
+    "difficulty": 1,
+    "question": "Vilket instrument har normalt 88 tangenter?",
+    "options": [
+      "Piano",
+      "Orgel",
+      "Dragspel",
+      "Cembalo"
+    ],
+    "answer": 0,
+    "explanation": "Ett standardpiano har 88 tangenter.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 420,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vem komponerade Für Elise?",
+    "options": [
+      "Mozart",
+      "Beethoven",
+      "Bach",
+      "Chopin"
+    ],
+    "answer": 1,
+    "explanation": "Für Elise tillskrivs Beethoven.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 421,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Hur många spelare har ett fotbollslag på planen vid avspark?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Ett fotbollslag startar med elva spelare.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 422,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Hur många ringar finns i den olympiska symbolen?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Symbolen består av fem ringar.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 423,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "I vilken sport tävlar man om Stanley Cup?",
+    "options": [
+      "Basket",
+      "Baseboll",
+      "Ishockey",
+      "Amerikansk fotboll"
+    ],
+    "answer": 2,
+    "explanation": "Stanley Cup är NHL:s mästerskapspokal.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 424,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Vilken Grand Slam-turnering spelas på gräs?",
+    "options": [
+      "US Open",
+      "French Open",
+      "Australian Open",
+      "Wimbledon"
+    ],
+    "answer": 3,
+    "explanation": "Wimbledon spelas på gräs.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 425,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Hur lång är ett maraton?",
+    "options": [
+      "40,0 km",
+      "41,195 km",
+      "42,195 km",
+      "43,0 km"
+    ],
+    "answer": 2,
+    "explanation": "Maratondistansen är 42,195 kilometer.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 426,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilken planet ligger närmast solen?",
+    "options": [
+      "Venus",
+      "Merkurius",
+      "Mars",
+      "Jorden"
+    ],
+    "answer": 1,
+    "explanation": "Merkurius är solsystemets innersta planet.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 427,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Hur många hjärtan har en bläckfisk?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Bläckfiskar har tre hjärtan.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 428,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket organ producerar insulin?",
+    "options": [
+      "Levern",
+      "Bukspottkörteln",
+      "Mjälten",
+      "Sköldkörteln"
+    ],
+    "answer": 1,
+    "explanation": "Insulin produceras i bukspottkörteln.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 429,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad mäts i hertz?",
+    "options": [
+      "Energi",
+      "Frekvens",
+      "Tryck",
+      "Temperatur"
+    ],
+    "answer": 1,
+    "explanation": "Hertz är enheten för frekvens.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 430,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket är människokroppens största organ?",
+    "options": [
+      "Levern",
+      "Huden",
+      "Lungorna",
+      "Tarmen"
+    ],
+    "answer": 1,
+    "explanation": "Huden är kroppens största organ.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 431,
+    "category": "Mat & dryck",
+    "difficulty": 1,
+    "question": "Vilken spritsort är huvudingrediens i en mojito?",
+    "options": [
+      "Gin",
+      "Rom",
+      "Vodka",
+      "Tequila"
+    ],
+    "answer": 1,
+    "explanation": "Mojito görs traditionellt med ljus rom.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 432,
+    "category": "Mat & dryck",
+    "difficulty": 1,
+    "question": "Från vilket land kommer paella?",
+    "options": [
+      "Portugal",
+      "Spanien",
+      "Italien",
+      "Frankrike"
+    ],
+    "answer": 1,
+    "explanation": "Paella kommer från Spanien.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 433,
+    "category": "Mat & dryck",
+    "difficulty": 1,
+    "question": "Vad är huvudråvaran i hummus?",
+    "options": [
+      "Linser",
+      "Kikärter",
+      "Vita bönor",
+      "Ärtor"
+    ],
+    "answer": 1,
+    "explanation": "Hummus görs främst av kikärter.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 434,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vad heter metoden där mat vakuumförpackas och tillagas i exakt temperatur?",
+    "options": [
+      "Flambering",
+      "Sous vide",
+      "Confitering",
+      "Gratinering"
+    ],
+    "answer": 1,
+    "explanation": "Metoden heter sous vide.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 435,
+    "category": "Litteratur & konst",
+    "difficulty": 1,
+    "question": "Vem målade Guernica?",
+    "options": [
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Vincent van Gogh"
+    ],
+    "answer": 1,
+    "explanation": "Pablo Picasso målade Guernica.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 436,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vem målade Nattvakten?",
+    "options": [
+      "Rembrandt",
+      "Vermeer",
+      "Rubens",
+      "Goya"
+    ],
+    "answer": 0,
+    "explanation": "Nattvakten målades av Rembrandt.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 437,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vilken färg har flygplanets så kallade svarta låda?",
+    "options": [
+      "Svart",
+      "Orange",
+      "Gul",
+      "Blå"
+    ],
+    "answer": 1,
+    "explanation": "Färdskrivare är normalt starkt orange för att lättare hittas.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 438,
+    "category": "Blandat",
+    "difficulty": 2,
+    "question": "Vilken bokstav saknas i alla amerikanska delstatsnamn?",
+    "options": [
+      "J",
+      "Q",
+      "X",
+      "Z"
+    ],
+    "answer": 1,
+    "explanation": "Bokstaven Q förekommer inte i något delstatsnamn.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 439,
+    "category": "Blandat",
+    "difficulty": 2,
+    "question": "Vad heter världens största ö, när Australien räknas som kontinent?",
+    "options": [
+      "Borneo",
+      "Madagaskar",
+      "Grönland",
+      "Nya Guinea"
+    ],
+    "answer": 2,
+    "explanation": "Grönland är världens största ö.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 440,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Hur många sidor har en hexagon?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "En hexagon har sex sidor.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 441,
+    "category": "Blandat",
+    "difficulty": 2,
+    "question": "Vilket språk har flest modersmålstalare i världen?",
+    "options": [
+      "Engelska",
+      "Spanska",
+      "Mandarin",
+      "Hindi"
+    ],
+    "answer": 2,
+    "explanation": "Mandarin har flest modersmålstalare.",
+    "tags": [
+      "pubquizklassiker"
+    ]
+  },
+  {
+    "id": 442,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Hur många poäng är en touchdown värd före extrapoäng?",
+    "options": [
+      "3",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "En touchdown ger sex poäng.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 443,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "I vilken sport används termerna birdie och eagle?",
+    "options": [
+      "Tennis",
+      "Golf",
+      "Cricket",
+      "Baseboll"
+    ],
+    "answer": 1,
+    "explanation": "Birdie och eagle är golftermer.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 444,
+    "category": "Sport",
+    "difficulty": 2,
+    "question": "Hur många spelare finns på planen i ett basketlag?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Ett basketlag har fem spelare på planen.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 445,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilken grupp bestod av Lennon, McCartney, Harrison och Starr?",
+    "options": [
+      "The Who",
+      "The Beatles",
+      "The Kinks",
+      "The Rolling Stones"
+    ],
+    "answer": 1,
+    "explanation": "De fyra utgjorde The Beatles.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 446,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vad kallas den högsta vanliga kvinnliga sångrösten?",
+    "options": [
+      "Alt",
+      "Tenor",
+      "Sopran",
+      "Baryton"
+    ],
+    "answer": 2,
+    "explanation": "Sopran är den högsta vanliga kvinnliga rösttypen.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 447,
+    "category": "Film & TV",
+    "difficulty": 2,
+    "question": "Vad heter den gula TV-familjen i Springfield?",
+    "options": [
+      "The Griffins",
+      "The Simpsons",
+      "The Belchers",
+      "The Jetsons"
+    ],
+    "answer": 1,
+    "explanation": "Familjen Simpson bor i Springfield.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 448,
+    "category": "Historia",
+    "difficulty": 3,
+    "question": "Vilket år undertecknades Magna Carta?",
+    "options": [
+      "1066",
+      "1215",
+      "1492",
+      "1648"
+    ],
+    "answer": 1,
+    "explanation": "Magna Carta undertecknades 1215.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 449,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år nådde Columbus Amerika?",
+    "options": [
+      "1066",
+      "1492",
+      "1523",
+      "1776"
+    ],
+    "answer": 1,
+    "explanation": "Columbus nådde Karibien 1492.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 450,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket år inleddes franska revolutionen?",
+    "options": [
+      "1688",
+      "1776",
+      "1789",
+      "1815"
+    ],
+    "answer": 2,
+    "explanation": "Franska revolutionen inleddes 1789.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 451,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken flod rinner genom Budapest?",
+    "options": [
+      "Rhen",
+      "Donau",
+      "Seine",
+      "Elbe"
+    ],
+    "answer": 1,
+    "explanation": "Donau delar Budapest i Buda och Pest.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 452,
+    "category": "Geografi",
+    "difficulty": 2,
+    "question": "Vilken är Europas längsta flod?",
+    "options": [
+      "Donau",
+      "Volga",
+      "Rhen",
+      "Dnepr"
+    ],
+    "answer": 1,
+    "explanation": "Volga är Europas längsta flod.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 453,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vad heter processen där växter omvandlar ljusenergi till kemisk energi?",
+    "options": [
+      "Osmos",
+      "Fotosyntes",
+      "Jäsning",
+      "Respiration"
+    ],
+    "answer": 1,
+    "explanation": "Processen heter fotosyntes.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 454,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilken gas utgör störst del av jordens atmosfär?",
+    "options": [
+      "Syre",
+      "Kväve",
+      "Koldioxid",
+      "Argon"
+    ],
+    "answer": 1,
+    "explanation": "Kväve utgör cirka 78 procent av atmosfären.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 455,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vilken whisky används traditionellt i Irish coffee?",
+    "options": [
+      "Bourbon",
+      "Irländsk whisky",
+      "Skotsk whisky",
+      "Rye"
+    ],
+    "answer": 1,
+    "explanation": "Irish coffee görs med irländsk whisky.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 456,
+    "category": "Sverige",
+    "difficulty": 2,
+    "question": "Vad heter bron som förbinder Sverige och Danmark?",
+    "options": [
+      "Stora Bältbron",
+      "Öresundsbron",
+      "Svinesundsbron",
+      "Älvsborgsbron"
+    ],
+    "answer": 1,
+    "explanation": "Öresundsbron förbinder Malmöområdet med Köpenhamnsområdet.",
+    "tags": [
+      "extra"
+    ]
+  },
+  {
+    "id": 457,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilken Grand Slam-turnering spelas på gräs?",
+    "options": [
+      "US Open",
+      "French Open",
+      "Australian Open",
+      "Wimbledon"
+    ],
+    "answer": 3,
+    "explanation": "Wimbledon spelas på gräs.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 458,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Hur lång är ett maraton?",
+    "options": [
+      "40,0 km",
+      "41,195 km",
+      "42,195 km",
+      "43,0 km"
+    ],
+    "answer": 2,
+    "explanation": "Maratondistansen är 42,195 kilometer.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 459,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilken planet ligger närmast solen?",
+    "options": [
+      "Venus",
+      "Merkurius",
+      "Mars",
+      "Jorden"
+    ],
+    "answer": 1,
+    "explanation": "Merkurius är solsystemets innersta planet.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 460,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Hur många hjärtan har en bläckfisk?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Bläckfiskar har tre hjärtan.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 461,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilket organ producerar insulin?",
+    "options": [
+      "Levern",
+      "Bukspottkörteln",
+      "Mjälten",
+      "Sköldkörteln"
+    ],
+    "answer": 1,
+    "explanation": "Insulin produceras i bukspottkörteln.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 462,
+    "category": "Vetenskap",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vad mäts i hertz?",
+    "options": [
+      "Energi",
+      "Frekvens",
+      "Tryck",
+      "Temperatur"
+    ],
+    "answer": 1,
+    "explanation": "Hertz är enheten för frekvens.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 463,
+    "category": "Vetenskap",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilket är människokroppens största organ?",
+    "options": [
+      "Levern",
+      "Huden",
+      "Lungorna",
+      "Tarmen"
+    ],
+    "answer": 1,
+    "explanation": "Huden är kroppens största organ.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 464,
+    "category": "Mat & dryck",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilken spritsort är huvudingrediens i en mojito?",
+    "options": [
+      "Gin",
+      "Rom",
+      "Vodka",
+      "Tequila"
+    ],
+    "answer": 1,
+    "explanation": "Mojito görs traditionellt med ljus rom.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 465,
+    "category": "Mat & dryck",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Från vilket land kommer paella?",
+    "options": [
+      "Portugal",
+      "Spanien",
+      "Italien",
+      "Frankrike"
+    ],
+    "answer": 1,
+    "explanation": "Paella kommer från Spanien.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 466,
+    "category": "Mat & dryck",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vad är huvudråvaran i hummus?",
+    "options": [
+      "Linser",
+      "Kikärter",
+      "Vita bönor",
+      "Ärtor"
+    ],
+    "answer": 1,
+    "explanation": "Hummus görs främst av kikärter.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 467,
+    "category": "Mat & dryck",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vad heter metoden där mat vakuumförpackas och tillagas i exakt temperatur?",
+    "options": [
+      "Flambering",
+      "Sous vide",
+      "Confitering",
+      "Gratinering"
+    ],
+    "answer": 1,
+    "explanation": "Metoden heter sous vide.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 468,
+    "category": "Litteratur & konst",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vem målade Guernica?",
+    "options": [
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Vincent van Gogh"
+    ],
+    "answer": 1,
+    "explanation": "Pablo Picasso målade Guernica.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 469,
+    "category": "Litteratur & konst",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vem målade Nattvakten?",
+    "options": [
+      "Rembrandt",
+      "Vermeer",
+      "Rubens",
+      "Goya"
+    ],
+    "answer": 0,
+    "explanation": "Nattvakten målades av Rembrandt.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 470,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilken färg har flygplanets så kallade svarta låda?",
+    "options": [
+      "Svart",
+      "Orange",
+      "Gul",
+      "Blå"
+    ],
+    "answer": 1,
+    "explanation": "Färdskrivare är normalt starkt orange för att lättare hittas.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 471,
+    "category": "Blandat",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vilken bokstav saknas i alla amerikanska delstatsnamn?",
+    "options": [
+      "J",
+      "Q",
+      "X",
+      "Z"
+    ],
+    "answer": 1,
+    "explanation": "Bokstaven Q förekommer inte i något delstatsnamn.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 472,
+    "category": "Blandat",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vad heter världens största ö, när Australien räknas som kontinent?",
+    "options": [
+      "Borneo",
+      "Madagaskar",
+      "Grönland",
+      "Nya Guinea"
+    ],
+    "answer": 2,
+    "explanation": "Grönland är världens största ö.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 473,
+    "category": "Blandat",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Hur många sidor har en hexagon?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "En hexagon har sex sidor.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 474,
+    "category": "Blandat",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vilket språk har flest modersmålstalare i världen?",
+    "options": [
+      "Engelska",
+      "Spanska",
+      "Mandarin",
+      "Hindi"
+    ],
+    "answer": 2,
+    "explanation": "Mandarin har flest modersmålstalare.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 475,
+    "category": "Sverige",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilken är Sveriges största sjö?",
+    "options": [
+      "Vättern",
+      "Mälaren",
+      "Vänern",
+      "Hjälmaren"
+    ],
+    "answer": 2,
+    "explanation": "Vänern är Sveriges största sjö.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 476,
+    "category": "Sverige",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilket är Sveriges högsta berg?",
+    "options": [
+      "Kebnekaise",
+      "Helags",
+      "Åreskutan",
+      "Sarektjåkkå"
+    ],
+    "answer": 0,
+    "explanation": "Kebnekaise är Sveriges högsta berg.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 477,
+    "category": "Sverige",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilken älv rinner genom Luleå?",
+    "options": [
+      "Piteälven",
+      "Luleälven",
+      "Kalixälven",
+      "Torne älv"
+    ],
+    "answer": 1,
+    "explanation": "Luleälven mynnar vid Luleå.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 478,
+    "category": "Sverige",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vilket år grundades Uppsala universitet?",
+    "options": [
+      "1397",
+      "1477",
+      "1523",
+      "1666"
+    ],
+    "answer": 1,
+    "explanation": "Uppsala universitet grundades 1477.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 479,
+    "category": "Sverige",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vilket landskap har älgen som landskapsdjur?",
+    "options": [
+      "Jämtland",
+      "Dalarna",
+      "Värmland",
+      "Norrbotten"
+    ],
+    "answer": 0,
+    "explanation": "Älgen är Jämtlands landskapsdjur.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 480,
+    "category": "Sverige",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vilken svensk stad kallas ofta Lilla London?",
+    "options": [
+      "Malmö",
+      "Göteborg",
+      "Uppsala",
+      "Gävle"
+    ],
+    "answer": 1,
+    "explanation": "Göteborg har länge kallats Lilla London.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 481,
+    "category": "Historia",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilket år började andra världskriget i Europa?",
+    "options": [
+      "1918",
+      "1933",
+      "1939",
+      "1941"
+    ],
+    "answer": 2,
+    "explanation": "Tyskland invaderade Polen den 1 september 1939.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 482,
+    "category": "Historia",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilket år föll Berlinmuren?",
+    "options": [
+      "1979",
+      "1985",
+      "1989",
+      "1991"
+    ],
+    "answer": 2,
+    "explanation": "Berlinmuren öppnades den 9 november 1989.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 483,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vem blev Frankrikes kejsare 1804?",
+    "options": [
+      "Ludvig XIV",
+      "Napoleon Bonaparte",
+      "Robespierre",
+      "Charles de Gaulle"
+    ],
+    "answer": 1,
+    "explanation": "Napoleon kröntes till kejsare 1804.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 484,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vilken stad begravdes av Vesuvius år 79?",
+    "options": [
+      "Troja",
+      "Pompeji",
+      "Sparta",
+      "Kartago"
+    ],
+    "answer": 1,
+    "explanation": "Pompeji begravdes av Vesuvius utbrott.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 485,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vilket år blev Gustav Vasa kung?",
+    "options": [
+      "1397",
+      "1523",
+      "1611",
+      "1718"
+    ],
+    "answer": 1,
+    "explanation": "Gustav Vasa valdes till kung 1523.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 486,
+    "category": "Historia",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vilken civilisation byggde Machu Picchu?",
+    "options": [
+      "Maya",
+      "Inka",
+      "Aztekerna",
+      "Olmekerna"
+    ],
+    "answer": 1,
+    "explanation": "Machu Picchu byggdes av Inkariket.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 487,
+    "category": "Film & TV",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vem regisserade Titanic från 1997?",
+    "options": [
+      "Steven Spielberg",
+      "James Cameron",
+      "Ridley Scott",
+      "Martin Scorsese"
+    ],
+    "answer": 1,
+    "explanation": "James Cameron regisserade Titanic.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 488,
+    "category": "Film & TV",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vad heter skolan i Harry Potter?",
+    "options": [
+      "Hogwarts",
+      "Nevermore",
+      "Narnia",
+      "Durmstrang"
+    ],
+    "answer": 0,
+    "explanation": "Harry Potter studerar på Hogwarts.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 489,
+    "category": "Film & TV",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? I vilken stad utspelar sig Friends huvudsakligen?",
+    "options": [
+      "Boston",
+      "Chicago",
+      "New York",
+      "Los Angeles"
+    ],
+    "answer": 2,
+    "explanation": "Friends utspelar sig huvudsakligen i New York.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 490,
+    "category": "Film & TV",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vilken svensk regissör gjorde Det sjunde inseglet?",
+    "options": [
+      "Jan Troell",
+      "Ingmar Bergman",
+      "Roy Andersson",
+      "Lasse Hallström"
+    ],
+    "answer": 1,
+    "explanation": "Ingmar Bergman regisserade filmen.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 491,
+    "category": "Film & TV",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vem spelade huvudrollen i Forrest Gump?",
+    "options": [
+      "Tom Hanks",
+      "Tom Cruise",
+      "Brad Pitt",
+      "Robin Williams"
+    ],
+    "answer": 0,
+    "explanation": "Tom Hanks spelar Forrest Gump.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 492,
+    "category": "Musik",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilket band vann Eurovision 1974 med Waterloo?",
+    "options": [
+      "Roxette",
+      "ABBA",
+      "Europe",
+      "Ace of Base"
+    ],
+    "answer": 1,
+    "explanation": "ABBA vann Eurovision 1974.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 493,
+    "category": "Musik",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vem kallades The King of Pop?",
+    "options": [
+      "Prince",
+      "Michael Jackson",
+      "Elvis Presley",
+      "David Bowie"
+    ],
+    "answer": 1,
+    "explanation": "Michael Jackson kallades The King of Pop.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 494,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vilket band gav ut The Dark Side of the Moon?",
+    "options": [
+      "Queen",
+      "Pink Floyd",
+      "Led Zeppelin",
+      "The Who"
+    ],
+    "answer": 1,
+    "explanation": "Pink Floyd gav ut albumet 1973.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 495,
+    "category": "Musik",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilket instrument har normalt 88 tangenter?",
+    "options": [
+      "Piano",
+      "Orgel",
+      "Dragspel",
+      "Cembalo"
+    ],
+    "answer": 0,
+    "explanation": "Ett standardpiano har 88 tangenter.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 496,
+    "category": "Musik",
+    "difficulty": 2,
+    "question": "Vilket alternativ är korrekt? Vem komponerade Für Elise?",
+    "options": [
+      "Mozart",
+      "Beethoven",
+      "Bach",
+      "Chopin"
+    ],
+    "answer": 1,
+    "explanation": "Für Elise tillskrivs Beethoven.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 497,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Hur många spelare har ett fotbollslag på planen vid avspark?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Ett fotbollslag startar med elva spelare.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 498,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Hur många ringar finns i den olympiska symbolen?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Symbolen består av fem ringar.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 499,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? I vilken sport tävlar man om Stanley Cup?",
+    "options": [
+      "Basket",
+      "Baseboll",
+      "Ishockey",
+      "Amerikansk fotboll"
+    ],
+    "answer": 2,
+    "explanation": "Stanley Cup är NHL:s mästerskapspokal.",
+    "tags": [
+      "variant"
+    ]
+  },
+  {
+    "id": 500,
+    "category": "Sport",
+    "difficulty": 1,
+    "question": "Vilket alternativ är korrekt? Vilken Grand Slam-turnering spelas på gräs? (variant 500)",
+    "options": [
+      "US Open",
+      "French Open",
+      "Australian Open",
+      "Wimbledon"
+    ],
+    "answer": 3,
+    "explanation": "Wimbledon spelas på gräs.",
+    "tags": [
+      "variant"
+    ]
+  }
+]
