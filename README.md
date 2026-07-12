@@ -1,22 +1,19 @@
-# Pubquiz Academy 0.4
+# Pubquiz Academy 0.5 · Design Edition
 
-## The Polished Pint
-
-Version 0.4 ger appen en fullständig visuell omarbetning:
-
-- Ny brittisk pubinspirerad startsida
-- Tydligare spellägen och statistik
-- Ny frågevy med svarsalternativ A–D
-- Snyggare resultatvy och kategorisammanställning
-- Förbättrad mobilanpassning
-- Alla 1 000 frågor och funktioner från version 0.3 finns kvar
+## Nytt
+- Total redesign med mindre visuellt brus
+- Renare startsida med fyra tydliga spellägen
+- Ny frågevy med bättre läsbarhet
+- Flow-läge: nästa fråga kommer automatiskt efter 1,5 sekunder
+- Diskret vibration vid rätt och fel på kompatibla mobiler
+- Resultat visas i procent
+- Samma 1 000 frågor och smarta statistik som tidigare
 
 ## Uppdatera med GitHub Desktop
-
 1. Packa upp ZIP-filen.
-2. Kopiera samtliga filer till din lokala mapp `pubquiz-academy`.
-3. Välj **Ersätt**.
+2. Kopiera alla filer till din lokala mapp `pubquiz-academy`.
+3. Välj Ersätt.
 4. Öppna GitHub Desktop.
-5. Skriv `Version 0.4 - ny design`.
-6. Klicka **Commit to main**.
-7. Klicka **Push origin**.
+5. Skriv `Version 0.5 - Design Edition`.
+6. Klicka `Commit to main`.
+7. Klicka `Push origin`.
