@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     categoryBreakdown:$('categoryBreakdown'),again:$('again'),homeBtn:$('homeBtn'),
     insight:$('insight'),coachTitle:$('coachTitle'),coachText:$('coachText'),
     roundBanner:$('roundBanner'),roundLabel:$('roundLabel'),roundTitle:$('roundTitle'),
-    intelligenceReport:$('intelligenceReport'),subcategoryPill:$('subcategoryPill'),visualPrompt:$('visualPrompt'),
+    intelligenceReport:$('intelligenceReport'),subcategoryPill:$('subcategoryPill'),visualPrompt:$('visualPrompt'),openStats:$('openStats'),exportProgress:$('exportProgress'),importProgress:$('importProgress'),statsDialog:$('statsDialog'),closeStats:$('closeStats'),statsContent:$('statsContent'),
     activeQuestions:$('activeQuestions'),subcategoryCount:$('subcategoryCount'),qualityScore:$('qualityScore')
   };
 
@@ -28,13 +28,13 @@ document.addEventListener('DOMContentLoaded', async () => {
   QUESTIONS=QUESTIONS.filter(q=>q.status==='active');
 
   let stats;
-  try{stats=JSON.parse(localStorage.getItem('pqa_v9_stats'))||JSON.parse(localStorage.getItem('pqa_v8_stats'))}catch(e){}
-  stats=stats||{answered:0,correct:0,bestStreak:0,wrong:{},byCategory:{},bySubcategory:{},questionHistory:{},sessions:0};
-  stats.bySubcategory=stats.bySubcategory||{};
+  try{stats=JSON.parse(localStorage.getItem('pqa_v10_stats'))||JSON.parse(localStorage.getItem('pqa_v9_stats'))}catch(e){}
+  stats=stats||{answered:0,correct:0,bestStreak:0,wrong:{},byCategory:{},bySubcategory:{},questionHistory:{},sessions:0,sessionHistory:[],lastVersion:'1.0'};
+  stats.bySubcategory=stats.bySubcategory||{};stats.sessionHistory=stats.sessionHistory||[];stats.lastVersion='1.0';
   stats.questionHistory=stats.questionHistory||{};
   stats.wrong=stats.wrong||{};
 
-  let round=[],index=0,points=0,streak=0,answeredCurrent=false,lastMode='engine';
+  let round=[],index=0,points=0,streak=0,answeredCurrent=false,lastMode='engine',sessionStartedAt=0;
   let categoryScores={},subScores={},advanceId=null,finishedCount=0;
 
   [...new Set(QUESTIONS.map(q=>q.category))].sort().forEach(c=>{
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   el.subcategoryCount.textContent=Object.keys(REPORT.subcategories).length;
   el.qualityScore.textContent=REPORT.averageQualityScore+'/100';
 
-  function save(){localStorage.setItem('pqa_v9_stats',JSON.stringify(stats));renderStats()}
+  function save(){localStorage.setItem('pqa_v10_stats',JSON.stringify(stats));renderStats()}
   function level(){return stats.correct>=800?'Quizorakel':stats.correct>=500?'Allvetare':stats.correct>=250?'Quizräv':stats.correct>=80?'Pubtalang':'Pubnovis'}
   function profile(source){
     return Object.entries(source).filter(([,v])=>v.a>=4).map(([name,v])=>({name,percent:Math.round(v.c/v.a*100),a:v.a})).sort((a,b)=>a.percent-b.percent)
@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 
   function start(mode){
-    clearTimeout(advanceId);lastMode=mode;round=build(mode);index=0;points=0;streak=0;finishedCount=0;
+    clearTimeout(advanceId);lastMode=mode;sessionStartedAt=Date.now();round=build(mode);index=0;points=0;streak=0;finishedCount=0;
     categoryScores={};subScores={};stats.sessions=(stats.sessions||0)+1;show(el.quiz);showQuestion()
   }
   function showQuestion(){
@@ -177,6 +177,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     clearTimeout(advanceId);show(el.result);const pct=Math.round(points/Math.max(finishedCount,1)*100);el.score.textContent=pct+'%';
     el.resultTitle.textContent=pct>=90?'Mycket stark motorträff':pct>=75?'Vass quizform':pct>=55?'Bra träningspass':'Motorn har hittat luckorna';
     el.resultText.textContent='Nästa pass viktas om efter resultatet och frågornas repetitionsintervall.';
+    stats.sessionHistory.push({date:new Date().toISOString(),mode:lastMode,score:pct,correct:points,total:finishedCount,durationSec:Math.round((Date.now()-sessionStartedAt)/1000)});
+    if(stats.sessionHistory.length>50)stats.sessionHistory=stats.sessionHistory.slice(-50);
     const subs=Object.entries(subScores).map(([name,v])=>({name,p:Math.round(v.c/v.a*100)})).sort((a,b)=>a.p-b.p);
     el.intelligenceReport.innerHTML='';
     [['Svagaste delkategori',subs[0]?subs[0].name+' · '+subs[0].p+'%':'För få svar'],['Starkaste delkategori',subs.length?subs[subs.length-1].name+' · '+subs[subs.length-1].p+'%':'För få svar'],['Frågor i passet',finishedCount]].forEach(([l,v])=>{
@@ -185,7 +187,69 @@ document.addEventListener('DOMContentLoaded', async () => {
     el.categoryBreakdown.innerHTML='';Object.entries(categoryScores).forEach(([c,v])=>{const d=document.createElement('div');d.innerHTML='<span>'+c+'</span><strong>'+v.c+'/'+v.a+'</strong>';el.categoryBreakdown.appendChild(d)});save()
   }
 
-  document.querySelectorAll('[data-mode]').forEach(b=>b.onclick=()=>start(b.dataset.mode));
+  
+  function masteredCount(){
+    return Object.values(stats.questionHistory).filter(h=>(h.correct||0)>=3&&(h.wrong||0)===0&&(h.interval||0)>=4).length;
+  }
+
+  function exportBackup(){
+    const payload={
+      app:'Pubquiz Academy',
+      version:'1.0',
+      exportedAt:new Date().toISOString(),
+      stats:stats,
+      factory:localStorage.getItem('pqa_factory_questions')?JSON.parse(localStorage.getItem('pqa_factory_questions')):null
+    };
+    const a=document.createElement('a');
+    a.href=URL.createObjectURL(new Blob([JSON.stringify(payload,null,2)],{type:'application/json'}));
+    a.download='pubquiz-academy-backup.json';
+    a.click();
+    URL.revokeObjectURL(a.href);
+  }
+
+  async function importBackup(file){
+    try{
+      const payload=JSON.parse(await file.text());
+      if(!payload||!payload.stats)throw new Error();
+      stats=payload.stats;
+      stats.bySubcategory=stats.bySubcategory||{};
+      stats.questionHistory=stats.questionHistory||{};
+      stats.sessionHistory=stats.sessionHistory||[];
+      localStorage.setItem('pqa_v10_stats',JSON.stringify(stats));
+      if(payload.factory)localStorage.setItem('pqa_factory_questions',JSON.stringify(payload.factory));
+      renderStats();
+      alert('Backupen har importerats.');
+    }catch(e){
+      alert('Filen kunde inte importeras.');
+    }
+  }
+
+  function renderDetailedStats(){
+    const history=[...(stats.sessionHistory||[])].slice(-5).reverse();
+    const categoryRows=Object.entries(stats.byCategory||{})
+      .filter(([,v])=>v.a>=3)
+      .map(([name,v])=>({name,percent:Math.round(v.c/v.a*100)}))
+      .sort((a,b)=>b.percent-a.percent)
+      .slice(0,8);
+
+    el.statsContent.innerHTML=
+      '<div class="stats-grid">'+
+      '<div><strong>'+stats.answered+'</strong><span>besvarade totalt</span></div>'+
+      '<div><strong>'+Math.round(stats.correct/Math.max(1,stats.answered)*100)+'%</strong><span>total träffsäkerhet</span></div>'+
+      '<div><strong>'+masteredCount()+'</strong><span>bemästrade frågor</span></div>'+
+      '</div>'+
+      '<h3>Kategorier</h3><div class="chart">'+
+      (categoryRows.length?categoryRows.map(r=>'<div class="chart-row"><span>'+r.name+'</span><div class="bar-track"><div class="bar-fill" style="width:'+r.percent+'%"></div></div><strong>'+r.percent+'%</strong></div>').join(''):'<p>För få svar ännu.</p>')+
+      '</div><h3>Senaste rundorna</h3><div class="history-list">'+
+      (history.length?history.map(h=>'<div class="history-row"><span>'+new Date(h.date).toLocaleDateString('sv-SE')+' · '+h.mode+'</span><strong>'+h.score+'%</strong></div>').join(''):'<p>Inga avslutade rundor ännu.</p>')+
+      '</div>';
+  }
+
+document.querySelectorAll('[data-mode]').forEach(b=>b.onclick=()=>start(b.dataset.mode));
   el.quit.onclick=()=>{clearTimeout(advanceId);show(el.home)};el.homeBtn.onclick=()=>show(el.home);el.again.onclick=()=>start(lastMode);
+  el.openStats.onclick=()=>{renderDetailedStats();el.statsDialog.showModal()};
+  el.closeStats.onclick=()=>el.statsDialog.close();
+  el.exportProgress.onclick=exportBackup;
+  el.importProgress.onchange=e=>{if(e.target.files[0])importBackup(e.target.files[0])};
   renderStats();if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{})
 });

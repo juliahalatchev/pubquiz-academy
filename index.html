@@ -12,19 +12,19 @@
 <main class="app-shell">
   <header class="app-header">
     <div class="logo">QA</div>
-    <div><strong>Pubquiz Academy</strong><span>Visual Quiz · 0.9</span></div>
+    <div><strong>Pubquiz Academy</strong><span>Release Candidate · 1.0</span></div>
   </header>
 
   <section id="home" class="screen">
     <div class="hero compact-hero">
-      <span class="eyebrow">VISUELLA RUNDOR</span>
-      <h1>Se ledtråden.<br>Hitta svaret.</h1>
-      <p>Flaggor, symboler, färger och visuella ledtrådar blandas nu in i quizet, utan att förlora Question Engine eller Question Factory.</p>
+      <span class="eyebrow">RELEASE CANDIDATE</span>
+      <h1>Träna. Följ utvecklingen.<br>Behåll dina framsteg.</h1>
+      <p>Version 1.0 samlar smart träning, visuella frågor, statistik, backup och stabilare installation i en färdig helhet.</p>
     </div>
 
     <button data-mode="engine" class="primary-card intelligence-card">
       <div class="icon-circle">QE</div>
-      <div><strong>Question Engine</strong><span>20 frågor · adaptiv mix · visuella frågor</span></div>
+      <div><strong>Question Engine</strong><span>20 frågor · adaptiv mix · full statistik</span></div>
       <span class="arrow">→</span>
     </button>
 
@@ -66,7 +66,13 @@
       <div class="field"><label for="difficulty">Svårighetsgrad</label><select id="difficulty"><option value="Alla">Adaptiv</option><option value="1">Lätt</option><option value="2">Medel</option><option value="3">Svår</option></select></div>
     </section>
 
-    <a class="admin-link" href="admin.html"><span><strong>Öppna Question Factory</strong><small>Sök, redigera, importera och exportera frågebanken</small></span><span>→</span></a><section id="insight" class="insight-card"></section>
+    <section class="release-grid">
+  <button id="openStats" class="release-card"><span>📈</span><strong>Utveckling</strong><small>Senaste rundor och bemästrade frågor</small></button>
+  <button id="exportProgress" class="release-card"><span>⬇</span><strong>Exportera backup</strong><small>Spara statistik och framsteg</small></button>
+  <label class="release-card import-card"><span>⬆</span><strong>Importera backup</strong><small>Återställ dina framsteg</small><input id="importProgress" type="file" accept=".json"></label>
+  <a href="help.html" class="release-card"><span>?</span><strong>Hjälp & integritet</strong><small>Så fungerar appen</small></a>
+</section>
+<a class="admin-link" href="admin.html"><span><strong>Öppna Question Factory</strong><small>Sök, redigera, importera och exportera frågebanken</small></span><span>→</span></a><section id="insight" class="insight-card"></section>
   </section>
 
   <section id="quiz" class="screen hidden">
@@ -97,8 +103,15 @@
     </article>
   </section>
 
-  <footer>Pubquiz Academy · Visual Quiz 0.9</footer>
+  <footer>Pubquiz Academy · Release Candidate 1.0</footer>
 </main>
+<dialog id="statsDialog" class="stats-dialog">
+  <div class="stats-dialog-head">
+    <div><span class="eyebrow">DIN UTVECKLING</span><h2>Statistik</h2></div>
+    <button id="closeStats" class="icon-button">×</button>
+  </div>
+  <div id="statsContent"></div>
+</dialog>
 <script src="app.js"></script>
 </body>
 </html>

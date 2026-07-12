@@ -466,3 +466,20 @@ footer{
 .visual-prompt.color-block{font-size:0}
 .visual-prompt .swatch{width:120px;height:120px;border-radius:28px;box-shadow:0 12px 30px rgba(0,0,0,.12)}
 .option.visual-option{justify-content:center;font-size:38px}
+
+.release-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px}
+.release-card{border:0;text-decoration:none;background:var(--surface);color:var(--text);border-radius:18px;padding:16px;text-align:left;display:grid;grid-template-columns:auto 1fr;column-gap:12px;row-gap:2px;box-shadow:0 8px 24px rgba(22,32,28,.04);cursor:pointer}
+.release-card>span{grid-row:1/3;font-size:24px}.release-card strong,.release-card small{display:block}.release-card small{color:var(--muted);font-size:12px}
+.import-card input{display:none}
+.stats-dialog{border:0;border-radius:24px;width:min(760px,calc(100% - 24px));padding:0;box-shadow:0 30px 100px rgba(0,0,0,.28)}
+.stats-dialog::backdrop{background:rgba(10,28,24,.52)}
+.stats-dialog-head{display:flex;justify-content:space-between;align-items:center;padding:22px 22px 12px}
+.stats-dialog-head h2{margin:0;font-size:30px}
+#statsContent{padding:0 22px 22px}
+.stats-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:16px}
+.stats-grid div{background:var(--surface-soft);border-radius:16px;padding:14px}
+.stats-grid strong,.stats-grid span{display:block}.stats-grid strong{font-size:24px;color:var(--green)}.stats-grid span{font-size:11px;color:var(--muted)}
+.history-list,.mastery-list{display:grid;gap:8px}.history-row,.mastery-row{display:flex;justify-content:space-between;gap:12px;background:var(--surface-soft);padding:12px 14px;border-radius:14px}
+.chart{display:grid;gap:8px;margin:14px 0 20px}.chart-row{display:grid;grid-template-columns:120px 1fr 46px;gap:10px;align-items:center;font-size:12px}.bar-track{height:10px;background:#dde6e1;border-radius:999px;overflow:hidden}.bar-fill{height:100%;background:var(--green)}
+.update-banner{background:#fff6db;border:1px solid #f0d38a;color:#5a4616;padding:12px 14px;border-radius:14px;margin-bottom:14px;font-size:13px;line-height:1.4}
+@media(max-width:640px){.release-grid{grid-template-columns:1fr}.stats-grid{grid-template-columns:1fr 1fr}.chart-row{grid-template-columns:92px 1fr 42px}}

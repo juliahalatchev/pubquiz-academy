@@ -1,14 +1,18 @@
-# Pubquiz Academy 0.9 · Visual Quiz
+# Pubquiz Academy 1.0 · Release Candidate
 
 ## Nytt
-- 196 visuella frågor
-- Flaggquiz
-- Symbolquiz
-- Färg- och formfrågor
-- Emoji-ledtrådar
-- Nytt Visual Quiz-läge
-- Question Factory kan nu redigera visuella fält
-- Samma Question Engine, Bishops Intelligence och rena design
+- Export och import av statistikbackup
+- Detaljerad statistik över kategorier och senaste rundor
+- Bemästrade frågor
+- Hjälp- och integritetssida
+- Appikon och förbättrad PWA-installation
+- Changelog
+- Stabilare cache och versionsmigrering
+- Alla tidigare funktioner finns kvar
 
 ## Uppdatera
-Kopiera alla filer till `pubquiz-academy`, välj Ersätt, commit `Version 0.9 - Visual Quiz` och Push origin.
+1. Packa upp ZIP-filen.
+2. Kopiera alla filer till `pubquiz-academy`.
+3. Välj Ersätt.
+4. Commit: `Version 1.0 - Release Candidate`.
+5. Push origin.
