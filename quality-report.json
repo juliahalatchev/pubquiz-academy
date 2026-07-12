@@ -1,6 +1,6 @@
 {
-  "questionCount": 2000,
-  "activeCount": 2000,
+  "questionCount": 2196,
+  "activeCount": 2196,
   "reviewCount": 0,
   "averageQualityScore": 97.5,
   "duplicateGroups": 12,
@@ -18,11 +18,17 @@
     "Vetenskap": 442
   },
   "subcategories": {
+    "Albumomslag": 1,
     "Allmänbildning": 42,
     "Anatomi": 112,
+    "Artister": 1,
     "Film & TV": 16,
     "Film & TV – övrigt": 20,
+    "Filmer": 3,
+    "Flaggor": 142,
+    "Former": 12,
     "Fysisk geografi": 52,
+    "Färger": 12,
     "Geografi – övrigt": 8,
     "Historia – övrigt": 8,
     "Historiska personer": 10,
@@ -31,7 +37,8 @@
     "Konst": 102,
     "Krig & epoker": 10,
     "Kultur – övrigt": 50,
-    "Litteratur": 152,
+    "Litteratur": 153,
+    "Länder": 1,
     "Länder & landmärken": 162,
     "Mat & dryck": 32,
     "Mat & dryck – övrigt": 14,
@@ -41,8 +48,11 @@
     "Rymden": 22,
     "Sport": 42,
     "Sport – övrigt": 16,
+    "Sporter": 1,
     "Språk": 66,
+    "Städer": 2,
     "Sverige": 14,
+    "Symboler": 20,
     "Valutor": 206,
     "Vetenskap – övrigt": 144,
     "Årtal": 44
@@ -52,5 +62,6 @@
     "2": 744,
     "3": 1120
   },
-  "schemaVersion": 3
+  "schemaVersion": 4,
+  "visualQuestionCount": 196
 }

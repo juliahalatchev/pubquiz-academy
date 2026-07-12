@@ -15,6 +15,6 @@
 <label>Fråga<textarea id="qquestion" required></textarea></label>
 <div class="options-editor"><label>A<input id="o0" required></label><label>B<input id="o1" required></label><label>C<input id="o2" required></label><label>D<input id="o3" required></label></div>
 <label>Rätt svar<select id="qanswer"><option value="0">A</option><option value="1">B</option><option value="2">C</option><option value="3">D</option></select></label>
-<label>Förklaring<textarea id="qexplanation" required></textarea></label><label>Taggar, kommaseparerade<input id="qtags"></label>
+<label>Förklaring<textarea id="qexplanation" required></textarea></label><div class="two"><label>Visuell typ<select id="qvisualtype"><option value="">Ingen</option><option value="emoji">Emoji</option><option value="symbol">Symbol</option><option value="color">Färgkod</option><option value="text-options">Visuella svar</option></select></label><label>Visuellt värde<input id="qvisualvalue" placeholder="🇸🇪 eller #ff0000"></label></div><label>Taggar, kommaseparerade<input id="qtags"></label>
 <div class="dialog-actions"><button value="cancel">Avbryt</button><button id="saveQuestion" value="default" class="primary">Spara</button></div></form></dialog>
 <script src="admin.js"></script></body></html>

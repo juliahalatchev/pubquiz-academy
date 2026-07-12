@@ -12,19 +12,19 @@
 <main class="app-shell">
   <header class="app-header">
     <div class="logo">QA</div>
-    <div><strong>Pubquiz Academy</strong><span>Question Factory · 0.8</span></div>
+    <div><strong>Pubquiz Academy</strong><span>Visual Quiz · 0.9</span></div>
   </header>
 
   <section id="home" class="screen">
     <div class="hero compact-hero">
-      <span class="eyebrow">FRÅGEBANK + REDAKTÖR</span>
-      <h1>Dubbelt så mycket<br>att bli bra på.</h1>
-      <p>2 000 strukturerade frågeposter och ett separat verktyg för att söka, redigera, validera och exportera frågebanken.</p>
+      <span class="eyebrow">VISUELLA RUNDOR</span>
+      <h1>Se ledtråden.<br>Hitta svaret.</h1>
+      <p>Flaggor, symboler, färger och visuella ledtrådar blandas nu in i quizet, utan att förlora Question Engine eller Question Factory.</p>
     </div>
 
     <button data-mode="engine" class="primary-card intelligence-card">
       <div class="icon-circle">QE</div>
-      <div><strong>Question Engine</strong><span>20 frågor · adaptiv mix · 2 000 frågeposter</span></div>
+      <div><strong>Question Engine</strong><span>20 frågor · adaptiv mix · visuella frågor</span></div>
       <span class="arrow">→</span>
     </button>
 
@@ -56,7 +56,7 @@
         <button data-mode="intelligence" class="mode-row"><span class="mode-icon">30</span><span><strong>Bishops Intelligence</strong><small>Tre pubquizrundor</small></span><span>›</span></button>
         <button data-mode="lastminute" class="mode-row"><span class="mode-icon">5</span><span><strong>Sista minuten</strong><small>Högvärdiga frågor före puben</small></span><span>›</span></button>
         <button data-mode="classics" class="mode-row"><span class="mode-icon">★</span><span><strong>Pubklassiker</strong><small>Vanliga frågetyper</small></span><span>›</span></button>
-        <button data-mode="subcategory" class="mode-row"><span class="mode-icon">§</span><span><strong>Delkategori-pass</strong><small>Motorn väljer ett tydligt fokus</small></span><span>›</span></button>
+        <button data-mode="visual" class="mode-row"><span class="mode-icon">◉</span><span><strong>Visual Quiz</strong><small>Flaggor, symboler och visuella ledtrådar</small></span><span>›</span></button><button data-mode="subcategory" class="mode-row"><span class="mode-icon">§</span><span><strong>Delkategori-pass</strong><small>Motorn väljer ett tydligt fokus</small></span><span>›</span></button>
         <button data-mode="weak" class="mode-row"><span class="mode-icon">↻</span><span><strong>Repetera felsvar</strong><small>Laga konkreta luckor</small></span><span>›</span></button>
       </div>
     </section>
@@ -78,7 +78,7 @@
     <div id="roundBanner" class="round-banner hidden"><span id="roundLabel"></span><strong id="roundTitle"></strong></div>
     <div class="progress"><div id="progressBar"></div></div>
     <article class="question-panel">
-      <div id="subcategoryPill" class="subcategory-pill"></div>
+      <div id="subcategoryPill" class="subcategory-pill"></div><div id="visualPrompt" class="visual-prompt hidden"></div>
       <h2 id="question"></h2>
       <div id="options" class="options"></div>
       <div id="feedback" class="feedback hidden"></div>
@@ -97,7 +97,7 @@
     </article>
   </section>
 
-  <footer>Pubquiz Academy · Question Factory 0.8</footer>
+  <footer>Pubquiz Academy · Visual Quiz 0.9</footer>
 </main>
 <script src="app.js"></script>
 </body>

@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     categoryBreakdown:$('categoryBreakdown'),again:$('again'),homeBtn:$('homeBtn'),
     insight:$('insight'),coachTitle:$('coachTitle'),coachText:$('coachText'),
     roundBanner:$('roundBanner'),roundLabel:$('roundLabel'),roundTitle:$('roundTitle'),
-    intelligenceReport:$('intelligenceReport'),subcategoryPill:$('subcategoryPill'),
+    intelligenceReport:$('intelligenceReport'),subcategoryPill:$('subcategoryPill'),visualPrompt:$('visualPrompt'),
     activeQuestions:$('activeQuestions'),subcategoryCount:$('subcategoryCount'),qualityScore:$('qualityScore')
   };
 
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   QUESTIONS=QUESTIONS.filter(q=>q.status==='active');
 
   let stats;
-  try{stats=JSON.parse(localStorage.getItem('pqa_v8_stats'))||JSON.parse(localStorage.getItem('pqa_v7_stats'))}catch(e){}
+  try{stats=JSON.parse(localStorage.getItem('pqa_v9_stats'))||JSON.parse(localStorage.getItem('pqa_v8_stats'))}catch(e){}
   stats=stats||{answered:0,correct:0,bestStreak:0,wrong:{},byCategory:{},bySubcategory:{},questionHistory:{},sessions:0};
   stats.bySubcategory=stats.bySubcategory||{};
   stats.questionHistory=stats.questionHistory||{};
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   el.subcategoryCount.textContent=Object.keys(REPORT.subcategories).length;
   el.qualityScore.textContent=REPORT.averageQualityScore+'/100';
 
-  function save(){localStorage.setItem('pqa_v8_stats',JSON.stringify(stats));renderStats()}
+  function save(){localStorage.setItem('pqa_v9_stats',JSON.stringify(stats));renderStats()}
   function level(){return stats.correct>=800?'Quizorakel':stats.correct>=500?'Allvetare':stats.correct>=250?'Quizräv':stats.correct>=80?'Pubtalang':'Pubnovis'}
   function profile(source){
     return Object.entries(source).filter(([,v])=>v.a>=4).map(([name,v])=>({name,percent:Math.round(v.c/v.a*100),a:v.a})).sort((a,b)=>a.percent-b.percent)
@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       const w=p.filter(q=>stats.wrong[q.id]||(stats.questionHistory[q.id]||{}).wrong);
       return weighted(w.length>=3?w:p,10);
     }
-    if(mode==='subcategory')return weighted(chooseSubcategory(p),15);
+    if(mode==='visual'){const v=p.filter(q=>q.visual);return weighted(v.length>=15?v:p,15)}if(mode==='subcategory')return weighted(chooseSubcategory(p),15);
     if(mode==='classics')return weighted(p.filter(q=>q.quizType==='klassiker'||q.pubWeight>=2.5),15);
     if(mode==='lastminute')return weighted(p.filter(q=>q.pubWeight>=2.3&&q.difficulty<=2),12);
     if(mode==='smart'){
@@ -130,9 +130,27 @@ document.addEventListener('DOMContentLoaded', async () => {
     answeredCurrent=false;const q=round[index];
     el.qCategory.textContent=q.category+' · '+['','Lätt','Medel','Svår'][q.difficulty];
     el.counter.textContent=(index+1)+' av '+round.length;el.progressBar.style.width=(index/round.length*100)+'%';
-    el.subcategoryPill.textContent=q.subcategory;el.question.textContent=q.question;el.options.innerHTML='';el.feedback.classList.add('hidden');
+    el.subcategoryPill.textContent=q.subcategory;
+    el.visualPrompt.className='visual-prompt hidden';
+    el.visualPrompt.innerHTML='';
+    if(q.visual){
+      el.visualPrompt.classList.remove('hidden');
+      if(q.visual.type==='color'){
+        el.visualPrompt.classList.add('color-block');
+        el.visualPrompt.innerHTML='<div class="swatch" style="background:'+q.visual.value+'"></div>';
+      }else{
+        el.visualPrompt.textContent=q.visual.value;
+      }
+    }
+    el.question.textContent=q.question;el.options.innerHTML='';el.feedback.classList.add('hidden');
     q.options.forEach((text,i)=>{
-      const b=document.createElement('button');b.className='option';b.innerHTML='<span class="answer-letter">'+['A','B','C','D'][i]+'</span><span>'+text+'</span>';
+      const b=document.createElement('button');b.className='option';
+      if(q.visual&&q.visual.type==='text-options'){
+        b.classList.add('visual-option');
+        b.textContent=text;
+      }else{
+        b.innerHTML='<span class="answer-letter">'+['A','B','C','D'][i]+'</span><span>'+text+'</span>';
+      }
       b.onclick=()=>answer(i,b);el.options.appendChild(b)
     });
   }
