@@ -14,22 +14,22 @@
       <div class="logo">QA</div>
       <div>
         <strong>Pubquiz Academy</strong>
-        <span>Design Edition · 0.5</span>
+        <span>Bishops Intelligence · 0.6</span>
       </div>
     </header>
 
     <section id="home" class="screen">
-      <div class="hero">
-        <span class="eyebrow">TRÄNA SMARTARE</span>
-        <h1>Lite varje dag.<br>Livsfarlig på quiz.</h1>
-        <p>1 000 frågor, smart repetition och en renare väg från tvekan till träffsäkerhet.</p>
+      <div class="hero compact-hero">
+        <span class="eyebrow">DIN PUBQUIZCOACH</span>
+        <h1>Träna på det som<br>faktiskt brukar komma.</h1>
+        <p>Appen väger pubklassiker, dina felsvar, svaga kategorier och nyligen sedda frågor för att bygga smartare rundor.</p>
       </div>
 
-      <button data-mode="daily" class="primary-card">
-        <div class="icon-circle">✦</div>
+      <button data-mode="intelligence" class="primary-card intelligence-card">
+        <div class="icon-circle">BI</div>
         <div>
-          <strong>Dagens quiz</strong>
-          <span>15 frågor · samma runda hela dagen</span>
+          <strong>Bishops Intelligence</strong>
+          <span>30 frågor · balanserade rundor · stigande svårighet</span>
         </div>
         <span class="arrow">→</span>
       </button>
@@ -41,28 +41,42 @@
         <div><strong id="level">Pubnovis</strong><span>Nivå</span></div>
       </section>
 
+      <section class="coach-card">
+        <div>
+          <span class="eyebrow">COACHENS REKOMMENDATION</span>
+          <h2 id="coachTitle">Samlar träningsdata</h2>
+          <p id="coachText">Efter några rundor rekommenderar appen automatiskt vad som ger mest utdelning.</p>
+        </div>
+        <button id="coachStart" data-mode="smart" class="coach-button">Starta smart träning</button>
+      </section>
+
       <section class="section-block">
         <div class="section-title">
           <div>
-            <span class="eyebrow">VÄLJ LÄGE</span>
-            <h2>Vad vill du träna?</h2>
+            <span class="eyebrow">SNABBA VÄGAR</span>
+            <h2>Välj träningspass</h2>
           </div>
         </div>
 
         <div class="mode-list">
-          <button data-mode="normal" class="mode-row">
-            <span class="mode-icon">10</span>
-            <span><strong>Klassisk runda</strong><small>Tio blandade frågor</small></span>
+          <button data-mode="lastminute" class="mode-row">
+            <span class="mode-icon">5</span>
+            <span><strong>Sista minuten</strong><small>Tolv högvärdiga frågor före puben</small></span>
             <span>›</span>
           </button>
-          <button data-mode="bishops" class="mode-row">
-            <span class="mode-icon">30</span>
-            <span><strong>Kvällens Bishops</strong><small>En längre pubquizrunda</small></span>
+          <button data-mode="classics" class="mode-row">
+            <span class="mode-icon">★</span>
+            <span><strong>Pubklassiker</strong><small>Frågetyper som gärna återkommer</small></span>
+            <span>›</span>
+          </button>
+          <button data-mode="daily" class="mode-row">
+            <span class="mode-icon">15</span>
+            <span><strong>Dagens quiz</strong><small>Samma smarta runda hela dagen</small></span>
             <span>›</span>
           </button>
           <button data-mode="weak" class="mode-row">
             <span class="mode-icon">↻</span>
-            <span><strong>Repetera felsvar</strong><small>Fokusera där du missar</small></span>
+            <span><strong>Repetera felsvar</strong><small>Laga de konkreta kunskapsluckorna</small></span>
             <span>›</span>
           </button>
           <button data-mode="quick" class="mode-row">
@@ -81,7 +95,7 @@
         <div class="field">
           <label for="difficulty">Svårighetsgrad</label>
           <select id="difficulty">
-            <option value="Alla">Blandad</option>
+            <option value="Alla">Intelligent blandning</option>
             <option value="1">Lätt</option>
             <option value="2">Medel</option>
             <option value="3">Svår</option>
@@ -102,6 +116,11 @@
         <div id="timer" class="timer hidden"></div>
       </div>
 
+      <div id="roundBanner" class="round-banner hidden">
+        <span id="roundLabel"></span>
+        <strong id="roundTitle"></strong>
+      </div>
+
       <div class="progress"><div id="progressBar"></div></div>
 
       <article class="question-panel">
@@ -113,10 +132,11 @@
 
     <section id="result" class="screen hidden">
       <article class="result-panel">
-        <span class="eyebrow">RUNDAN ÄR KLAR</span>
+        <span class="eyebrow">INTELLIGENCE-RAPPORT</span>
         <div id="score" class="score"></div>
         <h2 id="resultTitle"></h2>
         <p id="resultText"></p>
+        <div id="intelligenceReport" class="intelligence-report"></div>
         <div id="categoryBreakdown" class="breakdown"></div>
         <div class="result-actions">
           <button id="again" class="primary-button">Kör igen</button>
@@ -125,7 +145,7 @@
       </article>
     </section>
 
-    <footer>Pubquiz Academy · 1 000 frågor</footer>
+    <footer>Pubquiz Academy · 1 000 frågor · Bishops Intelligence</footer>
   </main>
 
   <script src="app.js"></script>

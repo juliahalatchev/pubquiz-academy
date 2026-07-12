@@ -1,4 +1,4 @@
-const CACHE='pqa-v5-1';
+const CACHE='pqa-v6-1';
 const ASSETS=['./','index.html','style.css','app.js','questions.json','manifest.json'];
 
 self.addEventListener('install',event=>{

@@ -373,3 +373,82 @@ footer{
   .question-panel{padding:22px 18px;border-radius:22px}
   .section-block{padding:20px}
 }
+
+
+.compact-hero{margin-bottom:22px}
+.intelligence-card{background:linear-gradient(135deg,var(--green),#214f46)}
+.intelligence-card .icon-circle{font-size:13px;letter-spacing:-.02em}
+.coach-card{
+  display:grid;
+  grid-template-columns:1fr auto;
+  gap:18px;
+  align-items:center;
+  background:var(--surface-soft);
+  border-radius:22px;
+  padding:22px;
+  margin-bottom:16px;
+}
+.coach-card h2{
+  margin:0 0 6px;
+  font-size:23px;
+  letter-spacing:-.035em;
+}
+.coach-card p{
+  margin:0;
+  color:var(--muted);
+  line-height:1.5;
+  font-size:14px;
+}
+.coach-button{
+  border:0;
+  border-radius:14px;
+  padding:13px 16px;
+  background:var(--surface);
+  color:var(--green);
+  font-weight:800;
+  white-space:nowrap;
+}
+.round-banner{
+  background:var(--surface-soft);
+  border-radius:16px;
+  padding:13px 16px;
+  margin:16px 0 0;
+}
+.round-banner span,.round-banner strong{display:block}
+.round-banner span{
+  color:var(--green-2);
+  font-size:10px;
+  font-weight:900;
+  letter-spacing:.14em;
+}
+.round-banner strong{
+  margin-top:3px;
+  font-size:16px;
+}
+.intelligence-report{
+  display:grid;
+  gap:8px;
+  margin:22px 0;
+  text-align:left;
+}
+.report-row{
+  background:var(--surface-soft);
+  border-radius:14px;
+  padding:13px 15px;
+}
+.report-row span,.report-row strong{display:block}
+.report-row span{
+  color:var(--muted);
+  font-size:11px;
+  font-weight:800;
+  text-transform:uppercase;
+  letter-spacing:.08em;
+}
+.report-row strong{
+  margin-top:4px;
+  color:var(--green);
+}
+@media(max-width:640px){
+  .coach-card{grid-template-columns:1fr}
+  .coach-button{width:100%}
+}

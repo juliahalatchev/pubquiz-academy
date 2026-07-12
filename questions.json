@@ -14,7 +14,9 @@
     "explanation": "Stockholm är huvudstad i Sverige.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 2,
@@ -31,7 +33,9 @@
     "explanation": "Stockholm är huvudstad i Sverige.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 3,
@@ -48,7 +52,9 @@
     "explanation": "Oslo är huvudstad i Norge.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 4,
@@ -65,7 +71,9 @@
     "explanation": "Oslo är huvudstad i Norge.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 5,
@@ -82,7 +90,9 @@
     "explanation": "Köpenhamn är huvudstad i Danmark.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 6,
@@ -99,7 +109,9 @@
     "explanation": "Köpenhamn är huvudstad i Danmark.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 7,
@@ -116,7 +128,9 @@
     "explanation": "Helsingfors är huvudstad i Finland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 8,
@@ -133,7 +147,9 @@
     "explanation": "Helsingfors är huvudstad i Finland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 9,
@@ -150,7 +166,9 @@
     "explanation": "Reykjavík är huvudstad i Island.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 10,
@@ -167,7 +185,9 @@
     "explanation": "Reykjavík är huvudstad i Island.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 11,
@@ -184,7 +204,9 @@
     "explanation": "Tallinn är huvudstad i Estland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 12,
@@ -201,7 +223,9 @@
     "explanation": "Tallinn är huvudstad i Estland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 13,
@@ -218,7 +242,9 @@
     "explanation": "Riga är huvudstad i Lettland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 14,
@@ -235,7 +261,9 @@
     "explanation": "Riga är huvudstad i Lettland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 15,
@@ -252,7 +280,9 @@
     "explanation": "Vilnius är huvudstad i Litauen.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 16,
@@ -269,7 +299,9 @@
     "explanation": "Vilnius är huvudstad i Litauen.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 17,
@@ -286,7 +318,9 @@
     "explanation": "Warszawa är huvudstad i Polen.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 18,
@@ -303,7 +337,9 @@
     "explanation": "Warszawa är huvudstad i Polen.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 19,
@@ -320,7 +356,9 @@
     "explanation": "Berlin är huvudstad i Tyskland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 20,
@@ -337,7 +375,9 @@
     "explanation": "Berlin är huvudstad i Tyskland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 21,
@@ -354,7 +394,9 @@
     "explanation": "Amsterdam är huvudstad i Nederländerna.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 22,
@@ -371,7 +413,9 @@
     "explanation": "Amsterdam är huvudstad i Nederländerna.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 23,
@@ -388,7 +432,9 @@
     "explanation": "Bryssel är huvudstad i Belgien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 24,
@@ -405,7 +451,9 @@
     "explanation": "Bryssel är huvudstad i Belgien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 25,
@@ -422,7 +470,9 @@
     "explanation": "Paris är huvudstad i Frankrike.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 26,
@@ -439,7 +489,9 @@
     "explanation": "Paris är huvudstad i Frankrike.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 27,
@@ -456,7 +508,9 @@
     "explanation": "Madrid är huvudstad i Spanien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 28,
@@ -473,7 +527,9 @@
     "explanation": "Madrid är huvudstad i Spanien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 29,
@@ -490,7 +546,9 @@
     "explanation": "Lissabon är huvudstad i Portugal.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 30,
@@ -507,7 +565,9 @@
     "explanation": "Lissabon är huvudstad i Portugal.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 31,
@@ -524,7 +584,9 @@
     "explanation": "Rom är huvudstad i Italien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 32,
@@ -541,7 +603,9 @@
     "explanation": "Rom är huvudstad i Italien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 33,
@@ -558,7 +622,9 @@
     "explanation": "Bern är huvudstad i Schweiz.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 34,
@@ -575,7 +641,9 @@
     "explanation": "Bern är huvudstad i Schweiz.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 35,
@@ -592,7 +660,9 @@
     "explanation": "Wien är huvudstad i Österrike.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 36,
@@ -609,7 +679,9 @@
     "explanation": "Wien är huvudstad i Österrike.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 37,
@@ -626,7 +698,9 @@
     "explanation": "Prag är huvudstad i Tjeckien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 38,
@@ -643,7 +717,9 @@
     "explanation": "Prag är huvudstad i Tjeckien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 39,
@@ -660,7 +736,9 @@
     "explanation": "Bratislava är huvudstad i Slovakien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 40,
@@ -677,7 +755,9 @@
     "explanation": "Bratislava är huvudstad i Slovakien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 41,
@@ -694,7 +774,9 @@
     "explanation": "Budapest är huvudstad i Ungern.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 42,
@@ -711,7 +793,9 @@
     "explanation": "Budapest är huvudstad i Ungern.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 43,
@@ -728,7 +812,9 @@
     "explanation": "Ljubljana är huvudstad i Slovenien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 44,
@@ -745,7 +831,9 @@
     "explanation": "Ljubljana är huvudstad i Slovenien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 45,
@@ -762,7 +850,9 @@
     "explanation": "Zagreb är huvudstad i Kroatien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 46,
@@ -779,7 +869,9 @@
     "explanation": "Zagreb är huvudstad i Kroatien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 47,
@@ -796,7 +888,9 @@
     "explanation": "Belgrad är huvudstad i Serbien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 48,
@@ -813,7 +907,9 @@
     "explanation": "Belgrad är huvudstad i Serbien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 49,
@@ -830,7 +926,9 @@
     "explanation": "Sarajevo är huvudstad i Bosnien och Hercegovina.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 50,
@@ -847,7 +945,9 @@
     "explanation": "Sarajevo är huvudstad i Bosnien och Hercegovina.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 51,
@@ -864,7 +964,9 @@
     "explanation": "Podgorica är huvudstad i Montenegro.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 52,
@@ -881,7 +983,9 @@
     "explanation": "Podgorica är huvudstad i Montenegro.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 53,
@@ -898,7 +1002,9 @@
     "explanation": "Tirana är huvudstad i Albanien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 54,
@@ -915,7 +1021,9 @@
     "explanation": "Tirana är huvudstad i Albanien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 55,
@@ -932,7 +1040,9 @@
     "explanation": "Aten är huvudstad i Grekland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 56,
@@ -949,7 +1059,9 @@
     "explanation": "Aten är huvudstad i Grekland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 57,
@@ -966,7 +1078,9 @@
     "explanation": "Sofia är huvudstad i Bulgarien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 58,
@@ -983,7 +1097,9 @@
     "explanation": "Sofia är huvudstad i Bulgarien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 59,
@@ -1000,7 +1116,9 @@
     "explanation": "Bukarest är huvudstad i Rumänien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 60,
@@ -1017,7 +1135,9 @@
     "explanation": "Bukarest är huvudstad i Rumänien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 61,
@@ -1034,7 +1154,9 @@
     "explanation": "Chișinău är huvudstad i Moldavien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 62,
@@ -1051,7 +1173,9 @@
     "explanation": "Chișinău är huvudstad i Moldavien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 63,
@@ -1068,7 +1192,9 @@
     "explanation": "Kyiv är huvudstad i Ukraina.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 64,
@@ -1085,7 +1211,9 @@
     "explanation": "Kyiv är huvudstad i Ukraina.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 65,
@@ -1102,7 +1230,9 @@
     "explanation": "Dublin är huvudstad i Irland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 66,
@@ -1119,7 +1249,9 @@
     "explanation": "Dublin är huvudstad i Irland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 67,
@@ -1136,7 +1268,9 @@
     "explanation": "London är huvudstad i Storbritannien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 68,
@@ -1153,7 +1287,9 @@
     "explanation": "London är huvudstad i Storbritannien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 69,
@@ -1170,7 +1306,9 @@
     "explanation": "Ottawa är huvudstad i Kanada.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 70,
@@ -1187,7 +1325,9 @@
     "explanation": "Ottawa är huvudstad i Kanada.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 71,
@@ -1204,7 +1344,9 @@
     "explanation": "Washington, D.C. är huvudstad i USA.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 72,
@@ -1221,7 +1363,9 @@
     "explanation": "Washington, D.C. är huvudstad i USA.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 73,
@@ -1238,7 +1382,9 @@
     "explanation": "Mexico City är huvudstad i Mexiko.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 74,
@@ -1255,7 +1401,9 @@
     "explanation": "Mexico City är huvudstad i Mexiko.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 75,
@@ -1272,7 +1420,9 @@
     "explanation": "Brasília är huvudstad i Brasilien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 76,
@@ -1289,7 +1439,9 @@
     "explanation": "Brasília är huvudstad i Brasilien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 77,
@@ -1306,7 +1458,9 @@
     "explanation": "Buenos Aires är huvudstad i Argentina.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 78,
@@ -1323,7 +1477,9 @@
     "explanation": "Buenos Aires är huvudstad i Argentina.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 79,
@@ -1340,7 +1496,9 @@
     "explanation": "Santiago är huvudstad i Chile.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 80,
@@ -1357,7 +1515,9 @@
     "explanation": "Santiago är huvudstad i Chile.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 81,
@@ -1374,7 +1534,9 @@
     "explanation": "Lima är huvudstad i Peru.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 82,
@@ -1391,7 +1553,9 @@
     "explanation": "Lima är huvudstad i Peru.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 83,
@@ -1408,7 +1572,9 @@
     "explanation": "Bogotá är huvudstad i Colombia.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 84,
@@ -1425,7 +1591,9 @@
     "explanation": "Bogotá är huvudstad i Colombia.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 85,
@@ -1442,7 +1610,9 @@
     "explanation": "Caracas är huvudstad i Venezuela.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 86,
@@ -1459,7 +1629,9 @@
     "explanation": "Caracas är huvudstad i Venezuela.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 87,
@@ -1476,7 +1648,9 @@
     "explanation": "Tokyo är huvudstad i Japan.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 88,
@@ -1493,7 +1667,9 @@
     "explanation": "Tokyo är huvudstad i Japan.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 89,
@@ -1510,7 +1686,9 @@
     "explanation": "Peking är huvudstad i Kina.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 90,
@@ -1527,7 +1705,9 @@
     "explanation": "Peking är huvudstad i Kina.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 91,
@@ -1544,7 +1724,9 @@
     "explanation": "Seoul är huvudstad i Sydkorea.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 92,
@@ -1561,7 +1743,9 @@
     "explanation": "Seoul är huvudstad i Sydkorea.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 93,
@@ -1578,7 +1762,9 @@
     "explanation": "Pyongyang är huvudstad i Nordkorea.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 94,
@@ -1595,7 +1781,9 @@
     "explanation": "Pyongyang är huvudstad i Nordkorea.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 95,
@@ -1612,7 +1800,9 @@
     "explanation": "New Delhi är huvudstad i Indien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 96,
@@ -1629,7 +1819,9 @@
     "explanation": "New Delhi är huvudstad i Indien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 97,
@@ -1646,7 +1838,9 @@
     "explanation": "Islamabad är huvudstad i Pakistan.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 98,
@@ -1663,7 +1857,9 @@
     "explanation": "Islamabad är huvudstad i Pakistan.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 99,
@@ -1680,7 +1876,9 @@
     "explanation": "Dhaka är huvudstad i Bangladesh.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 100,
@@ -1697,7 +1895,9 @@
     "explanation": "Dhaka är huvudstad i Bangladesh.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 101,
@@ -1714,7 +1914,9 @@
     "explanation": "Katmandu är huvudstad i Nepal.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 102,
@@ -1731,7 +1933,9 @@
     "explanation": "Katmandu är huvudstad i Nepal.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 103,
@@ -1748,7 +1952,9 @@
     "explanation": "Bangkok är huvudstad i Thailand.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 104,
@@ -1765,7 +1971,9 @@
     "explanation": "Bangkok är huvudstad i Thailand.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 105,
@@ -1782,7 +1990,9 @@
     "explanation": "Hanoi är huvudstad i Vietnam.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 106,
@@ -1799,7 +2009,9 @@
     "explanation": "Hanoi är huvudstad i Vietnam.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 107,
@@ -1816,7 +2028,9 @@
     "explanation": "Phnom Penh är huvudstad i Kambodja.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 108,
@@ -1833,7 +2047,9 @@
     "explanation": "Phnom Penh är huvudstad i Kambodja.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 109,
@@ -1850,7 +2066,9 @@
     "explanation": "Vientiane är huvudstad i Laos.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 110,
@@ -1867,7 +2085,9 @@
     "explanation": "Vientiane är huvudstad i Laos.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 111,
@@ -1884,7 +2104,9 @@
     "explanation": "Kuala Lumpur är huvudstad i Malaysia.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 112,
@@ -1901,7 +2123,9 @@
     "explanation": "Kuala Lumpur är huvudstad i Malaysia.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 113,
@@ -1918,7 +2142,9 @@
     "explanation": "Jakarta är huvudstad i Indonesien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 114,
@@ -1935,7 +2161,9 @@
     "explanation": "Jakarta är huvudstad i Indonesien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 115,
@@ -1952,7 +2180,9 @@
     "explanation": "Manila är huvudstad i Filippinerna.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 116,
@@ -1969,7 +2199,9 @@
     "explanation": "Manila är huvudstad i Filippinerna.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 117,
@@ -1986,7 +2218,9 @@
     "explanation": "Singapore är huvudstad i Singapore.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 118,
@@ -2003,7 +2237,9 @@
     "explanation": "Singapore är huvudstad i Singapore.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 119,
@@ -2020,7 +2256,9 @@
     "explanation": "Canberra är huvudstad i Australien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 120,
@@ -2037,7 +2275,9 @@
     "explanation": "Canberra är huvudstad i Australien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 121,
@@ -2054,7 +2294,9 @@
     "explanation": "Wellington är huvudstad i Nya Zeeland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 122,
@@ -2071,7 +2313,9 @@
     "explanation": "Wellington är huvudstad i Nya Zeeland.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 123,
@@ -2088,7 +2332,9 @@
     "explanation": "Kairo är huvudstad i Egypten.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 124,
@@ -2105,7 +2351,9 @@
     "explanation": "Kairo är huvudstad i Egypten.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 125,
@@ -2122,7 +2370,9 @@
     "explanation": "Rabat är huvudstad i Marocko.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 126,
@@ -2139,7 +2389,9 @@
     "explanation": "Rabat är huvudstad i Marocko.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 127,
@@ -2156,7 +2408,9 @@
     "explanation": "Alger är huvudstad i Algeriet.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 128,
@@ -2173,7 +2427,9 @@
     "explanation": "Alger är huvudstad i Algeriet.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 129,
@@ -2190,7 +2446,9 @@
     "explanation": "Tunis är huvudstad i Tunisien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 130,
@@ -2207,7 +2465,9 @@
     "explanation": "Tunis är huvudstad i Tunisien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 131,
@@ -2224,7 +2484,9 @@
     "explanation": "Nairobi är huvudstad i Kenya.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 132,
@@ -2241,7 +2503,9 @@
     "explanation": "Nairobi är huvudstad i Kenya.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 133,
@@ -2258,7 +2522,9 @@
     "explanation": "Addis Abeba är huvudstad i Etiopien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 134,
@@ -2275,7 +2541,9 @@
     "explanation": "Addis Abeba är huvudstad i Etiopien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 135,
@@ -2292,7 +2560,9 @@
     "explanation": "Abuja är huvudstad i Nigeria.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 136,
@@ -2309,7 +2579,9 @@
     "explanation": "Abuja är huvudstad i Nigeria.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 137,
@@ -2326,7 +2598,9 @@
     "explanation": "Accra är huvudstad i Ghana.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 138,
@@ -2343,7 +2617,9 @@
     "explanation": "Accra är huvudstad i Ghana.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 139,
@@ -2360,7 +2636,9 @@
     "explanation": "Dakar är huvudstad i Senegal.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 140,
@@ -2377,7 +2655,9 @@
     "explanation": "Dakar är huvudstad i Senegal.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 141,
@@ -2394,7 +2674,9 @@
     "explanation": "Pretoria är huvudstad i Sydafrika.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 142,
@@ -2411,7 +2693,9 @@
     "explanation": "Pretoria är huvudstad i Sydafrika.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 143,
@@ -2428,7 +2712,9 @@
     "explanation": "Ankara är huvudstad i Turkiet.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 144,
@@ -2445,7 +2731,9 @@
     "explanation": "Ankara är huvudstad i Turkiet.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 145,
@@ -2462,7 +2750,9 @@
     "explanation": "Tbilisi är huvudstad i Georgien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 146,
@@ -2479,7 +2769,9 @@
     "explanation": "Tbilisi är huvudstad i Georgien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 147,
@@ -2496,7 +2788,9 @@
     "explanation": "Jerevan är huvudstad i Armenien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 148,
@@ -2513,7 +2807,9 @@
     "explanation": "Jerevan är huvudstad i Armenien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 149,
@@ -2530,7 +2826,9 @@
     "explanation": "Baku är huvudstad i Azerbajdzjan.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 150,
@@ -2547,7 +2845,9 @@
     "explanation": "Baku är huvudstad i Azerbajdzjan.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 151,
@@ -2564,7 +2864,9 @@
     "explanation": "Astana är huvudstad i Kazakstan.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 152,
@@ -2581,7 +2883,9 @@
     "explanation": "Astana är huvudstad i Kazakstan.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 153,
@@ -2598,7 +2902,9 @@
     "explanation": "Tasjkent är huvudstad i Uzbekistan.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 154,
@@ -2615,7 +2921,9 @@
     "explanation": "Tasjkent är huvudstad i Uzbekistan.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 155,
@@ -2632,7 +2940,9 @@
     "explanation": "Riyadh är huvudstad i Saudiarabien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 156,
@@ -2649,7 +2959,9 @@
     "explanation": "Riyadh är huvudstad i Saudiarabien.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 157,
@@ -2666,7 +2978,9 @@
     "explanation": "Abu Dhabi är huvudstad i Förenade arabemiraten.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 158,
@@ -2683,7 +2997,9 @@
     "explanation": "Abu Dhabi är huvudstad i Förenade arabemiraten.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 159,
@@ -2701,7 +3017,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 160,
@@ -2719,7 +3037,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 161,
@@ -2737,7 +3057,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 162,
@@ -2755,7 +3077,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 163,
@@ -2773,7 +3097,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 164,
@@ -2791,7 +3117,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 165,
@@ -2809,7 +3137,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 166,
@@ -2827,7 +3157,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 167,
@@ -2845,7 +3177,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 168,
@@ -2863,7 +3197,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 169,
@@ -2881,7 +3217,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 170,
@@ -2899,7 +3237,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 171,
@@ -2917,7 +3257,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 172,
@@ -2935,7 +3277,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 173,
@@ -2953,7 +3297,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 174,
@@ -2971,7 +3317,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 175,
@@ -2989,7 +3337,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 176,
@@ -3007,7 +3357,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 177,
@@ -3025,7 +3377,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 178,
@@ -3043,7 +3397,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 179,
@@ -3061,7 +3417,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 180,
@@ -3079,7 +3437,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 181,
@@ -3097,7 +3457,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 182,
@@ -3115,7 +3477,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 183,
@@ -3133,7 +3497,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 184,
@@ -3151,7 +3517,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 185,
@@ -3169,7 +3537,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 186,
@@ -3187,7 +3557,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 187,
@@ -3205,7 +3577,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 188,
@@ -3223,7 +3597,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 189,
@@ -3241,7 +3617,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 190,
@@ -3259,7 +3637,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 191,
@@ -3277,7 +3657,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 192,
@@ -3295,7 +3677,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 193,
@@ -3313,7 +3697,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 194,
@@ -3331,7 +3717,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 195,
@@ -3349,7 +3737,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 196,
@@ -3367,7 +3757,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 197,
@@ -3385,7 +3777,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 198,
@@ -3403,7 +3797,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 199,
@@ -3421,7 +3817,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 200,
@@ -3439,7 +3837,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 201,
@@ -3457,7 +3857,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 202,
@@ -3475,7 +3877,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 203,
@@ -3493,7 +3897,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 204,
@@ -3511,7 +3917,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 205,
@@ -3529,7 +3937,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 206,
@@ -3547,7 +3957,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 207,
@@ -3565,7 +3977,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 208,
@@ -3583,7 +3997,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 209,
@@ -3601,7 +4017,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 210,
@@ -3619,7 +4037,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 211,
@@ -3637,7 +4057,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 212,
@@ -3655,7 +4077,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 213,
@@ -3673,7 +4097,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 214,
@@ -3691,7 +4117,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 215,
@@ -3709,7 +4137,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 216,
@@ -3727,7 +4157,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 217,
@@ -3745,7 +4177,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 218,
@@ -3763,7 +4197,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 219,
@@ -3781,7 +4217,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 220,
@@ -3799,7 +4237,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 221,
@@ -3817,7 +4257,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 222,
@@ -3835,7 +4277,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 223,
@@ -3853,7 +4297,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 224,
@@ -3871,7 +4317,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 225,
@@ -3889,7 +4337,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 226,
@@ -3907,7 +4357,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 227,
@@ -3925,7 +4377,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 228,
@@ -3943,7 +4397,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 229,
@@ -3961,7 +4417,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 230,
@@ -3979,7 +4437,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 231,
@@ -3997,7 +4457,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 232,
@@ -4015,7 +4477,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 233,
@@ -4033,7 +4497,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 234,
@@ -4051,7 +4517,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 235,
@@ -4069,7 +4537,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 236,
@@ -4087,7 +4557,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 237,
@@ -4105,7 +4577,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 238,
@@ -4123,7 +4597,9 @@
     "tags": [
       "kemi",
       "grundämnen"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 239,
@@ -4141,7 +4617,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 240,
@@ -4159,7 +4637,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 241,
@@ -4177,7 +4657,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 242,
@@ -4195,7 +4677,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 243,
@@ -4213,7 +4697,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 244,
@@ -4231,7 +4717,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 245,
@@ -4249,7 +4737,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 246,
@@ -4267,7 +4757,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 247,
@@ -4285,7 +4777,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 248,
@@ -4303,7 +4797,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 249,
@@ -4321,7 +4817,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 250,
@@ -4339,7 +4837,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 251,
@@ -4357,7 +4857,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 252,
@@ -4375,7 +4877,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 253,
@@ -4393,7 +4897,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 254,
@@ -4411,7 +4917,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 255,
@@ -4429,7 +4937,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 256,
@@ -4447,7 +4957,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 257,
@@ -4465,7 +4977,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 258,
@@ -4483,7 +4997,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 259,
@@ -4501,7 +5017,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 260,
@@ -4519,7 +5037,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 261,
@@ -4537,7 +5057,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 262,
@@ -4555,7 +5077,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 263,
@@ -4573,7 +5097,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 264,
@@ -4591,7 +5117,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 265,
@@ -4609,7 +5137,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 266,
@@ -4627,7 +5157,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 267,
@@ -4645,7 +5177,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 268,
@@ -4663,7 +5197,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 269,
@@ -4681,7 +5217,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 270,
@@ -4699,7 +5237,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 271,
@@ -4717,7 +5257,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 272,
@@ -4735,7 +5277,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 273,
@@ -4753,7 +5297,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 274,
@@ -4771,7 +5317,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 275,
@@ -4789,7 +5337,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 276,
@@ -4807,7 +5357,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 277,
@@ -4825,7 +5377,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 278,
@@ -4843,7 +5397,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 279,
@@ -4861,7 +5417,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 280,
@@ -4879,7 +5437,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 281,
@@ -4897,7 +5457,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 282,
@@ -4915,7 +5477,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 283,
@@ -4933,7 +5497,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 284,
@@ -4951,7 +5517,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 285,
@@ -4969,7 +5537,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 286,
@@ -4987,7 +5557,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 287,
@@ -5005,7 +5577,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 288,
@@ -5023,7 +5597,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 289,
@@ -5041,7 +5617,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 290,
@@ -5059,7 +5637,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 291,
@@ -5077,7 +5657,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 292,
@@ -5095,7 +5677,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 293,
@@ -5113,7 +5697,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 294,
@@ -5131,7 +5717,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 295,
@@ -5149,7 +5737,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 296,
@@ -5167,7 +5757,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 297,
@@ -5185,7 +5777,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 298,
@@ -5203,7 +5797,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 299,
@@ -5221,7 +5817,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 300,
@@ -5239,7 +5837,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 301,
@@ -5257,7 +5857,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 302,
@@ -5275,7 +5877,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 303,
@@ -5293,7 +5897,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 304,
@@ -5311,7 +5917,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 305,
@@ -5329,7 +5937,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 306,
@@ -5347,7 +5957,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 307,
@@ -5365,7 +5977,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 308,
@@ -5383,7 +5997,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 309,
@@ -5401,7 +6017,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 310,
@@ -5419,7 +6037,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 311,
@@ -5437,7 +6057,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 312,
@@ -5455,7 +6077,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 313,
@@ -5473,7 +6097,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 314,
@@ -5491,7 +6117,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 315,
@@ -5509,7 +6137,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 316,
@@ -5527,7 +6157,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 317,
@@ -5545,7 +6177,9 @@
     "tags": [
       "litteratur",
       "författare"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 318,
@@ -5563,7 +6197,9 @@
     "tags": [
       "litteratur",
       "verk"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 319,
@@ -5580,7 +6216,9 @@
     "explanation": "Eiffeltornet ligger i Frankrike.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 320,
@@ -5597,7 +6235,9 @@
     "explanation": "Eiffeltornet förknippas med Frankrike.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 321,
@@ -5614,7 +6254,9 @@
     "explanation": "Colosseum ligger i Italien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 322,
@@ -5631,7 +6273,9 @@
     "explanation": "Colosseum förknippas med Italien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 323,
@@ -5648,7 +6292,9 @@
     "explanation": "Sagrada Família ligger i Spanien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 324,
@@ -5665,7 +6311,9 @@
     "explanation": "Sagrada Família förknippas med Spanien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 325,
@@ -5682,7 +6330,9 @@
     "explanation": "Akropolis ligger i Grekland.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 326,
@@ -5699,7 +6349,9 @@
     "explanation": "Akropolis förknippas med Grekland.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 327,
@@ -5716,7 +6368,9 @@
     "explanation": "Stonehenge ligger i Storbritannien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 328,
@@ -5733,7 +6387,9 @@
     "explanation": "Stonehenge förknippas med Storbritannien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 329,
@@ -5750,7 +6406,9 @@
     "explanation": "Brandenburger Tor ligger i Tyskland.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 330,
@@ -5767,7 +6425,9 @@
     "explanation": "Brandenburger Tor förknippas med Tyskland.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 331,
@@ -5784,7 +6444,9 @@
     "explanation": "Pisa lutande torn ligger i Italien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 332,
@@ -5801,7 +6463,9 @@
     "explanation": "Pisa lutande torn förknippas med Italien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 333,
@@ -5818,7 +6482,9 @@
     "explanation": "Neuschwanstein ligger i Tyskland.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 334,
@@ -5835,7 +6501,9 @@
     "explanation": "Neuschwanstein förknippas med Tyskland.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 335,
@@ -5852,7 +6520,9 @@
     "explanation": "Atomium ligger i Belgien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 336,
@@ -5869,7 +6539,9 @@
     "explanation": "Atomium förknippas med Belgien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 337,
@@ -5886,7 +6558,9 @@
     "explanation": "Edinburgh Castle ligger i Storbritannien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 338,
@@ -5903,7 +6577,9 @@
     "explanation": "Edinburgh Castle förknippas med Storbritannien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 339,
@@ -5920,7 +6596,9 @@
     "explanation": "Frihetsgudinnan ligger i USA.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 340,
@@ -5937,7 +6615,9 @@
     "explanation": "Frihetsgudinnan förknippas med USA.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 341,
@@ -5954,7 +6634,9 @@
     "explanation": "Golden Gate-bron ligger i USA.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 342,
@@ -5971,7 +6653,9 @@
     "explanation": "Golden Gate-bron förknippas med USA.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 343,
@@ -5988,7 +6672,9 @@
     "explanation": "Chichén Itzá ligger i Mexiko.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 344,
@@ -6005,7 +6691,9 @@
     "explanation": "Chichén Itzá förknippas med Mexiko.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 345,
@@ -6022,7 +6710,9 @@
     "explanation": "Kristusstatyn i Rio ligger i Brasilien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 346,
@@ -6039,7 +6729,9 @@
     "explanation": "Kristusstatyn i Rio förknippas med Brasilien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 347,
@@ -6056,7 +6748,9 @@
     "explanation": "Machu Picchu ligger i Peru.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 348,
@@ -6073,7 +6767,9 @@
     "explanation": "Machu Picchu förknippas med Peru.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 349,
@@ -6090,7 +6786,9 @@
     "explanation": "Moai-statyerna på Påskön ligger i Chile.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 350,
@@ -6107,7 +6805,9 @@
     "explanation": "Moai-statyerna på Påskön förknippas med Chile.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 351,
@@ -6124,7 +6824,9 @@
     "explanation": "CN Tower ligger i Kanada.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 352,
@@ -6141,7 +6843,9 @@
     "explanation": "CN Tower förknippas med Kanada.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 353,
@@ -6158,7 +6862,9 @@
     "explanation": "Mount Rushmore ligger i USA.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 354,
@@ -6175,7 +6881,9 @@
     "explanation": "Mount Rushmore förknippas med USA.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 355,
@@ -6192,7 +6900,9 @@
     "explanation": "Kinesiska muren ligger i Kina.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 356,
@@ -6209,7 +6919,9 @@
     "explanation": "Kinesiska muren förknippas med Kina.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 357,
@@ -6226,7 +6938,9 @@
     "explanation": "Taj Mahal ligger i Indien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 358,
@@ -6243,7 +6957,9 @@
     "explanation": "Taj Mahal förknippas med Indien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 359,
@@ -6260,7 +6976,9 @@
     "explanation": "Angkor Wat ligger i Kambodja.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 360,
@@ -6277,7 +6995,9 @@
     "explanation": "Angkor Wat förknippas med Kambodja.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 361,
@@ -6294,7 +7014,9 @@
     "explanation": "Petra ligger i Jordanien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 362,
@@ -6311,7 +7033,9 @@
     "explanation": "Petra förknippas med Jordanien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 363,
@@ -6328,7 +7052,9 @@
     "explanation": "Burj Khalifa ligger i Förenade arabemiraten.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 364,
@@ -6345,7 +7071,9 @@
     "explanation": "Burj Khalifa förknippas med Förenade arabemiraten.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 365,
@@ -6362,7 +7090,9 @@
     "explanation": "Fushimi Inari-taisha ligger i Japan.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 366,
@@ -6379,7 +7109,9 @@
     "explanation": "Fushimi Inari-taisha förknippas med Japan.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 367,
@@ -6396,7 +7128,9 @@
     "explanation": "Marina Bay Sands ligger i Singapore.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 368,
@@ -6413,7 +7147,9 @@
     "explanation": "Marina Bay Sands förknippas med Singapore.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 369,
@@ -6430,7 +7166,9 @@
     "explanation": "Operahuset i Sydney ligger i Australien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 370,
@@ -6447,7 +7185,9 @@
     "explanation": "Operahuset i Sydney förknippas med Australien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 371,
@@ -6464,7 +7204,9 @@
     "explanation": "Hobbiton ligger i Nya Zeeland.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 372,
@@ -6481,7 +7223,9 @@
     "explanation": "Hobbiton förknippas med Nya Zeeland.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 373,
@@ -6498,7 +7242,9 @@
     "explanation": "Pyramiderna i Giza ligger i Egypten.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 374,
@@ -6515,7 +7261,9 @@
     "explanation": "Pyramiderna i Giza förknippas med Egypten.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 375,
@@ -6532,7 +7280,9 @@
     "explanation": "Klippkyrkorna i Lalibela ligger i Etiopien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 376,
@@ -6549,7 +7299,9 @@
     "explanation": "Klippkyrkorna i Lalibela förknippas med Etiopien.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 377,
@@ -6566,7 +7318,9 @@
     "explanation": "Table Mountain ligger i Sydafrika.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 378,
@@ -6583,7 +7337,9 @@
     "explanation": "Table Mountain förknippas med Sydafrika.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 379,
@@ -6600,7 +7356,9 @@
     "explanation": "Hassan II-moskén ligger i Marocko.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 380,
@@ -6617,7 +7375,9 @@
     "explanation": "Hassan II-moskén förknippas med Marocko.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 381,
@@ -6634,7 +7394,9 @@
     "explanation": "Kilimanjaros topp ligger i Tanzania.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 382,
@@ -6651,7 +7413,9 @@
     "explanation": "Kilimanjaros topp förknippas med Tanzania.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 383,
@@ -6668,7 +7432,9 @@
     "explanation": "Hallgrímskirkja ligger i Island.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 384,
@@ -6685,7 +7451,9 @@
     "explanation": "Hallgrímskirkja förknippas med Island.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 385,
@@ -6702,7 +7470,9 @@
     "explanation": "Turning Torso ligger i Sverige.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 386,
@@ -6719,7 +7489,9 @@
     "explanation": "Turning Torso förknippas med Sverige.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 387,
@@ -6736,7 +7508,9 @@
     "explanation": "Öresundsbron ligger i Sverige och Danmark.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 388,
@@ -6753,7 +7527,9 @@
     "explanation": "Öresundsbron förknippas med Sverige och Danmark.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 389,
@@ -6770,7 +7546,9 @@
     "explanation": "Vasamuseet ligger i Sverige.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 390,
@@ -6787,7 +7565,9 @@
     "explanation": "Vasamuseet förknippas med Sverige.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 391,
@@ -6804,7 +7584,9 @@
     "explanation": "Nidarosdomen ligger i Norge.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 392,
@@ -6821,7 +7603,9 @@
     "explanation": "Nidarosdomen förknippas med Norge.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 393,
@@ -6838,7 +7622,9 @@
     "explanation": "Den lille havfrue ligger i Danmark.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 394,
@@ -6855,7 +7641,9 @@
     "explanation": "Den lille havfrue förknippas med Danmark.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 395,
@@ -6872,7 +7660,9 @@
     "explanation": "Temppeliaukio-kyrkan ligger i Finland.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 396,
@@ -6889,7 +7679,9 @@
     "explanation": "Temppeliaukio-kyrkan förknippas med Finland.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 397,
@@ -6906,7 +7698,9 @@
     "explanation": "Trakai slott ligger i Litauen.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 398,
@@ -6923,7 +7717,9 @@
     "explanation": "Trakai slott förknippas med Litauen.",
     "tags": [
       "landmärken"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 399,
@@ -6940,7 +7736,9 @@
     "explanation": "Vänern är Sveriges största sjö.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 400,
@@ -6957,7 +7755,9 @@
     "explanation": "Kebnekaise är Sveriges högsta berg.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 401,
@@ -6974,7 +7774,9 @@
     "explanation": "Luleälven mynnar vid Luleå.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 402,
@@ -6991,7 +7793,9 @@
     "explanation": "Uppsala universitet grundades 1477.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 403,
@@ -7008,7 +7812,9 @@
     "explanation": "Älgen är Jämtlands landskapsdjur.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 404,
@@ -7025,7 +7831,9 @@
     "explanation": "Göteborg har länge kallats Lilla London.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 405,
@@ -7042,7 +7850,9 @@
     "explanation": "Tyskland invaderade Polen den 1 september 1939.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 406,
@@ -7059,7 +7869,9 @@
     "explanation": "Berlinmuren öppnades den 9 november 1989.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 407,
@@ -7076,7 +7888,9 @@
     "explanation": "Napoleon kröntes till kejsare 1804.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 408,
@@ -7093,7 +7907,9 @@
     "explanation": "Pompeji begravdes av Vesuvius utbrott.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 409,
@@ -7110,7 +7926,9 @@
     "explanation": "Gustav Vasa valdes till kung 1523.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 410,
@@ -7127,7 +7945,9 @@
     "explanation": "Machu Picchu byggdes av Inkariket.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 411,
@@ -7144,7 +7964,9 @@
     "explanation": "James Cameron regisserade Titanic.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 412,
@@ -7161,7 +7983,9 @@
     "explanation": "Harry Potter studerar på Hogwarts.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 413,
@@ -7178,7 +8002,9 @@
     "explanation": "Friends utspelar sig huvudsakligen i New York.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 414,
@@ -7195,7 +8021,9 @@
     "explanation": "Ingmar Bergman regisserade filmen.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 415,
@@ -7212,7 +8040,9 @@
     "explanation": "Tom Hanks spelar Forrest Gump.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 416,
@@ -7229,7 +8059,9 @@
     "explanation": "ABBA vann Eurovision 1974.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 417,
@@ -7246,7 +8078,9 @@
     "explanation": "Michael Jackson kallades The King of Pop.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 418,
@@ -7263,7 +8097,9 @@
     "explanation": "Pink Floyd gav ut albumet 1973.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 419,
@@ -7280,7 +8116,9 @@
     "explanation": "Ett standardpiano har 88 tangenter.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 420,
@@ -7297,7 +8135,9 @@
     "explanation": "Für Elise tillskrivs Beethoven.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 421,
@@ -7314,7 +8154,9 @@
     "explanation": "Ett fotbollslag startar med elva spelare.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 422,
@@ -7331,7 +8173,9 @@
     "explanation": "Symbolen består av fem ringar.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 423,
@@ -7348,7 +8192,9 @@
     "explanation": "Stanley Cup är NHL:s mästerskapspokal.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 424,
@@ -7365,7 +8211,9 @@
     "explanation": "Wimbledon spelas på gräs.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 425,
@@ -7382,7 +8230,9 @@
     "explanation": "Maratondistansen är 42,195 kilometer.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 426,
@@ -7399,7 +8249,9 @@
     "explanation": "Merkurius är solsystemets innersta planet.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 427,
@@ -7416,7 +8268,9 @@
     "explanation": "Bläckfiskar har tre hjärtan.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 428,
@@ -7433,7 +8287,9 @@
     "explanation": "Insulin produceras i bukspottkörteln.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 429,
@@ -7450,7 +8306,9 @@
     "explanation": "Hertz är enheten för frekvens.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 430,
@@ -7467,7 +8325,9 @@
     "explanation": "Huden är kroppens största organ.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 431,
@@ -7484,7 +8344,9 @@
     "explanation": "Mojito görs traditionellt med ljus rom.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 432,
@@ -7501,7 +8363,9 @@
     "explanation": "Paella kommer från Spanien.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 433,
@@ -7518,7 +8382,9 @@
     "explanation": "Hummus görs främst av kikärter.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 434,
@@ -7535,7 +8401,9 @@
     "explanation": "Metoden heter sous vide.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 435,
@@ -7552,7 +8420,9 @@
     "explanation": "Pablo Picasso målade Guernica.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 436,
@@ -7569,7 +8439,9 @@
     "explanation": "Nattvakten målades av Rembrandt.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 437,
@@ -7586,7 +8458,9 @@
     "explanation": "Färdskrivare är normalt starkt orange för att lättare hittas.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 438,
@@ -7603,7 +8477,9 @@
     "explanation": "Bokstaven Q förekommer inte i något delstatsnamn.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 439,
@@ -7620,7 +8496,9 @@
     "explanation": "Grönland är världens största ö.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 440,
@@ -7637,7 +8515,9 @@
     "explanation": "En hexagon har sex sidor.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 441,
@@ -7654,7 +8534,9 @@
     "explanation": "Mandarin har flest modersmålstalare.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 442,
@@ -7671,7 +8553,9 @@
     "explanation": "En touchdown ger sex poäng.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 443,
@@ -7688,7 +8572,9 @@
     "explanation": "Birdie och eagle är golftermer.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 444,
@@ -7705,7 +8591,9 @@
     "explanation": "Ett basketlag har fem spelare på planen.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 445,
@@ -7722,7 +8610,9 @@
     "explanation": "De fyra utgjorde The Beatles.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 446,
@@ -7739,7 +8629,9 @@
     "explanation": "Sopran är den högsta vanliga kvinnliga rösttypen.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 447,
@@ -7756,7 +8648,9 @@
     "explanation": "Familjen Simpson bor i Springfield.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 448,
@@ -7773,7 +8667,9 @@
     "explanation": "Magna Carta undertecknades 1215.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 449,
@@ -7790,7 +8686,9 @@
     "explanation": "Columbus nådde Karibien 1492.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 450,
@@ -7807,7 +8705,9 @@
     "explanation": "Franska revolutionen inleddes 1789.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 451,
@@ -7824,7 +8724,9 @@
     "explanation": "Donau delar Budapest i Buda och Pest.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 452,
@@ -7841,7 +8743,9 @@
     "explanation": "Volga är Europas längsta flod.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 453,
@@ -7858,7 +8762,9 @@
     "explanation": "Processen heter fotosyntes.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 454,
@@ -7875,7 +8781,9 @@
     "explanation": "Kväve utgör cirka 78 procent av atmosfären.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 455,
@@ -7892,7 +8800,9 @@
     "explanation": "Irish coffee görs med irländsk whisky.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 456,
@@ -7909,7 +8819,9 @@
     "explanation": "Öresundsbron förbinder Malmöområdet med Köpenhamnsområdet.",
     "tags": [
       "extra"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 457,
@@ -7926,7 +8838,9 @@
     "explanation": "Wimbledon spelas på gräs.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 458,
@@ -7943,7 +8857,9 @@
     "explanation": "Maratondistansen är 42,195 kilometer.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 459,
@@ -7960,7 +8876,9 @@
     "explanation": "Merkurius är solsystemets innersta planet.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 460,
@@ -7977,7 +8895,9 @@
     "explanation": "Bläckfiskar har tre hjärtan.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 461,
@@ -7994,7 +8914,9 @@
     "explanation": "Insulin produceras i bukspottkörteln.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 462,
@@ -8011,7 +8933,9 @@
     "explanation": "Hertz är enheten för frekvens.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 463,
@@ -8028,7 +8952,9 @@
     "explanation": "Huden är kroppens största organ.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 464,
@@ -8045,7 +8971,9 @@
     "explanation": "Mojito görs traditionellt med ljus rom.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 465,
@@ -8062,7 +8990,9 @@
     "explanation": "Paella kommer från Spanien.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 466,
@@ -8079,7 +9009,9 @@
     "explanation": "Hummus görs främst av kikärter.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 467,
@@ -8096,7 +9028,9 @@
     "explanation": "Metoden heter sous vide.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 468,
@@ -8113,7 +9047,9 @@
     "explanation": "Pablo Picasso målade Guernica.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 469,
@@ -8130,7 +9066,9 @@
     "explanation": "Nattvakten målades av Rembrandt.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 470,
@@ -8147,7 +9085,9 @@
     "explanation": "Färdskrivare är normalt starkt orange för att lättare hittas.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 471,
@@ -8164,7 +9104,9 @@
     "explanation": "Bokstaven Q förekommer inte i något delstatsnamn.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 472,
@@ -8181,7 +9123,9 @@
     "explanation": "Grönland är världens största ö.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 473,
@@ -8198,7 +9142,9 @@
     "explanation": "En hexagon har sex sidor.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 474,
@@ -8215,7 +9161,9 @@
     "explanation": "Mandarin har flest modersmålstalare.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 475,
@@ -8232,7 +9180,9 @@
     "explanation": "Vänern är Sveriges största sjö.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 476,
@@ -8249,7 +9199,9 @@
     "explanation": "Kebnekaise är Sveriges högsta berg.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 477,
@@ -8266,7 +9218,9 @@
     "explanation": "Luleälven mynnar vid Luleå.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 478,
@@ -8283,7 +9237,9 @@
     "explanation": "Uppsala universitet grundades 1477.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 479,
@@ -8300,7 +9256,9 @@
     "explanation": "Älgen är Jämtlands landskapsdjur.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 480,
@@ -8317,7 +9275,9 @@
     "explanation": "Göteborg har länge kallats Lilla London.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 481,
@@ -8334,7 +9294,9 @@
     "explanation": "Tyskland invaderade Polen den 1 september 1939.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 482,
@@ -8351,7 +9313,9 @@
     "explanation": "Berlinmuren öppnades den 9 november 1989.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 483,
@@ -8368,7 +9332,9 @@
     "explanation": "Napoleon kröntes till kejsare 1804.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 484,
@@ -8385,7 +9351,9 @@
     "explanation": "Pompeji begravdes av Vesuvius utbrott.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 485,
@@ -8402,7 +9370,9 @@
     "explanation": "Gustav Vasa valdes till kung 1523.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 486,
@@ -8419,7 +9389,9 @@
     "explanation": "Machu Picchu byggdes av Inkariket.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 487,
@@ -8436,7 +9408,9 @@
     "explanation": "James Cameron regisserade Titanic.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 488,
@@ -8453,7 +9427,9 @@
     "explanation": "Harry Potter studerar på Hogwarts.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 489,
@@ -8470,7 +9446,9 @@
     "explanation": "Friends utspelar sig huvudsakligen i New York.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 490,
@@ -8487,7 +9465,9 @@
     "explanation": "Ingmar Bergman regisserade filmen.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 491,
@@ -8504,7 +9484,9 @@
     "explanation": "Tom Hanks spelar Forrest Gump.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 492,
@@ -8521,7 +9503,9 @@
     "explanation": "ABBA vann Eurovision 1974.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 493,
@@ -8538,7 +9522,9 @@
     "explanation": "Michael Jackson kallades The King of Pop.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 494,
@@ -8555,7 +9541,9 @@
     "explanation": "Pink Floyd gav ut albumet 1973.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 495,
@@ -8572,7 +9560,9 @@
     "explanation": "Ett standardpiano har 88 tangenter.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 496,
@@ -8589,7 +9579,9 @@
     "explanation": "Für Elise tillskrivs Beethoven.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.95,
+    "quizType": "bredd"
   },
   {
     "id": 497,
@@ -8606,7 +9598,9 @@
     "explanation": "Ett fotbollslag startar med elva spelare.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 498,
@@ -8623,7 +9617,9 @@
     "explanation": "Symbolen består av fem ringar.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 499,
@@ -8640,7 +9636,9 @@
     "explanation": "Stanley Cup är NHL:s mästerskapspokal.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 500,
@@ -8657,7 +9655,9 @@
     "explanation": "Wimbledon spelas på gräs.",
     "tags": [
       "variant"
-    ]
+    ],
+    "pubWeight": 0.6,
+    "quizType": "bredd"
   },
   {
     "id": 501,
@@ -8674,7 +9674,9 @@
     "explanation": "I Japan används yen.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 502,
@@ -8691,7 +9693,9 @@
     "explanation": "Yen används i Japan.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 503,
@@ -8708,7 +9712,9 @@
     "explanation": "I Storbritannien används pund sterling.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 504,
@@ -8725,7 +9731,9 @@
     "explanation": "Pund sterling används i Storbritannien.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 505,
@@ -8742,7 +9750,9 @@
     "explanation": "I Schweiz används schweizerfranc.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 506,
@@ -8759,7 +9769,9 @@
     "explanation": "Schweizerfranc används i Schweiz.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 507,
@@ -8776,7 +9788,9 @@
     "explanation": "I Polen används złoty.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 508,
@@ -8793,7 +9807,9 @@
     "explanation": "Złoty används i Polen.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 509,
@@ -8810,7 +9826,9 @@
     "explanation": "I Tjeckien används tjeckisk koruna.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 510,
@@ -8827,7 +9845,9 @@
     "explanation": "Tjeckisk koruna används i Tjeckien.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 511,
@@ -8844,7 +9864,9 @@
     "explanation": "I Ungern används forint.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 512,
@@ -8861,7 +9883,9 @@
     "explanation": "Forint används i Ungern.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 513,
@@ -8878,7 +9902,9 @@
     "explanation": "I Danmark används dansk krona.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 514,
@@ -8895,7 +9921,9 @@
     "explanation": "Dansk krona används i Danmark.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 515,
@@ -8912,7 +9940,9 @@
     "explanation": "I Norge används norsk krona.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 516,
@@ -8929,7 +9959,9 @@
     "explanation": "Norsk krona används i Norge.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 517,
@@ -8946,7 +9978,9 @@
     "explanation": "I Island används isländsk krona.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 518,
@@ -8963,7 +9997,9 @@
     "explanation": "Isländsk krona används i Island.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 519,
@@ -8980,7 +10016,9 @@
     "explanation": "I USA används amerikansk dollar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 520,
@@ -8997,7 +10035,9 @@
     "explanation": "Amerikansk dollar används i USA.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 521,
@@ -9014,7 +10054,9 @@
     "explanation": "I Kanada används kanadensisk dollar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 522,
@@ -9031,7 +10073,9 @@
     "explanation": "Kanadensisk dollar används i Kanada.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 523,
@@ -9048,7 +10092,9 @@
     "explanation": "I Australien används australisk dollar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 524,
@@ -9065,7 +10111,9 @@
     "explanation": "Australisk dollar används i Australien.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 525,
@@ -9082,7 +10130,9 @@
     "explanation": "I Nya Zeeland används nyzeeländsk dollar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 526,
@@ -9099,7 +10149,9 @@
     "explanation": "Nyzeeländsk dollar används i Nya Zeeland.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 527,
@@ -9116,7 +10168,9 @@
     "explanation": "I Kina används renminbi/yuan.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 528,
@@ -9133,7 +10187,9 @@
     "explanation": "Renminbi/yuan används i Kina.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 529,
@@ -9150,7 +10206,9 @@
     "explanation": "I Indien används rupie.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 530,
@@ -9167,7 +10225,9 @@
     "explanation": "Rupie används i Indien.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 531,
@@ -9184,7 +10244,9 @@
     "explanation": "I Sydkorea används won.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 532,
@@ -9201,7 +10263,9 @@
     "explanation": "Won används i Sydkorea.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 533,
@@ -9218,7 +10282,9 @@
     "explanation": "I Thailand används baht.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 534,
@@ -9235,7 +10301,9 @@
     "explanation": "Baht används i Thailand.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 535,
@@ -9252,7 +10320,9 @@
     "explanation": "I Vietnam används dong.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 536,
@@ -9269,7 +10339,9 @@
     "explanation": "Dong används i Vietnam.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 537,
@@ -9286,7 +10358,9 @@
     "explanation": "I Indonesien används rupiah.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 538,
@@ -9303,7 +10377,9 @@
     "explanation": "Rupiah används i Indonesien.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 539,
@@ -9320,7 +10396,9 @@
     "explanation": "I Turkiet används turkisk lira.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 540,
@@ -9337,7 +10415,9 @@
     "explanation": "Turkisk lira används i Turkiet.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 541,
@@ -9354,7 +10434,9 @@
     "explanation": "I Mexiko används mexikansk peso.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 542,
@@ -9371,7 +10453,9 @@
     "explanation": "Mexikansk peso används i Mexiko.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 543,
@@ -9388,7 +10472,9 @@
     "explanation": "I Brasilien används real.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 544,
@@ -9405,7 +10491,9 @@
     "explanation": "Real används i Brasilien.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 545,
@@ -9422,7 +10510,9 @@
     "explanation": "I Argentina används argentinsk peso.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 546,
@@ -9439,7 +10529,9 @@
     "explanation": "Argentinsk peso används i Argentina.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 547,
@@ -9456,7 +10548,9 @@
     "explanation": "I Sydafrika används rand.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 548,
@@ -9473,7 +10567,9 @@
     "explanation": "Rand används i Sydafrika.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 549,
@@ -9490,7 +10586,9 @@
     "explanation": "I Egypten används egyptiskt pund.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 550,
@@ -9507,7 +10605,9 @@
     "explanation": "Egyptiskt pund används i Egypten.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 551,
@@ -9524,7 +10624,9 @@
     "explanation": "I Marocko används dirham.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 552,
@@ -9541,7 +10643,9 @@
     "explanation": "Dirham används i Marocko.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 553,
@@ -9558,7 +10662,9 @@
     "explanation": "I Saudiarabien används riyal.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 554,
@@ -9575,7 +10681,9 @@
     "explanation": "Riyal används i Saudiarabien.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 555,
@@ -9592,7 +10700,9 @@
     "explanation": "I Förenade arabemiraten används dirham.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 556,
@@ -9609,7 +10719,9 @@
     "explanation": "I Israel används shekel.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 557,
@@ -9626,7 +10738,9 @@
     "explanation": "Shekel används i Israel.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 558,
@@ -9643,7 +10757,9 @@
     "explanation": "I Rumänien används leu.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 559,
@@ -9660,7 +10776,9 @@
     "explanation": "Leu används i Rumänien.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 560,
@@ -9677,7 +10795,9 @@
     "explanation": "I Bulgarien används lev.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 561,
@@ -9694,7 +10814,9 @@
     "explanation": "Lev används i Bulgarien.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 562,
@@ -9711,7 +10833,9 @@
     "explanation": "I Serbien används dinar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 563,
@@ -9728,7 +10852,9 @@
     "explanation": "Dinar används i Serbien.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 564,
@@ -9745,7 +10871,9 @@
     "explanation": "I Kroatien används euro.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 565,
@@ -9762,7 +10890,9 @@
     "explanation": "Euro används i Kroatien.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 566,
@@ -9779,7 +10909,9 @@
     "explanation": "I Sverige används svensk krona.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 567,
@@ -9796,7 +10928,9 @@
     "explanation": "Svensk krona används i Sverige.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 568,
@@ -9813,7 +10947,9 @@
     "explanation": "I Singapore används singaporiansk dollar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 569,
@@ -9830,7 +10966,9 @@
     "explanation": "Singaporiansk dollar används i Singapore.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 570,
@@ -9848,7 +10986,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 571,
@@ -9866,7 +11006,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 572,
@@ -9884,7 +11026,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 573,
@@ -9902,7 +11046,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 574,
@@ -9920,7 +11066,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 575,
@@ -9938,7 +11086,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 576,
@@ -9956,7 +11106,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 577,
@@ -9974,7 +11126,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 578,
@@ -9992,7 +11146,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 579,
@@ -10010,7 +11166,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 580,
@@ -10028,7 +11186,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 581,
@@ -10046,7 +11206,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 582,
@@ -10064,7 +11226,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 583,
@@ -10082,7 +11246,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 584,
@@ -10100,7 +11266,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 585,
@@ -10118,7 +11286,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 586,
@@ -10136,7 +11306,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 587,
@@ -10154,7 +11326,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 588,
@@ -10172,7 +11346,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 589,
@@ -10190,7 +11366,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 590,
@@ -10208,7 +11386,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 591,
@@ -10226,7 +11406,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 592,
@@ -10244,7 +11426,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 593,
@@ -10262,7 +11446,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 594,
@@ -10280,7 +11466,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 595,
@@ -10298,7 +11486,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 596,
@@ -10316,7 +11506,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 597,
@@ -10334,7 +11526,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 598,
@@ -10352,7 +11546,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 599,
@@ -10370,7 +11566,9 @@
     "tags": [
       "språk",
       "länder"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "fördjupning"
   },
   {
     "id": 600,
@@ -10387,7 +11585,9 @@
     "explanation": "Zeus förknippas främst med himmel och åska.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 601,
@@ -10404,7 +11604,9 @@
     "explanation": "Zeus förknippas främst med himmel och åska.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 602,
@@ -10421,7 +11623,9 @@
     "explanation": "Poseidon förknippas främst med havet.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 603,
@@ -10438,7 +11642,9 @@
     "explanation": "Poseidon förknippas främst med havet.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 604,
@@ -10455,7 +11661,9 @@
     "explanation": "Hades förknippas främst med underjorden.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 605,
@@ -10472,7 +11680,9 @@
     "explanation": "Hades förknippas främst med underjorden.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 606,
@@ -10489,7 +11699,9 @@
     "explanation": "Athena förknippas främst med vishet och strategisk krigföring.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 607,
@@ -10506,7 +11718,9 @@
     "explanation": "Athena förknippas främst med vishet och strategisk krigföring.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 608,
@@ -10523,7 +11737,9 @@
     "explanation": "Ares förknippas främst med krig.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 609,
@@ -10540,7 +11756,9 @@
     "explanation": "Ares förknippas främst med krig.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 610,
@@ -10557,7 +11775,9 @@
     "explanation": "Afrodite förknippas främst med kärlek och skönhet.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 611,
@@ -10574,7 +11794,9 @@
     "explanation": "Afrodite förknippas främst med kärlek och skönhet.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 612,
@@ -10591,7 +11813,9 @@
     "explanation": "Artemis förknippas främst med jakt.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 613,
@@ -10608,7 +11832,9 @@
     "explanation": "Artemis förknippas främst med jakt.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 614,
@@ -10625,7 +11851,9 @@
     "explanation": "Apollon förknippas främst med sol, musik och profetia.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 615,
@@ -10642,7 +11870,9 @@
     "explanation": "Apollon förknippas främst med sol, musik och profetia.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 616,
@@ -10659,7 +11889,9 @@
     "explanation": "Hermes förknippas främst med budbärare och handel.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 617,
@@ -10676,7 +11908,9 @@
     "explanation": "Hermes förknippas främst med budbärare och handel.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 618,
@@ -10693,7 +11927,9 @@
     "explanation": "Hera förknippas främst med äktenskap.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 619,
@@ -10710,7 +11946,9 @@
     "explanation": "Hera förknippas främst med äktenskap.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 620,
@@ -10727,7 +11965,9 @@
     "explanation": "Demeter förknippas främst med jordbruk.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 621,
@@ -10744,7 +11984,9 @@
     "explanation": "Demeter förknippas främst med jordbruk.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 622,
@@ -10761,7 +12003,9 @@
     "explanation": "Dionysos förknippas främst med vin och extas.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 623,
@@ -10778,7 +12022,9 @@
     "explanation": "Dionysos förknippas främst med vin och extas.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 624,
@@ -10795,7 +12041,9 @@
     "explanation": "Oden förknippas främst med vishet och krig.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 625,
@@ -10812,7 +12060,9 @@
     "explanation": "Oden förknippas främst med vishet och krig.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 626,
@@ -10829,7 +12079,9 @@
     "explanation": "Tor förknippas främst med åska.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 627,
@@ -10846,7 +12098,9 @@
     "explanation": "Tor förknippas främst med åska.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 628,
@@ -10863,7 +12117,9 @@
     "explanation": "Freja förknippas främst med kärlek och fruktbarhet.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 629,
@@ -10880,7 +12136,9 @@
     "explanation": "Freja förknippas främst med kärlek och fruktbarhet.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 630,
@@ -10897,7 +12155,9 @@
     "explanation": "Loke förknippas främst med list och kaos.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 631,
@@ -10914,7 +12174,9 @@
     "explanation": "Loke förknippas främst med list och kaos.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 632,
@@ -10931,7 +12193,9 @@
     "explanation": "Balder förknippas främst med ljus och renhet.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 633,
@@ -10948,7 +12212,9 @@
     "explanation": "Balder förknippas främst med ljus och renhet.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 634,
@@ -10965,7 +12231,9 @@
     "explanation": "Tyr förknippas främst med rätt och strid.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 635,
@@ -10982,7 +12250,9 @@
     "explanation": "Tyr förknippas främst med rätt och strid.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 636,
@@ -10999,7 +12269,9 @@
     "explanation": "Njord förknippas främst med hav och sjöfart.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 637,
@@ -11016,7 +12288,9 @@
     "explanation": "Njord förknippas främst med hav och sjöfart.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 638,
@@ -11033,7 +12307,9 @@
     "explanation": "Hel förknippas främst med dödsriket.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 639,
@@ -11050,7 +12326,9 @@
     "explanation": "Hel förknippas främst med dödsriket.",
     "tags": [
       "mytologi"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 640,
@@ -11068,7 +12346,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 641,
@@ -11086,7 +12366,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 642,
@@ -11104,7 +12386,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 643,
@@ -11122,7 +12406,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 644,
@@ -11140,7 +12426,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 645,
@@ -11158,7 +12446,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 646,
@@ -11176,7 +12466,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 647,
@@ -11194,7 +12486,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 648,
@@ -11212,7 +12506,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 649,
@@ -11230,7 +12526,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 650,
@@ -11248,7 +12546,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 651,
@@ -11266,7 +12566,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 652,
@@ -11284,7 +12586,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 653,
@@ -11302,7 +12606,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 654,
@@ -11320,7 +12626,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 655,
@@ -11338,7 +12646,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 656,
@@ -11356,7 +12666,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 657,
@@ -11374,7 +12686,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 658,
@@ -11392,7 +12706,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 659,
@@ -11410,7 +12726,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 660,
@@ -11428,7 +12746,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 661,
@@ -11446,7 +12766,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 662,
@@ -11464,7 +12786,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 663,
@@ -11482,7 +12806,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 664,
@@ -11500,7 +12826,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 665,
@@ -11518,7 +12846,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 666,
@@ -11536,7 +12866,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 667,
@@ -11554,7 +12886,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 668,
@@ -11572,7 +12906,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 669,
@@ -11590,7 +12926,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 670,
@@ -11608,7 +12946,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 671,
@@ -11626,7 +12966,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 672,
@@ -11644,7 +12986,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 673,
@@ -11662,7 +13006,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 674,
@@ -11680,7 +13026,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 675,
@@ -11698,7 +13046,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 676,
@@ -11716,7 +13066,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 677,
@@ -11734,7 +13086,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 678,
@@ -11752,7 +13106,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 679,
@@ -11770,7 +13126,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 680,
@@ -11788,7 +13146,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 681,
@@ -11806,7 +13166,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 682,
@@ -11824,7 +13186,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 683,
@@ -11842,7 +13206,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 684,
@@ -11860,7 +13226,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 685,
@@ -11878,7 +13246,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 686,
@@ -11896,7 +13266,9 @@
     "tags": [
       "konst",
       "målningar"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 687,
@@ -11914,7 +13286,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 688,
@@ -11932,7 +13306,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 689,
@@ -11950,7 +13326,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 690,
@@ -11968,7 +13346,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 691,
@@ -11986,7 +13366,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 692,
@@ -12004,7 +13386,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 693,
@@ -12022,7 +13406,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 694,
@@ -12040,7 +13426,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 695,
@@ -12058,7 +13446,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 696,
@@ -12076,7 +13466,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 697,
@@ -12094,7 +13486,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 698,
@@ -12112,7 +13506,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 699,
@@ -12130,7 +13526,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 700,
@@ -12148,7 +13546,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 701,
@@ -12166,7 +13566,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 702,
@@ -12184,7 +13586,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 703,
@@ -12202,7 +13606,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 704,
@@ -12220,7 +13626,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 705,
@@ -12238,7 +13646,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 706,
@@ -12256,7 +13666,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 707,
@@ -12274,7 +13686,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 708,
@@ -12292,7 +13706,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 709,
@@ -12310,7 +13726,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 710,
@@ -12328,7 +13746,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 711,
@@ -12346,7 +13766,9 @@
     "tags": [
       "uppfinningar",
       "vetenskapshistoria"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 712,
@@ -12363,7 +13785,9 @@
     "explanation": "Lårbenet kallas femur.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 713,
@@ -12380,7 +13804,9 @@
     "explanation": "Överarmsbenet kallas humerus.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 714,
@@ -12397,7 +13823,9 @@
     "explanation": "Skulderbladet kallas scapula.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 715,
@@ -12414,7 +13842,9 @@
     "explanation": "Nyckelbenet kallas clavicula.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 716,
@@ -12431,7 +13861,9 @@
     "explanation": "Knäskålen kallas patella.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 717,
@@ -12448,7 +13880,9 @@
     "explanation": "Strålbenet kallas radius.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 718,
@@ -12465,7 +13899,9 @@
     "explanation": "Armbågsbenet kallas ulna.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 719,
@@ -12482,7 +13918,9 @@
     "explanation": "Vadbenet kallas fibula.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 720,
@@ -12499,7 +13937,9 @@
     "explanation": "Skenbenet kallas tibia.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 721,
@@ -12516,7 +13956,9 @@
     "explanation": "Bröstbenet kallas sternum.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 722,
@@ -12533,7 +13975,9 @@
     "explanation": "Korsbenet kallas sacrum.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 723,
@@ -12550,7 +13994,9 @@
     "explanation": "Underkäken kallas mandibula.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 724,
@@ -12567,7 +14013,9 @@
     "explanation": "Hjärtmuskeln kallas myokardiet.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 725,
@@ -12584,7 +14032,9 @@
     "explanation": "Hjärnans största del kallas storhjärnan.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 726,
@@ -12601,7 +14051,9 @@
     "explanation": "Lungblåsorna kallas alveoler.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 727,
@@ -12618,7 +14070,9 @@
     "explanation": "Röstapparaten kallas larynx.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 728,
@@ -12635,7 +14089,9 @@
     "explanation": "Matstrupen kallas esofagus.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 729,
@@ -12652,7 +14108,9 @@
     "explanation": "Luftstrupen kallas trachea.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 730,
@@ -12669,7 +14127,9 @@
     "explanation": "Tjocktarmen kallas colon.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 731,
@@ -12686,7 +14146,9 @@
     "explanation": "Tunntarmens första del kallas duodenum.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 732,
@@ -12703,7 +14165,9 @@
     "explanation": "Kroppens största artär kallas aorta.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 733,
@@ -12720,7 +14184,9 @@
     "explanation": "Kroppens största ven kallas vena cava.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 734,
@@ -12737,7 +14203,9 @@
     "explanation": "Örats hörselsnäcka kallas cochlea.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 735,
@@ -12754,7 +14222,9 @@
     "explanation": "Regnbågshinnan kallas iris.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 736,
@@ -12771,7 +14241,9 @@
     "explanation": "Ögats lins kallas lens crystallina.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 737,
@@ -12788,7 +14260,9 @@
     "explanation": "Jupiter är solsystemets största planet.",
     "tags": [
       "rymden"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 738,
@@ -12805,7 +14279,9 @@
     "explanation": "Mars kallas den röda planeten på grund av järnoxid på ytan.",
     "tags": [
       "rymden"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 739,
@@ -12822,7 +14298,9 @@
     "explanation": "Saturnus är känd för sitt stora ringsystem.",
     "tags": [
       "rymden"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 740,
@@ -12839,7 +14317,9 @@
     "explanation": "Solsystemet ligger i Vintergatan.",
     "tags": [
       "rymden"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 741,
@@ -12856,7 +14336,9 @@
     "explanation": "En supernova är en mycket kraftig stjärnexplosion.",
     "tags": [
       "rymden"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 742,
@@ -12873,7 +14355,9 @@
     "explanation": "Solen frigör energi genom fusion av väte till helium.",
     "tags": [
       "rymden"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 743,
@@ -12890,7 +14374,9 @@
     "explanation": "Perihelium är punkten närmast solen.",
     "tags": [
       "rymden"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 744,
@@ -12907,7 +14393,9 @@
     "explanation": "Aphelium är punkten längst från solen.",
     "tags": [
       "rymden"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 745,
@@ -12924,7 +14412,9 @@
     "explanation": "Neptunus tar cirka 165 jordår på sig runt solen.",
     "tags": [
       "rymden"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 746,
@@ -12941,7 +14431,9 @@
     "explanation": "Uranus rotationsaxel lutar ungefär 98 grader.",
     "tags": [
       "rymden"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 747,
@@ -12958,7 +14450,9 @@
     "explanation": "En ishockeymatch spelas i tre perioder.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 748,
@@ -12975,7 +14469,9 @@
     "explanation": "Herrarnas Grand Slam-matcher spelas bäst av fem set.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 749,
@@ -12992,7 +14488,9 @@
     "explanation": "En standardrunda i golf har 18 hål.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 750,
@@ -13009,7 +14507,9 @@
     "explanation": "Foil är en typ av fäktvapen.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 751,
@@ -13026,7 +14526,9 @@
     "explanation": "Scrum är en fast situation i rugby.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 752,
@@ -13043,7 +14545,9 @@
     "explanation": "Ett handbollslag har sju spelare inklusive målvakt.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 753,
@@ -13060,7 +14564,9 @@
     "explanation": "Ett volleybollag har sex spelare på planen.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 754,
@@ -13077,7 +14583,9 @@
     "explanation": "Albatross är tre slag under par på ett hål.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 755,
@@ -13094,7 +14602,9 @@
     "explanation": "Det klassiska hinderloppet är 3000 meter.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 756,
@@ -13111,7 +14621,9 @@
     "explanation": "Davis Cup är en lagtävling i tennis.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 757,
@@ -13128,7 +14640,9 @@
     "explanation": "Wicket är ett centralt begrepp i cricket.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 758,
@@ -13145,7 +14659,9 @@
     "explanation": "Ett lyckat frikast ger en poäng.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 759,
@@ -13162,7 +14678,9 @@
     "explanation": "Totalledaren bär den gula tröjan.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 760,
@@ -13179,7 +14697,9 @@
     "explanation": "Totalledaren bär den rosa tröjan.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 761,
@@ -13196,7 +14716,9 @@
     "explanation": "En try ger fem poäng i rugby union.",
     "tags": [
       "sportregler"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 762,
@@ -13213,7 +14735,9 @@
     "explanation": "Thriller gavs ut av Michael Jackson.",
     "tags": [
       "populärkultur"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 763,
@@ -13230,7 +14754,9 @@
     "explanation": "Bohemian Rhapsody är en låt av Queen.",
     "tags": [
       "populärkultur"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 764,
@@ -13247,7 +14773,9 @@
     "explanation": "Marie Fredriksson och Per Gessle bildade Roxette.",
     "tags": [
       "populärkultur"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 765,
@@ -13264,7 +14792,9 @@
     "explanation": "Nevermind gavs ut av Nirvana 1991.",
     "tags": [
       "populärkultur"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 766,
@@ -13281,7 +14811,9 @@
     "explanation": "Bruce Springsteen kallas The Boss.",
     "tags": [
       "populärkultur"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 767,
@@ -13298,7 +14830,9 @@
     "explanation": "Indiana Jones är huvudfigur i filmserien med samma namn.",
     "tags": [
       "populärkultur"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 768,
@@ -13315,7 +14849,9 @@
     "explanation": "Hajen regisserades av Steven Spielberg.",
     "tags": [
       "populärkultur"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 769,
@@ -13332,7 +14868,9 @@
     "explanation": "Russell Crowe spelade Maximus.",
     "tags": [
       "populärkultur"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 770,
@@ -13349,7 +14887,9 @@
     "explanation": "Vännerna träffas ofta på Central Perk.",
     "tags": [
       "populärkultur"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 771,
@@ -13366,7 +14906,9 @@
     "explanation": "Peaky Blinders följer familjen Shelby.",
     "tags": [
       "populärkultur"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 772,
@@ -13383,7 +14925,9 @@
     "explanation": "Tiramisu görs traditionellt med mascarpone.",
     "tags": [
       "matklassiker"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 773,
@@ -13400,7 +14944,9 @@
     "explanation": "Miso är en fermenterad pasta, oftast baserad på sojabönor.",
     "tags": [
       "matklassiker"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 774,
@@ -13417,7 +14963,9 @@
     "explanation": "Pesto genovese görs traditionellt med pinjenötter.",
     "tags": [
       "matklassiker"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 775,
@@ -13434,7 +14982,9 @@
     "explanation": "Negroni görs med gin, Campari och söt vermouth.",
     "tags": [
       "matklassiker"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 776,
@@ -13451,7 +15001,9 @@
     "explanation": "Dragon är den klassiska örten i béarnaise.",
     "tags": [
       "matklassiker"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 777,
@@ -13468,7 +15020,9 @@
     "explanation": "Kimchi är en koreansk fermenterad grönsaksrätt.",
     "tags": [
       "matklassiker"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 778,
@@ -13485,7 +15039,9 @@
     "explanation": "Polenta görs av majsgryn.",
     "tags": [
       "matklassiker"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 779,
@@ -13502,7 +15058,9 @@
     "explanation": "Margarita görs med tequila, lime och apelsinlikör.",
     "tags": [
       "matklassiker"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 780,
@@ -13519,7 +15077,9 @@
     "explanation": "Manchego är en spansk fårost.",
     "tags": [
       "matklassiker"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 781,
@@ -13536,7 +15096,9 @@
     "explanation": "Al dente beskriver pasta med visst tuggmotstånd.",
     "tags": [
       "matklassiker"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 782,
@@ -13553,7 +15115,9 @@
     "explanation": "Stilla havet är världens största ocean.",
     "tags": [
       "geografiklassiker"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 783,
@@ -13570,7 +15134,9 @@
     "explanation": "Bajkalsjön är världens djupaste sjö.",
     "tags": [
       "geografiklassiker"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 784,
@@ -13587,7 +15153,9 @@
     "explanation": "Seine rinner genom Paris.",
     "tags": [
       "geografiklassiker"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 785,
@@ -13604,7 +15172,9 @@
     "explanation": "Themsen rinner genom London.",
     "tags": [
       "geografiklassiker"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 786,
@@ -13621,7 +15191,9 @@
     "explanation": "Tibern rinner genom Rom.",
     "tags": [
       "geografiklassiker"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 787,
@@ -13638,7 +15210,9 @@
     "explanation": "Pyrenéerna ligger mellan Frankrike och Spanien.",
     "tags": [
       "geografiklassiker"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 788,
@@ -13655,7 +15229,9 @@
     "explanation": "Sicilien är Medelhavets största ö.",
     "tags": [
       "geografiklassiker"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 789,
@@ -13672,7 +15248,9 @@
     "explanation": "Kanada har världens längsta kustlinje.",
     "tags": [
       "geografiklassiker"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 790,
@@ -13689,7 +15267,9 @@
     "explanation": "Nilen är Afrikas längsta flod.",
     "tags": [
       "geografiklassiker"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 791,
@@ -13706,7 +15286,9 @@
     "explanation": "Kilimanjaro är Afrikas högsta berg.",
     "tags": [
       "geografiklassiker"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 792,
@@ -13723,7 +15305,9 @@
     "explanation": "USA:s självständighetsförklaring antogs 1776.",
     "tags": [
       "årtal"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 793,
@@ -13740,7 +15324,9 @@
     "explanation": "Första världskriget slutade 1918.",
     "tags": [
       "årtal"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 794,
@@ -13757,7 +15343,9 @@
     "explanation": "Apollo 11 landade på månen 1969.",
     "tags": [
       "årtal"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 795,
@@ -13774,7 +15362,9 @@
     "explanation": "Sovjetunionen upplöstes 1991.",
     "tags": [
       "årtal"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 796,
@@ -13791,7 +15381,9 @@
     "explanation": "Slaget vid Hastings ägde rum 1066.",
     "tags": [
       "årtal"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 797,
@@ -13808,7 +15400,9 @@
     "explanation": "Trettioåriga kriget började 1618.",
     "tags": [
       "årtal"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 798,
@@ -13825,7 +15419,9 @@
     "explanation": "Westfaliska freden slöts 1648.",
     "tags": [
       "årtal"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 799,
@@ -13842,7 +15438,9 @@
     "explanation": "Wienkongressen avslutades 1815.",
     "tags": [
       "årtal"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 800,
@@ -13859,7 +15457,9 @@
     "explanation": "Tyska riket utropades 1871.",
     "tags": [
       "årtal"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 801,
@@ -13876,7 +15476,9 @@
     "explanation": "Titanic sjönk 1912.",
     "tags": [
       "årtal"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 802,
@@ -13893,7 +15495,9 @@
     "explanation": "Sverige har huvudstaden Stockholm.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 803,
@@ -13910,7 +15514,9 @@
     "explanation": "Norge har huvudstaden Oslo.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 804,
@@ -13927,7 +15533,9 @@
     "explanation": "Danmark har huvudstaden Köpenhamn.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 805,
@@ -13944,7 +15552,9 @@
     "explanation": "Finland har huvudstaden Helsingfors.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 806,
@@ -13961,7 +15571,9 @@
     "explanation": "Frankrike har huvudstaden Paris.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 807,
@@ -13978,7 +15590,9 @@
     "explanation": "Italien har huvudstaden Rom.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 808,
@@ -13995,7 +15609,9 @@
     "explanation": "Spanien har huvudstaden Madrid.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 809,
@@ -14012,7 +15628,9 @@
     "explanation": "Portugal har huvudstaden Lissabon.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 810,
@@ -14029,7 +15647,9 @@
     "explanation": "Tyskland har huvudstaden Berlin.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 811,
@@ -14046,7 +15666,9 @@
     "explanation": "Polen har huvudstaden Warszawa.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 812,
@@ -14063,7 +15685,9 @@
     "explanation": "Grekland har huvudstaden Aten.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 813,
@@ -14080,7 +15704,9 @@
     "explanation": "Turkiet har huvudstaden Ankara.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 814,
@@ -14097,7 +15723,9 @@
     "explanation": "Japan har huvudstaden Tokyo.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 815,
@@ -14114,7 +15742,9 @@
     "explanation": "Indien har huvudstaden New Delhi.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 816,
@@ -14131,7 +15761,9 @@
     "explanation": "Kanada har huvudstaden Ottawa.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 817,
@@ -14148,7 +15780,9 @@
     "explanation": "Australien har huvudstaden Canberra.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 818,
@@ -14165,7 +15799,9 @@
     "explanation": "Brasilien har huvudstaden Brasília.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 819,
@@ -14182,7 +15818,9 @@
     "explanation": "Argentina har huvudstaden Buenos Aires.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 820,
@@ -14199,7 +15837,9 @@
     "explanation": "Egypten har huvudstaden Kairo.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 821,
@@ -14216,7 +15856,9 @@
     "explanation": "Kenya har huvudstaden Nairobi.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 822,
@@ -14233,7 +15875,9 @@
     "explanation": "Thailand har huvudstaden Bangkok.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 823,
@@ -14250,7 +15894,9 @@
     "explanation": "Vietnam har huvudstaden Hanoi.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 824,
@@ -14267,7 +15913,9 @@
     "explanation": "Peru har huvudstaden Lima.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 825,
@@ -14284,7 +15932,9 @@
     "explanation": "Chile har huvudstaden Santiago.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 826,
@@ -14301,7 +15951,9 @@
     "explanation": "Island har huvudstaden Reykjavík.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 827,
@@ -14318,7 +15970,9 @@
     "explanation": "Irland har huvudstaden Dublin.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 828,
@@ -14335,7 +15989,9 @@
     "explanation": "Ungern har huvudstaden Budapest.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 829,
@@ -14352,7 +16008,9 @@
     "explanation": "Tjeckien har huvudstaden Prag.",
     "tags": [
       "huvudstäder"
-    ]
+    ],
+    "pubWeight": 3.2,
+    "quizType": "klassiker"
   },
   {
     "id": 830,
@@ -14369,7 +16027,9 @@
     "explanation": "Elektronen har negativ laddning.",
     "tags": [
       "grundvetenskap"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 831,
@@ -14386,7 +16046,9 @@
     "explanation": "Protonen har positiv laddning.",
     "tags": [
       "grundvetenskap"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 832,
@@ -14403,7 +16065,9 @@
     "explanation": "Elektrisk ström mäts i ampere.",
     "tags": [
       "grundvetenskap"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 833,
@@ -14420,7 +16084,9 @@
     "explanation": "Resistans mäts i ohm.",
     "tags": [
       "grundvetenskap"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 834,
@@ -14437,7 +16103,9 @@
     "explanation": "Effekt mäts i watt.",
     "tags": [
       "grundvetenskap"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 835,
@@ -14454,7 +16122,9 @@
     "explanation": "Kraft mäts i newton.",
     "tags": [
       "grundvetenskap"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 836,
@@ -14471,7 +16141,9 @@
     "explanation": "Tryck mäts i pascal.",
     "tags": [
       "grundvetenskap"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 837,
@@ -14488,7 +16160,9 @@
     "explanation": "Direkt övergång från fast form till gas kallas sublimering.",
     "tags": [
       "grundvetenskap"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 838,
@@ -14505,7 +16179,9 @@
     "explanation": "Gas som blir vätska kondenserar.",
     "tags": [
       "grundvetenskap"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 839,
@@ -14522,7 +16198,9 @@
     "explanation": "Neutralt pH är 7.",
     "tags": [
       "grundvetenskap"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 840,
@@ -14539,7 +16217,9 @@
     "explanation": "Japan använder yen.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 841,
@@ -14556,7 +16236,9 @@
     "explanation": "Storbritannien använder pund sterling.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 842,
@@ -14573,7 +16255,9 @@
     "explanation": "Schweiz använder schweizerfranc.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 843,
@@ -14590,7 +16274,9 @@
     "explanation": "Polen använder złoty.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 844,
@@ -14607,7 +16293,9 @@
     "explanation": "Tjeckien använder tjeckisk koruna.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 845,
@@ -14624,7 +16312,9 @@
     "explanation": "Ungern använder forint.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 846,
@@ -14641,7 +16331,9 @@
     "explanation": "Danmark använder dansk krona.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 847,
@@ -14658,7 +16350,9 @@
     "explanation": "Norge använder norsk krona.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 848,
@@ -14675,7 +16369,9 @@
     "explanation": "Island använder isländsk krona.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 849,
@@ -14692,7 +16388,9 @@
     "explanation": "USA använder amerikansk dollar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 850,
@@ -14709,7 +16407,9 @@
     "explanation": "Kanada använder kanadensisk dollar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 851,
@@ -14726,7 +16426,9 @@
     "explanation": "Australien använder australisk dollar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 852,
@@ -14743,7 +16445,9 @@
     "explanation": "Nya Zeeland använder nyzeeländsk dollar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 853,
@@ -14760,7 +16464,9 @@
     "explanation": "Kina använder renminbi/yuan.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 854,
@@ -14777,7 +16483,9 @@
     "explanation": "Indien använder rupie.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 855,
@@ -14794,7 +16502,9 @@
     "explanation": "Sydkorea använder won.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 856,
@@ -14811,7 +16521,9 @@
     "explanation": "Thailand använder baht.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 857,
@@ -14828,7 +16540,9 @@
     "explanation": "Vietnam använder dong.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 858,
@@ -14845,7 +16559,9 @@
     "explanation": "Indonesien använder rupiah.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 859,
@@ -14862,7 +16578,9 @@
     "explanation": "Turkiet använder turkisk lira.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 860,
@@ -14879,7 +16597,9 @@
     "explanation": "Mexiko använder mexikansk peso.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 861,
@@ -14896,7 +16616,9 @@
     "explanation": "Brasilien använder real.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 862,
@@ -14913,7 +16635,9 @@
     "explanation": "Argentina använder argentinsk peso.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 863,
@@ -14930,7 +16654,9 @@
     "explanation": "Egypten använder egyptiskt pund.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 864,
@@ -14947,7 +16673,9 @@
     "explanation": "Marocko använder dirham.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 865,
@@ -14964,7 +16692,9 @@
     "explanation": "Saudiarabien använder riyal.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 866,
@@ -14981,7 +16711,9 @@
     "explanation": "Förenade arabemiraten använder dirham.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 867,
@@ -14998,7 +16730,9 @@
     "explanation": "Israel använder shekel.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 868,
@@ -15015,7 +16749,9 @@
     "explanation": "Rumänien använder leu.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 869,
@@ -15032,7 +16768,9 @@
     "explanation": "Bulgarien använder lev.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 870,
@@ -15049,7 +16787,9 @@
     "explanation": "Serbien använder dinar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 871,
@@ -15066,7 +16806,9 @@
     "explanation": "Kroatien använder euro.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 872,
@@ -15083,7 +16825,9 @@
     "explanation": "Sverige använder svensk krona.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 873,
@@ -15100,7 +16844,9 @@
     "explanation": "Singapore använder singaporiansk dollar.",
     "tags": [
       "valutor"
-    ]
+    ],
+    "pubWeight": 2.95,
+    "quizType": "klassiker"
   },
   {
     "id": 874,
@@ -15117,7 +16863,9 @@
     "explanation": "Mona Lisa målades av Leonardo da Vinci.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 875,
@@ -15134,7 +16882,9 @@
     "explanation": "Skriet målades av Edvard Munch.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 876,
@@ -15151,7 +16901,9 @@
     "explanation": "Stjärnenatt målades av Vincent van Gogh.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 877,
@@ -15168,7 +16920,9 @@
     "explanation": "Flicka med pärlörhänge målades av Johannes Vermeer.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 878,
@@ -15185,7 +16939,9 @@
     "explanation": "Venus födelse målades av Sandro Botticelli.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 879,
@@ -15202,7 +16958,9 @@
     "explanation": "Minnets envishet målades av Salvador Dalí.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 880,
@@ -15219,7 +16977,9 @@
     "explanation": "Las Meninas målades av Diego Velázquez.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 881,
@@ -15236,7 +16996,9 @@
     "explanation": "Kyssen målades av Gustav Klimt.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 882,
@@ -15253,7 +17015,9 @@
     "explanation": "Amerikansk gotik målades av Grant Wood.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 883,
@@ -15270,7 +17034,9 @@
     "explanation": "Friheten på barrikaderna målades av Eugène Delacroix.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 884,
@@ -15287,7 +17053,9 @@
     "explanation": "Näckrosor målades av Claude Monet.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 885,
@@ -15304,7 +17072,9 @@
     "explanation": "Solrosor målades av Vincent van Gogh.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 886,
@@ -15321,7 +17091,9 @@
     "explanation": "Adam skapelse målades av Michelangelo.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 887,
@@ -15338,7 +17110,9 @@
     "explanation": "Olympia målades av Édouard Manet.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 888,
@@ -15355,7 +17129,9 @@
     "explanation": "Nattcaféet målades av Vincent van Gogh.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 889,
@@ -15372,7 +17148,9 @@
     "explanation": "Guernica målades av Pablo Picasso.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 890,
@@ -15389,7 +17167,9 @@
     "explanation": "Nattvakten målades av Rembrandt.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 891,
@@ -15406,7 +17186,9 @@
     "explanation": "Campbells soppburkar målades av Andy Warhol.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 892,
@@ -15423,7 +17205,9 @@
     "explanation": "The Son of Man målades av René Magritte.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 893,
@@ -15440,7 +17224,9 @@
     "explanation": "Bal du moulin de la Galette målades av Pierre-Auguste Renoir.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 894,
@@ -15457,7 +17243,9 @@
     "explanation": "Las dos Fridas målades av Frida Kahlo.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 895,
@@ -15474,7 +17262,9 @@
     "explanation": "Vandraren över dimhavet målades av Caspar David Friedrich.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 896,
@@ -15491,7 +17281,9 @@
     "explanation": "Primavera målades av Sandro Botticelli.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 897,
@@ -15508,7 +17300,9 @@
     "explanation": "Saturnus slukar sin son målades av Francisco Goya.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 898,
@@ -15525,7 +17319,9 @@
     "explanation": "The Hay Wain målades av John Constable.",
     "tags": [
       "konst"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 899,
@@ -15542,7 +17338,9 @@
     "explanation": "femur betyder lårbenet.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 900,
@@ -15559,7 +17357,9 @@
     "explanation": "humerus betyder överarmsbenet.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 901,
@@ -15576,7 +17376,9 @@
     "explanation": "scapula betyder skulderbladet.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 902,
@@ -15593,7 +17395,9 @@
     "explanation": "clavicula betyder nyckelbenet.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 903,
@@ -15610,7 +17414,9 @@
     "explanation": "patella betyder knäskålen.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 904,
@@ -15627,7 +17433,9 @@
     "explanation": "radius betyder strålbenet.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 905,
@@ -15644,7 +17452,9 @@
     "explanation": "ulna betyder armbågsbenet.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 906,
@@ -15661,7 +17471,9 @@
     "explanation": "fibula betyder vadbenet.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 907,
@@ -15678,7 +17490,9 @@
     "explanation": "tibia betyder skenbenet.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 908,
@@ -15695,7 +17509,9 @@
     "explanation": "sternum betyder bröstbenet.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 909,
@@ -15712,7 +17528,9 @@
     "explanation": "sacrum betyder korsbenet.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 910,
@@ -15729,7 +17547,9 @@
     "explanation": "mandibula betyder underkäken.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 911,
@@ -15746,7 +17566,9 @@
     "explanation": "myokardiet betyder hjärtmuskeln.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 912,
@@ -15763,7 +17585,9 @@
     "explanation": "storhjärnan betyder hjärnans största del.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 913,
@@ -15780,7 +17604,9 @@
     "explanation": "alveoler betyder lungblåsorna.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 914,
@@ -15797,7 +17623,9 @@
     "explanation": "larynx betyder röstapparaten.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 915,
@@ -15814,7 +17642,9 @@
     "explanation": "esofagus betyder matstrupen.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 916,
@@ -15831,7 +17661,9 @@
     "explanation": "trachea betyder luftstrupen.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 917,
@@ -15848,7 +17680,9 @@
     "explanation": "colon betyder tjocktarmen.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 918,
@@ -15865,7 +17699,9 @@
     "explanation": "duodenum betyder tunntarmens första del.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 919,
@@ -15882,7 +17718,9 @@
     "explanation": "aorta betyder kroppens största artär.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 920,
@@ -15899,7 +17737,9 @@
     "explanation": "vena cava betyder kroppens största ven.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 921,
@@ -15916,7 +17756,9 @@
     "explanation": "cochlea betyder örats hörselsnäcka.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 922,
@@ -15933,7 +17775,9 @@
     "explanation": "iris betyder regnbågshinnan.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 923,
@@ -15950,7 +17794,9 @@
     "explanation": "lens crystallina betyder ögats lins.",
     "tags": [
       "anatomi"
-    ]
+    ],
+    "pubWeight": 1.45,
+    "quizType": "bredd"
   },
   {
     "id": 924,
@@ -15967,7 +17813,9 @@
     "explanation": "Den afrikanska elefanten är världens största landdjur.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 925,
@@ -15984,7 +17832,9 @@
     "explanation": "Blåvalen är världens största nu levande djur.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 926,
@@ -16001,7 +17851,9 @@
     "explanation": "Fladdermöss är de enda däggdjuren med aktiv flygförmåga.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 927,
@@ -16018,7 +17870,9 @@
     "explanation": "Zebran känns igen på sina svarta och vita ränder.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 928,
@@ -16035,7 +17889,9 @@
     "explanation": "Strutsen är världens största nu levande fågel.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 929,
@@ -16052,7 +17908,9 @@
     "explanation": "Kolibrier kan flyga baklänges.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 930,
@@ -16069,7 +17927,9 @@
     "explanation": "Geparden är snabbast på land över korta sträckor.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 931,
@@ -16086,7 +17946,9 @@
     "explanation": "Giraffen har längst hals av alla nu levande djur.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 932,
@@ -16103,7 +17965,9 @@
     "explanation": "Kameleonter kan förändra hudens färg och mönster.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 933,
@@ -16120,7 +17984,9 @@
     "explanation": "Bävrar bygger dammar av trä och växtmaterial.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 934,
@@ -16137,7 +18003,9 @@
     "explanation": "Valhajen är världens största fisk.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 935,
@@ -16154,7 +18022,9 @@
     "explanation": "Noshörningen känns igen på hornet eller hornen på nosen.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 936,
@@ -16171,7 +18041,9 @@
     "explanation": "Fårull används mycket i textilier.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 937,
@@ -16188,7 +18060,9 @@
     "explanation": "Honungsbin producerar honung.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 938,
@@ -16205,7 +18079,9 @@
     "explanation": "Duvan med olivkvist är en klassisk fredssymbol.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 939,
@@ -16222,7 +18098,9 @@
     "explanation": "Kamelen brukar kallas öknens skepp.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 940,
@@ -16239,7 +18117,9 @@
     "explanation": "Bläckfisken har åtta armar.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 941,
@@ -16256,7 +18136,9 @@
     "explanation": "Kängurur är pungdjur och bär ungen i en pung.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 942,
@@ -16273,7 +18155,9 @@
     "explanation": "Tigern är den största nu levande kattarten.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 943,
@@ -16290,7 +18174,9 @@
     "explanation": "Sengångare rör sig mycket långsamt i träden.",
     "tags": [
       "djur"
-    ]
+    ],
+    "pubWeight": 1.35,
+    "quizType": "bredd"
   },
   {
     "id": 944,
@@ -16307,7 +18193,9 @@
     "explanation": "Vatten i gasform kallas vattenånga.",
     "tags": [
       "natur"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 945,
@@ -16324,7 +18212,9 @@
     "explanation": "Växter tar upp koldioxid vid fotosyntesen.",
     "tags": [
       "natur"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 946,
@@ -16341,7 +18231,9 @@
     "explanation": "Ett estuarium är en flodmynning där söt- och saltvatten blandas.",
     "tags": [
       "natur"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 947,
@@ -16358,7 +18250,9 @@
     "explanation": "En atoll är en ringformad korallö.",
     "tags": [
       "natur"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 948,
@@ -16375,7 +18269,9 @@
     "explanation": "Under jordytan kallas smält berg magma.",
     "tags": [
       "natur"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 949,
@@ -16392,7 +18288,9 @@
     "explanation": "När magma når jordytan kallas den lava.",
     "tags": [
       "natur"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 950,
@@ -16409,7 +18307,9 @@
     "explanation": "Cumulonimbus är det klassiska åskmolnet.",
     "tags": [
       "natur"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 951,
@@ -16426,7 +18326,9 @@
     "explanation": "Richterskalan användes för att beskriva jordbävningars magnitud.",
     "tags": [
       "natur"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 952,
@@ -16443,7 +18345,9 @@
     "explanation": "Meteorologi är vetenskapen om väder och atmosfär.",
     "tags": [
       "natur"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 953,
@@ -16460,7 +18364,9 @@
     "explanation": "Ozonlagret finns huvudsakligen i stratosfären.",
     "tags": [
       "natur"
-    ]
+    ],
+    "pubWeight": 1.7,
+    "quizType": "bredd"
   },
   {
     "id": 954,
@@ -16477,7 +18383,9 @@
     "explanation": "Ett skottår har 366 dagar.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 955,
@@ -16494,7 +18402,9 @@
     "explanation": "En timme består av 60 minuter.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 956,
@@ -16511,7 +18421,9 @@
     "explanation": "En rät vinkel är 90 grader.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 957,
@@ -16528,7 +18440,9 @@
     "explanation": "En oktagon har åtta sidor.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 958,
@@ -16545,7 +18459,9 @@
     "explanation": "X betyder 10 med romerska siffror.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 959,
@@ -16562,7 +18478,9 @@
     "explanation": "L betyder 50 med romerska siffror.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 960,
@@ -16579,7 +18497,9 @@
     "explanation": "Blått och gult ger grönt i traditionell färgblandning.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 961,
@@ -16596,7 +18516,9 @@
     "explanation": "Sahara ligger i Afrika.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 962,
@@ -16613,7 +18535,9 @@
     "explanation": "Efter torsdag kommer fredag.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 963,
@@ -16630,7 +18554,9 @@
     "explanation": "Sju månader har 31 dagar.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 964,
@@ -16647,7 +18573,9 @@
     "explanation": "Månen är jordens naturliga satellit.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 965,
@@ -16664,7 +18592,9 @@
     "explanation": "Italienska är huvudspråk i Italien.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 966,
@@ -16681,7 +18611,9 @@
     "explanation": "En person som skriver böcker kallas författare.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 967,
@@ -16698,7 +18630,9 @@
     "explanation": "Temperatur mäts med en termometer.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 968,
@@ -16715,7 +18649,9 @@
     "explanation": "Lufttryck mäts med en barometer.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 969,
@@ -16732,7 +18668,9 @@
     "explanation": "En kompass visar väderstreck.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 970,
@@ -16749,7 +18687,9 @@
     "explanation": "En sådan berättelse kallas myt.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 971,
@@ -16766,7 +18706,9 @@
     "explanation": "Antonym betyder motsatsord.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 972,
@@ -16783,7 +18725,9 @@
     "explanation": "En direkt fråga avslutas normalt med frågetecken.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 973,
@@ -16800,7 +18744,9 @@
     "explanation": "Homonymer är ord med samma form eller ljud men olika betydelse.",
     "tags": [
       "allmänbildning"
-    ]
+    ],
+    "pubWeight": 2.85,
+    "quizType": "klassiker"
   },
   {
     "id": 974,
@@ -16817,7 +18763,9 @@
     "explanation": "Dancing Queen är en låt av ABBA.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 975,
@@ -16834,7 +18782,9 @@
     "explanation": "Purple Rain gavs ut av Prince.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 976,
@@ -16851,7 +18801,9 @@
     "explanation": "Hotel California är en låt av Eagles.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 977,
@@ -16868,7 +18820,9 @@
     "explanation": "Like a Prayer är en låt av Madonna.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 978,
@@ -16885,7 +18839,9 @@
     "explanation": "Every Breath You Take är en låt av The Police.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 979,
@@ -16902,7 +18858,9 @@
     "explanation": "Simba är huvudfiguren i Lejonkungen.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 980,
@@ -16919,7 +18877,9 @@
     "explanation": "Indiana Jones är arkeologen med piska.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 981,
@@ -16936,7 +18896,9 @@
     "explanation": "The Shining utspelar sig på Overlook Hotel.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 982,
@@ -16953,7 +18915,9 @@
     "explanation": "Walter White är huvudfigur i Breaking Bad.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 983,
@@ -16970,7 +18934,9 @@
     "explanation": "Neil Armstrong blev första människan på månen 1969.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 984,
@@ -16987,7 +18953,9 @@
     "explanation": "Winston Churchill ledde Storbritannien under större delen av kriget.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 985,
@@ -17004,7 +18972,9 @@
     "explanation": "Den viktorianska eran är uppkallad efter drottning Victoria.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 986,
@@ -17021,7 +18991,9 @@
     "explanation": "Konstantinopel var huvudstad i Bysantinska riket.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 987,
@@ -17038,7 +19010,9 @@
     "explanation": "Lenin var den centrala ledaren för bolsjevikerna 1917.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 988,
@@ -17055,7 +19029,9 @@
     "explanation": "Ryssland är världens största land till ytan.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 989,
@@ -17072,7 +19048,9 @@
     "explanation": "Asien är världens största kontinent.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 990,
@@ -17089,7 +19067,9 @@
     "explanation": "Turkiet ligger på båda kontinenterna.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 991,
@@ -17106,7 +19086,9 @@
     "explanation": "Istanbul ligger vid Bosporen.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 992,
@@ -17123,7 +19105,9 @@
     "explanation": "Ljubljana är Sloveniens huvudstad.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 993,
@@ -17140,7 +19124,9 @@
     "explanation": "Teneriffa tillhör Kanarieöarna.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 994,
@@ -17157,7 +19143,9 @@
     "explanation": "H2O är vatten.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 995,
@@ -17174,7 +19162,9 @@
     "explanation": "Människan andas ut koldioxid som restprodukt från cellandningen.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 996,
@@ -17191,7 +19181,9 @@
     "explanation": "Röda blodkroppar kallas erytrocyter.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 997,
@@ -17208,7 +19200,9 @@
     "explanation": "Vita blodkroppar kallas leukocyter.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 998,
@@ -17225,7 +19219,9 @@
     "explanation": "Guacamole har avokado som huvudråvara.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.15,
+    "quizType": "klassiker"
   },
   {
     "id": 999,
@@ -17242,7 +19238,9 @@
     "explanation": "En mimosa görs av mousserande vin och apelsinjuice.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   },
   {
     "id": 1000,
@@ -17259,6 +19257,8 @@
     "explanation": "En traditionell regnbåge beskrivs med sju färger.",
     "tags": [
       "pubquizklassiker"
-    ]
+    ],
+    "pubWeight": 4.5,
+    "quizType": "klassiker"
   }
 ]

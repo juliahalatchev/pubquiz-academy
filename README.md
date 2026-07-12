@@ -1,19 +1,21 @@
-# Pubquiz Academy 0.5 · Design Edition
+# Pubquiz Academy 0.6 · Bishops Intelligence
 
 ## Nytt
-- Total redesign med mindre visuellt brus
-- Renare startsida med fyra tydliga spellägen
-- Ny frågevy med bättre läsbarhet
-- Flow-läge: nästa fråga kommer automatiskt efter 1,5 sekunder
-- Diskret vibration vid rätt och fel på kompatibla mobiler
-- Resultat visas i procent
-- Samma 1 000 frågor och smarta statistik som tidigare
+- Bishops Intelligence med 30 frågor i tre rundor
+- Balanserad kategorimix och stigande svårighetsgrad
+- Frågor viktas efter pubquizvärde
+- Smart träning utifrån svaga kategorier, felsvar och sedda frågor
+- Sista minuten med 12 högvärdiga frågor
+- Pubklassiker med återkommande frågetyper
+- Intelligence-rapport efter rundan
+- Statistik från version 0.5 migreras automatiskt
+- Samma rena Design Edition-gränssnitt
 
 ## Uppdatera med GitHub Desktop
 1. Packa upp ZIP-filen.
 2. Kopiera alla filer till din lokala mapp `pubquiz-academy`.
 3. Välj Ersätt.
 4. Öppna GitHub Desktop.
-5. Skriv `Version 0.5 - Design Edition`.
+5. Skriv `Version 0.6 - Bishops Intelligence`.
 6. Klicka `Commit to main`.
 7. Klicka `Push origin`.
